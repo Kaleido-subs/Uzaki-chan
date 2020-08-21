@@ -437,7 +437,7 @@ Dialogue: 10,0:15:08.05,0:15:10.59,Default,,0,0,0,,{\i1}What's that moron doing?
 Dialogue: 10,0:15:14.14,0:15:15.85,Default,,0,0,0,,{\i1}What are you staring at?
 Dialogue: 10,0:15:30.61,0:15:32.91,Default,,0,0,0,,{\i1}For real, what's up with that moron?
 Dialogue: 10,0:15:32.91,0:15:34.53,Default,,0,0,0,,{\i1}I just don't get it.
-Dialogue: 10,0:15:40.83,0:15:43.46,Default,,0,0,0,,{\i1}And why is that any concern of hers?{"why is she corcerned on such a thing?" he is more like talking about her weird worries, like he'd be out of place etc}{## That's what this gets across}
+Dialogue: 10,0:15:40.83,0:15:43.46,Default,,0,0,0,,{\i1}And what's up with her unfounded concern?{"why is she corcerned on such a thing?" he is more like talking about her weird worries, like he'd be out of place etc}{## That's what this gets across}
 Dialogue: 10,0:16:25.00,0:16:28.34,Default,,0,0,0,,Your noodles are getting soggy, Hana.
 Dialogue: 10,0:16:31.13,0:16:33.72,Default,,0,0,0,,You shouldn't be staring at \Nyour phone while eating.
 Dialogue: 10,0:16:34.43,0:16:35.39,Default,,0,0,0,,Uh-huh.
