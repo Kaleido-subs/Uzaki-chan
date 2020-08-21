@@ -19,11 +19,14 @@ subs {
         }
 
         if (file(get("OP")).exists()) {
-            from(get("OP"))
+            from(get("OP")) { 
+                syncTo(getAs<Duration>("opsync")) }
         }
 
         if (file(get("ED")).exists()) {
-            from(get("ED"))
+            from(get("ED")) {
+                syncTo(getAs<Duration>("edsync"))
+            }
         }
 
         if (file(get("IS")).exists()) {
