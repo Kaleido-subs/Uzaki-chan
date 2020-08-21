@@ -205,53 +205,53 @@ Dialogue: 1,0:14:00.19,0:14:09.58,Sign,,0,0,0,,{\pos(1107.343,286.296)\fscx80\fr
 Dialogue: 0,0:18:15.86,0:18:19.37,Sign,,0,0,0,,{\pos(709,503)\frz-1.55\fax0.5\fnBrush Strokes\b0\c&H7A6C6E&\blur0.8}TANEDA RAMEN
 Comment: 0,0:22:13.77,0:22:17.77,Sign,,0,0,0,,{diagonal} Asia {box} Cafe
 Comment: 0,0:22:22.02,0:22:26.28,Sign,,0,0,0,,Pedestrians Only
-Dialogue: 0,0:23:35.18,0:23:35.22,Sign,,0,0,0,,{\pos(340.17,136.29)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\1a&HFF&\3a&HBF&\blur0.6}Epi
-Dialogue: 1,0:23:35.18,0:23:35.22,Sign,,0,0,0,,{\pos(340.17,136.29)\fnBubblegum Sans\fs115\c&HB6D371&\1a&HBF&\3a&HBF&\4a&HFF&\blur0.6}Epi
-Dialogue: 0,0:23:35.22,0:23:35.26,Sign,,0,0,0,,{\pos(336.84,215.94)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\1a&HFF&\3a&H54&\blur0.6}Epi
-Dialogue: 1,0:23:35.22,0:23:35.26,Sign,,0,0,0,,{\pos(336.84,215.94)\fnBubblegum Sans\fs115\c&HB6D371&\1a&H54&\3a&H54&\4a&HFF&\blur0.6}Epi
-Dialogue: 0,0:23:35.26,0:23:35.31,Sign,,0,0,0,,{\pos(333.07,302.64)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\blur0.6}Epi
-Dialogue: 1,0:23:35.26,0:23:35.31,Sign,,0,0,0,,{\pos(333.07,302.64)\fnBubblegum Sans\fs115\c&HB6D371&\4a&HFF&\blur0.6}Epi
-Dialogue: 0,0:23:35.31,0:23:35.35,Sign,,0,0,0,,{\pos(335.35,313.26)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\blur0.6}Epi
-Dialogue: 1,0:23:35.31,0:23:35.35,Sign,,0,0,0,,{\pos(335.35,313.26)\fnBubblegum Sans\fs115\c&HB6D371&\4a&HFF&\blur0.6}Epi
-Dialogue: 0,0:23:35.35,0:23:35.39,Sign,,0,0,0,,{\pos(334.07,303.09)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\blur0.6}Epi
-Dialogue: 1,0:23:35.35,0:23:35.39,Sign,,0,0,0,,{\pos(334.07,303.09)\fnBubblegum Sans\fs115\c&HB6D371&\4a&HFF&\blur0.6}Epi
-Dialogue: 0,0:23:35.39,0:23:35.43,Sign,,0,0,0,,{\pos(333.98,288.67)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\blur0.6}Epi
-Dialogue: 1,0:23:35.39,0:23:35.43,Sign,,0,0,0,,{\pos(333.98,288.67)\fnBubblegum Sans\fs115\c&HB6D371&\4a&HFF&\blur0.6}Epi
-Dialogue: 0,0:23:35.43,0:23:35.47,Sign,,0,0,0,,{\pos(333.81,288.79)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\blur0.6}Epi
-Dialogue: 1,0:23:35.43,0:23:35.47,Sign,,0,0,0,,{\pos(333.81,288.79)\fnBubblegum Sans\fs115\c&HB6D371&\4a&HFF&\blur0.6}Epi
-Dialogue: 0,0:23:35.47,0:23:35.51,Sign,,0,0,0,,{\pos(333.72,288.8)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\blur0.6}Epi
-Dialogue: 1,0:23:35.47,0:23:35.51,Sign,,0,0,0,,{\pos(333.72,288.8)\fnBubblegum Sans\fs115\c&HB6D371&\4a&HFF&\blur0.6}Epi
-Dialogue: 0,0:23:35.51,0:23:35.56,Sign,,0,0,0,,{\pos(333.6,288.8)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\blur0.6}Epi
-Dialogue: 1,0:23:35.51,0:23:35.56,Sign,,0,0,0,,{\pos(333.6,288.8)\fnBubblegum Sans\fs115\c&HB6D371&\4a&HFF&\blur0.6}Epi
-Dialogue: 0,0:23:35.26,0:23:35.31,Sign,,0,0,0,,{\pos(472.88,150.08)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\1a&HFF&\3a&HC2&\blur0.6}sode
-Dialogue: 1,0:23:35.26,0:23:35.31,Sign,,0,0,0,,{\pos(472.88,150.08)\fnBubblegum Sans\fs115\c&HB6D371&\1a&HC2&\3a&HC2&\4a&HFF&\blur0.6}sode
-Dialogue: 0,0:23:35.31,0:23:35.35,Sign,,0,0,0,,{\pos(475.32,228.59)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\1a&HFF&\3a&H3D&\blur0.6}sode
-Dialogue: 1,0:23:35.31,0:23:35.35,Sign,,0,0,0,,{\pos(475.32,228.59)\fnBubblegum Sans\fs115\c&HB6D371&\1a&H3D&\3a&H3D&\4a&HFF&\blur0.6}sode
-Dialogue: 0,0:23:35.35,0:23:35.39,Sign,,0,0,0,,{\pos(474.75,331.51)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\blur0.6}sode
-Dialogue: 1,0:23:35.35,0:23:35.39,Sign,,0,0,0,,{\pos(474.75,331.51)\fnBubblegum Sans\fs115\c&HB6D371&\4a&HFF&\blur0.6}sode
-Dialogue: 0,0:23:35.39,0:23:35.43,Sign,,0,0,0,,{\pos(474.7,340.37)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\blur0.6}sode
-Dialogue: 1,0:23:35.39,0:23:35.43,Sign,,0,0,0,,{\pos(474.7,340.37)\fnBubblegum Sans\fs115\c&HB6D371&\4a&HFF&\blur0.6}sode
-Dialogue: 0,0:23:35.43,0:23:35.47,Sign,,0,0,0,,{\pos(477.79,320.92)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\blur0.6}sode
-Dialogue: 1,0:23:35.43,0:23:35.47,Sign,,0,0,0,,{\pos(477.79,320.92)\fnBubblegum Sans\fs115\c&HB6D371&\4a&HFF&\blur0.6}sode
-Dialogue: 0,0:23:35.47,0:23:35.56,Sign,,0,0,0,,{\pos(479.8,288.8)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\blur0.6}sode
-Dialogue: 1,0:23:35.47,0:23:35.56,Sign,,0,0,0,,{\pos(479.8,288.8)\fnBubblegum Sans\fs115\c&HB6D371&\4a&HFF&\blur0.6}sode
-Dialogue: 0,0:23:35.35,0:23:35.39,Sign,,0,0,0,,{\pos(613.44,137.16)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\1a&HFF&\3a&HC1&\blur0.6}2
-Dialogue: 1,0:23:35.35,0:23:35.39,Sign,,0,0,0,,{\pos(613.44,137.16)\fnBubblegum Sans\fs115\c&HE08382&\1a&HC1&\3a&HC1&\4a&HFF&\blur0.6}2
-Dialogue: 0,0:23:35.39,0:23:35.43,Sign,,0,0,0,,{\pos(613.45,219.13)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\1a&HFF&\3a&H4A&\blur0.6}2
-Dialogue: 1,0:23:35.39,0:23:35.43,Sign,,0,0,0,,{\pos(613.45,219.13)\fnBubblegum Sans\fs115\c&HE08382&\1a&H4A&\3a&H4A&\4a&HFF&\blur0.6}2
-Dialogue: 0,0:23:35.43,0:23:35.47,Sign,,0,0,0,,{\pos(608.63,301.14)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\blur0.6}2
-Dialogue: 1,0:23:35.43,0:23:35.47,Sign,,0,0,0,,{\pos(608.63,301.14)\fnBubblegum Sans\fs115\c&HE08382&\4a&HFF&\blur0.6}2
-Dialogue: 0,0:23:35.47,0:23:35.51,Sign,,0,0,0,,{\pos(611.21,314.84)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\blur0.6}2
-Dialogue: 1,0:23:35.47,0:23:35.51,Sign,,0,0,0,,{\pos(611.21,314.84)\fnBubblegum Sans\fs115\c&HE08382&\4a&HFF&\blur0.6}2
-Dialogue: 0,0:23:35.51,0:23:35.56,Sign,,0,0,0,,{\pos(612.1,304.8)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\blur0.6}2
-Dialogue: 1,0:23:35.51,0:23:35.56,Sign,,0,0,0,,{\pos(612.1,304.8)\fnBubblegum Sans\fs115\c&HE08382&\4a&HFF&\blur0.6}2
-Dialogue: 0,0:23:35.56,0:23:39.89,Sign,,0,0,0,,{\pos(456,288.8)\fnBubblegum Sans\fs115\bord5\3c&HFFFFFF&\blur0.6}Episode 2
-Dialogue: 1,0:23:35.56,0:23:39.89,Sign,,0,0,0,,{\pos(456,288.8)\fnBubblegum Sans\fs115\c&HB6D371&\4a&HFF&\blur0.6}Episode {\c&HE08382&}2
-Dialogue: 0,0:23:35.47,0:23:35.60,Sign,,0,0,0,,{\pos(676,661.6)\fnBubblegum Sans\fs115\bord5\c&HFDFDFC&\3c&HFDFDFC&\1a&HFF&\3a&HFF&\blur0.6\t(\3a&H00&)}Mr. Manager
-Dialogue: 1,0:23:35.47,0:23:35.60,Sign,,0,0,0,,{\pos(676,661.6)\fnBubblegum Sans\fs115\c&HE08382&\1a&HFF&\3a&HFF&\4a&HFF&\blur0.6\t(\1a&H00&\3a&H00&)}Mr. Manager
-Dialogue: 0,0:23:35.60,0:23:39.89,Sign,,0,0,0,,{\pos(676,661.6)\fnBubblegum Sans\fs115\bord5\c&HFDFDFC&\3c&HFDFDFC&\1a&HFF&\blur0.6}Mr. Manager
-Dialogue: 1,0:23:35.60,0:23:39.89,Sign,,0,0,0,,{\pos(676,661.6)\fnBubblegum Sans\fs115\c&HE08382&\4a&HFF&\blur0.6}Mr. Manager
-Dialogue: 0,0:23:35.68,0:23:35.81,Sign,,0,0,0,,{\pos(1129.6,789.6)\fnBubblegum Sans\fs115\bord5\c&HFDFDFC&\3c&HFDFDFC&\1a&HFF&\3a&HFF&\blur0.6\t(\3a&H00&)}Wants to Sneak a Peek!
-Dialogue: 1,0:23:35.68,0:23:35.81,Sign,,0,0,0,,{\pos(1129.6,789.6)\fnBubblegum Sans\fs115\c&HE08382&\1a&HFF&\3a&HFF&\4a&HFF&\blur0.6\t(\1a&H00&\3a&H00&)}Wants to {\c&HB6D371&}Sneak{\c&HE08382&} a Peek!
-Dialogue: 0,0:23:35.81,0:23:39.89,Sign,,0,0,0,,{\pos(1129.6,789.6)\fnBubblegum Sans\fs115\bord5\c&HFDFDFC&\3c&HFDFDFC&\1a&HFF&\blur0.6}Wants to Sneak a Peek!
-Dialogue: 1,0:23:35.81,0:23:39.89,Sign,,0,0,0,,{\pos(1129.6,789.6)\fnBubblegum Sans\fs115\c&HE08382&\4a&HFF&\blur0.6}Wants to {\c&HB6D371&}Sneak{\c&HE08382&} a Peek!
+Dialogue: 0,0:23:35.18,0:23:35.22,Titles,,0,0,0,,{\pos(340.17,136.29)\bord5\c&HFFFFFF&\3c&HFFFFFF&\1a&HFF&\3a&HBF&\blur0.6}Epi
+Dialogue: 1,0:23:35.18,0:23:35.22,Titles,,0,0,0,,{\pos(340.17,136.29)\c&HB6D371&\1a&HBF&\3a&HBF&\4a&HFF&\blur0.6}Epi
+Dialogue: 0,0:23:35.22,0:23:35.26,Titles,,0,0,0,,{\pos(336.84,215.94)\bord5\c&HFFFFFF&\3c&HFFFFFF&\1a&HFF&\3a&H54&\blur0.6}Epi
+Dialogue: 1,0:23:35.22,0:23:35.26,Titles,,0,0,0,,{\pos(336.84,215.94)\c&HB6D371&\1a&H54&\3a&H54&\4a&HFF&\blur0.6}Epi
+Dialogue: 0,0:23:35.26,0:23:35.31,Titles,,0,0,0,,{\pos(333.07,302.64)\bord5\c&HFFFFFF&\3c&HFFFFFF&\blur0.6}Epi
+Dialogue: 1,0:23:35.26,0:23:35.31,Titles,,0,0,0,,{\pos(333.07,302.64)\c&HB6D371&\4a&HFF&\blur0.6}Epi
+Dialogue: 0,0:23:35.31,0:23:35.35,Titles,,0,0,0,,{\pos(335.35,313.26)\bord5\c&HFFFFFF&\3c&HFFFFFF&\blur0.6}Epi
+Dialogue: 1,0:23:35.31,0:23:35.35,Titles,,0,0,0,,{\pos(335.35,313.26)\c&HB6D371&\4a&HFF&\blur0.6}Epi
+Dialogue: 0,0:23:35.35,0:23:35.39,Titles,,0,0,0,,{\pos(334.07,303.09)\bord5\c&HFFFFFF&\3c&HFFFFFF&\blur0.6}Epi
+Dialogue: 1,0:23:35.35,0:23:35.39,Titles,,0,0,0,,{\pos(334.07,303.09)\c&HB6D371&\4a&HFF&\blur0.6}Epi
+Dialogue: 0,0:23:35.39,0:23:35.43,Titles,,0,0,0,,{\pos(333.98,288.67)\bord5\c&HFFFFFF&\3c&HFFFFFF&\blur0.6}Epi
+Dialogue: 1,0:23:35.39,0:23:35.43,Titles,,0,0,0,,{\pos(333.98,288.67)\c&HB6D371&\4a&HFF&\blur0.6}Epi
+Dialogue: 0,0:23:35.43,0:23:35.47,Titles,,0,0,0,,{\pos(333.81,288.79)\bord5\c&HFFFFFF&\3c&HFFFFFF&\blur0.6}Epi
+Dialogue: 1,0:23:35.43,0:23:35.47,Titles,,0,0,0,,{\pos(333.81,288.79)\c&HB6D371&\4a&HFF&\blur0.6}Epi
+Dialogue: 0,0:23:35.47,0:23:35.51,Titles,,0,0,0,,{\pos(333.72,288.8)\bord5\c&HFFFFFF&\3c&HFFFFFF&\blur0.6}Epi
+Dialogue: 1,0:23:35.47,0:23:35.51,Titles,,0,0,0,,{\pos(333.72,288.8)\c&HB6D371&\4a&HFF&\blur0.6}Epi
+Dialogue: 0,0:23:35.51,0:23:35.56,Titles,,0,0,0,,{\pos(333.6,288.8)\bord5\c&HFFFFFF&\3c&HFFFFFF&\blur0.6}Epi
+Dialogue: 1,0:23:35.51,0:23:35.56,Titles,,0,0,0,,{\pos(333.6,288.8)\c&HB6D371&\4a&HFF&\blur0.6}Epi
+Dialogue: 0,0:23:35.26,0:23:35.31,Titles,,0,0,0,,{\pos(472.88,150.08)\bord5\c&HFFFFFF&\3c&HFFFFFF&\1a&HFF&\3a&HC2&\blur0.6}sode
+Dialogue: 1,0:23:35.26,0:23:35.31,Titles,,0,0,0,,{\pos(472.88,150.08)\c&HB6D371&\1a&HC2&\3a&HC2&\4a&HFF&\blur0.6}sode
+Dialogue: 0,0:23:35.31,0:23:35.35,Titles,,0,0,0,,{\pos(475.32,228.59)\bord5\c&HFFFFFF&\3c&HFFFFFF&\1a&HFF&\3a&H3D&\blur0.6}sode
+Dialogue: 1,0:23:35.31,0:23:35.35,Titles,,0,0,0,,{\pos(475.32,228.59)\c&HB6D371&\1a&H3D&\3a&H3D&\4a&HFF&\blur0.6}sode
+Dialogue: 0,0:23:35.35,0:23:35.39,Titles,,0,0,0,,{\pos(474.75,331.51)\bord5\c&HFFFFFF&\3c&HFFFFFF&\blur0.6}sode
+Dialogue: 1,0:23:35.35,0:23:35.39,Titles,,0,0,0,,{\pos(474.75,331.51)\c&HB6D371&\4a&HFF&\blur0.6}sode
+Dialogue: 0,0:23:35.39,0:23:35.43,Titles,,0,0,0,,{\pos(474.7,340.37)\bord5\c&HFFFFFF&\3c&HFFFFFF&\blur0.6}sode
+Dialogue: 1,0:23:35.39,0:23:35.43,Titles,,0,0,0,,{\pos(474.7,340.37)\c&HB6D371&\4a&HFF&\blur0.6}sode
+Dialogue: 0,0:23:35.43,0:23:35.47,Titles,,0,0,0,,{\pos(477.79,320.92)\bord5\c&HFFFFFF&\3c&HFFFFFF&\blur0.6}sode
+Dialogue: 1,0:23:35.43,0:23:35.47,Titles,,0,0,0,,{\pos(477.79,320.92)\c&HB6D371&\4a&HFF&\blur0.6}sode
+Dialogue: 0,0:23:35.47,0:23:35.56,Titles,,0,0,0,,{\pos(479.8,288.8)\bord5\c&HFFFFFF&\3c&HFFFFFF&\blur0.6}sode
+Dialogue: 1,0:23:35.47,0:23:35.56,Titles,,0,0,0,,{\pos(479.8,288.8)\c&HB6D371&\4a&HFF&\blur0.6}sode
+Dialogue: 0,0:23:35.35,0:23:35.39,Titles,,0,0,0,,{\pos(613.44,137.16)\bord5\c&HFFFFFF&\3c&HFFFFFF&\1a&HFF&\3a&HC1&\blur0.6}2
+Dialogue: 1,0:23:35.35,0:23:35.39,Titles,,0,0,0,,{\pos(613.44,137.16)\c&HE08382&\1a&HC1&\3a&HC1&\4a&HFF&\blur0.6}2
+Dialogue: 0,0:23:35.39,0:23:35.43,Titles,,0,0,0,,{\pos(613.45,219.13)\bord5\c&HFFFFFF&\3c&HFFFFFF&\1a&HFF&\3a&H4A&\blur0.6}2
+Dialogue: 1,0:23:35.39,0:23:35.43,Titles,,0,0,0,,{\pos(613.45,219.13)\c&HE08382&\1a&H4A&\3a&H4A&\4a&HFF&\blur0.6}2
+Dialogue: 0,0:23:35.43,0:23:35.47,Titles,,0,0,0,,{\pos(608.63,301.14)\bord5\c&HFFFFFF&\3c&HFFFFFF&\blur0.6}2
+Dialogue: 1,0:23:35.43,0:23:35.47,Titles,,0,0,0,,{\pos(608.63,301.14)\c&HE08382&\4a&HFF&\blur0.6}2
+Dialogue: 0,0:23:35.47,0:23:35.51,Titles,,0,0,0,,{\pos(611.21,314.84)\bord5\c&HFFFFFF&\3c&HFFFFFF&\blur0.6}2
+Dialogue: 1,0:23:35.47,0:23:35.51,Titles,,0,0,0,,{\pos(611.21,314.84)\c&HE08382&\4a&HFF&\blur0.6}2
+Dialogue: 0,0:23:35.51,0:23:35.56,Titles,,0,0,0,,{\pos(612.1,304.8)\bord5\c&HFFFFFF&\3c&HFFFFFF&\blur0.6}2
+Dialogue: 1,0:23:35.51,0:23:35.56,Titles,,0,0,0,,{\pos(612.1,304.8)\c&HE08382&\4a&HFF&\blur0.6}2
+Dialogue: 0,0:23:35.56,0:23:39.89,Titles,,0,0,0,,{\pos(456,288.8)\bord5\3c&HFFFFFF&\blur0.6\c&HFFFFFF&}Episode 2
+Dialogue: 1,0:23:35.56,0:23:39.89,Titles,,0,0,0,,{\pos(456,288.8)\c&HB6D371&\4a&HFF&\blur0.6}Episode {\c&HE08382&}2
+Dialogue: 0,0:23:35.47,0:23:35.60,Titles,,0,0,0,,{\pos(676,661.6)\bord5\c&HFDFDFC&\3c&HFDFDFC&\1a&HFF&\3a&HFF&\blur0.6\t(\3a&H00&)}Mr. Manager
+Dialogue: 1,0:23:35.47,0:23:35.60,Titles,,0,0,0,,{\pos(676,661.6)\c&HE08382&\1a&HFF&\3a&HFF&\4a&HFF&\blur0.6\t(\1a&H00&\3a&H00&)}Mr. Manager
+Dialogue: 0,0:23:35.60,0:23:39.89,Titles,,0,0,0,,{\pos(676,661.6)\bord5\c&HFDFDFC&\3c&HFDFDFC&\blur0.6}Mr. Manager
+Dialogue: 1,0:23:35.60,0:23:39.89,Titles,,0,0,0,,{\pos(676,661.6)\c&HE08382&\4a&HFF&\blur0.6}Mr. Manager
+Dialogue: 0,0:23:35.68,0:23:35.81,Titles,,0,0,0,,{\pos(1129.6,789.6)\bord5\c&HFDFDFC&\3c&HFDFDFC&\1a&HFF&\3a&HFF&\blur0.6\t(\3a&H00&)}Wants to Sneak a Peek!
+Dialogue: 1,0:23:35.68,0:23:35.81,Titles,,0,0,0,,{\pos(1129.6,789.6)\c&HE08382&\1a&HFF&\3a&HFF&\4a&HFF&\blur0.6\t(\1a&H00&\3a&H00&)}Wants to {\c&HB6D371&}Sneak{\c&HE08382&} a Peek!
+Dialogue: 0,0:23:35.81,0:23:39.89,Titles,,0,0,0,,{\pos(1129.6,789.6)\bord5\c&HFDFDFC&\3c&HFDFDFC&\blur0.6}Wants to Sneak a Peek!
+Dialogue: 1,0:23:35.81,0:23:39.89,Titles,,0,0,0,,{\pos(1129.6,789.6)\c&HE08382&\4a&HFF&\blur0.6}Wants to {\c&HB6D371&}Sneak{\c&HE08382&} a Peek!
