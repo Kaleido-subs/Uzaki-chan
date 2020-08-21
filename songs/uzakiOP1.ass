@@ -29,7 +29,7 @@ Style: ED1 - ENG,FOT-TsukuARdGothic Std E,69,&H00FAFAFA,&H000019FF,&H00140100,&H
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 5,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,sync,{sync}
+Comment: 5,0:00:00.00,0:00:00.00,OP1 - ENG,sync,0,0,0,,{sync}
 Comment: 5,0:00:00.00,0:00:04.06,OP1 - ENG,,0,0,0,,{\blur0.7\bord0}You think I want to be asked to hang out with you?
 Comment: 5,0:00:04.06,0:00:07.86,OP1 - ENG,,0,0,0,,{\blur0.7\bord0}No, no! I've never even thought about it once!
 Comment: 5,0:00:07.86,0:00:09.40,OP1 - ENG,,0,0,0,,{\blur0.7\bord0}I'm only subtly ushering you

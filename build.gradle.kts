@@ -2,6 +2,7 @@
 import myaa.subkt.tasks.*
 import myaa.subkt.tasks.Mux.*
 import myaa.subkt.tasks.Nyaa.*
+import myaa.subkt.ass.EventLineAccessor
 import java.awt.Color
 import java.time.*
 
@@ -20,11 +21,13 @@ subs {
 
         if (file(get("OP")).exists()) {
             from(get("OP")) { 
+                syncField(EventLineAccessor.ACTOR)
                 syncTo(getAs<Duration>("opsync")) }
         }
 
         if (file(get("ED")).exists()) {
             from(get("ED")) {
+                syncField(EventLineAccessor.ACTOR)
                 syncTo(getAs<Duration>("edsync"))
             }
         }
