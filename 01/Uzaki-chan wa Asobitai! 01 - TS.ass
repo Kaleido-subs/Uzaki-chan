@@ -57,18 +57,18 @@ Dialogue: 0,0:02:43.22,0:02:43.72,Sign,,0,0,0,,{\an7\pos(552.267,851.2)\fnCabin\
 Dialogue: 2,0:02:43.72,0:02:49.98,Sign,,0,0,0,,{\pos(552.267,851.2)\fnCabin\fs50\b0\c&H010102&\blur0.5}Hana Uzaki: 19-year-old college sophomore
 Dialogue: 1,0:02:43.72,0:02:49.98,Sign,,0,0,0,,{\an7\pos(552.267,851.2)\fnCabin\fs50\b0\bord3\3c&H3C3D39&\1a&H47&\blur0.5\p1}m -391 -27 l 391 -27 391 27 -391 27
 Dialogue: 0,0:02:43.72,0:02:49.98,Sign,,0,0,0,,{\an7\pos(552.267,851.2)\fnCabin\fs50\b0\yshad5\3c&H3C3D39&\1a&HFE&\4a&H4A&\blur3\clip(154,878,949,891)\p1}m -391 -27 l 391 -27 391 27 -391 27
-Dialogue: 0,0:04:20.36,0:04:20.82,Sign,,0,0,0,,{\pos(459,289)\fnBubblegum Sans\fs115\b0\bord5\3c&HFFFFFF&\1a&HFF&\3a&HFF&\4a&HFF&\blur0.8\t(\1a&H00&\3a&H00&\4a&H00&)}Episode 1
-Dialogue: 1,0:04:20.36,0:04:20.82,Sign,,0,0,0,,{\pos(459,289)\fnBubblegum Sans\fs115\b0\c&HAD5FF1&\1a&HFF&\3a&HFF&\4a&HFF&\blur0.8\t(\1a&H00&\3a&H00&)}Episode {\c&HE48232&}1
-Dialogue: 0,0:04:20.36,0:04:20.82,Sign,,0,0,0,,{\pos(981,650)\fnBubblegum Sans\fs115\b0\bord5\3c&HFFFFFF&\1a&HFF&\3a&HFF&\4a&HFF&\blur0.8\t(\1a&H00&\3a&H00&\4a&H00&)}Uza{\1a&HFF&\3a&HFF&\4a&HFF&}ki{\t(\1a&H00&\3a&H00&\4a&H00&)} Wants to {\1a&HFF&\3a&HFF&\4a&HFF&}Hang {\t(\1a&H00&\3a&H00&\4a&H00&)}Out!
-Dialogue: 1,0:04:20.36,0:04:20.82,Sign,,0,0,0,,{\pos(981,650)\fnBubblegum Sans\fs115\b0\c&HAA5BEF&\1a&HFF&\3a&HFF&\4a&HFF&\blur0.8\t(\1a&H00&\3a&H00&)}Uza{\c&HE27E31&\1a&HFF&\3a&HFF&}ki{\t(\1a&H00&\3a&H00&\4a&H00&)} {\c&HAA5BEF&}Wants to {\c&HDF7A2E&\1a&HFF&\3a&HFF&\4a&HFF&}Hang {\c&HAA5BEF&\t(\1a&H00&\3a&H00&\4a&H00&)}Out!
-Dialogue: 0,0:04:20.36,0:04:20.82,Sign,,0,0,0,,{\pos(981,650)\fnBubblegum Sans\fs115\b0\bord5\3c&HFFFFFF&\1a&HFF&\3a&HFF&\4a&HFF&\blur0.8\clip(632,597,660,688)\t(\clip(632,597,731,688))}Uza{\1a&H00&\3a&H00&\4a&H00&}ki{\1a&HFF&\3a&HFF&\4a&HFF&} Wants to Hang Out!
-Dialogue: 1,0:04:20.36,0:04:20.82,Sign,,0,0,0,,{\pos(981,650)\fnBubblegum Sans\fs115\b0\c&HAA5BEF&\1a&HFF&\3a&HFF&\4a&HFF&\blur0.8\clip(632,597,660,688)\t(\clip(632,597,731,688))}Uza{\c&HE27E31&\1a&H00&\3a&H00&\4a&H00&}ki{\1a&HFF&\3a&HFF&\4a&HFF&} Wants to Hang Out!
-Dialogue: 0,0:04:20.36,0:04:20.82,Sign,,0,0,0,,{\pos(981,650)\fnBubblegum Sans\fs115\b0\bord5\3c&HFFFFFF&\1a&HFF&\3a&HFF&\4a&HFF&\blur0.8\clip(1047,596,1059,717)\t(\clip(1057,596,1310,717))}Uzaki Wants to {\1a&H00&\3a&H00&\4a&H00&}Hang {\1a&HFF&\3a&HFF&\4a&HFF&}Out!
-Dialogue: 1,0:04:20.36,0:04:20.82,Sign,,0,0,0,,{\pos(981,650)\fnBubblegum Sans\fs115\b0\c&HAA5BEF&\1a&HFF&\3a&HFF&\4a&HFF&\blur0.8\clip(1047,596,1059,717)\t(\clip(1057,596,1310,717))}Uzaki Wants to {\c&HDF7A2E&\1a&H00&\3a&H00&\4a&H00&}Hang {\c&HAA5BEF&\1a&HFF&\3a&HFF&\4a&HFF&}Out!
-Dialogue: 0,0:04:20.82,0:04:24.45,Sign,,0,0,0,,{\pos(459,289)\fnBubblegum Sans\fs115\b0\bord5\3c&HFFFFFF&\blur0.8}Episode 1
-Dialogue: 1,0:04:20.82,0:04:24.45,Sign,,0,0,0,,{\pos(459,289)\fnBubblegum Sans\fs115\b0\c&HAD5FF1&\4a&HFF&\blur0.8}Episode {\c&HE48232&}1
-Dialogue: 0,0:04:20.82,0:04:24.45,Sign,,0,0,0,,{\pos(981,650)\fnBubblegum Sans\fs115\b0\bord5\3c&HFFFFFF&\blur0.8}Uzaki Wants to Hang Out!
-Dialogue: 1,0:04:20.82,0:04:24.45,Sign,,0,0,0,,{\pos(981,650)\fnBubblegum Sans\fs115\b0\c&HAA5BEF&\4a&HFF&\blur0.8}Uza{\c&HE27E31&}ki {\c&HAA5BEF&}Wants to {\c&HDF7A2E&}Hang {\c&HAA5BEF&}Out!
+Dialogue: 0,0:04:20.36,0:04:20.82,Titles,,0,0,0,,{\pos(459,289)\b0\bord5\c&HFFFFFF&\3c&HFFFFFF&\1a&HFF&\3a&HFF&\blur0.8\t(\1a&H00&\3a&H00&)}Episode 1
+Dialogue: 1,0:04:20.36,0:04:20.82,Titles,,0,0,0,,{\pos(459,289)\b0\c&HAD5FF1&\1a&HFF&\3a&HFF&\blur0.8\t(\1a&H00&\3a&H00&)}Episode {\c&HE48232&}1
+Dialogue: 0,0:04:20.36,0:04:20.82,Titles,,0,0,0,,{\pos(981,650)\b0\bord5\c&HFFFFFF&\3c&HFFFFFF&\1a&HFF&\3a&HFF&\blur0.8\t(\1a&H00&\3a&H00&)}Uza{\1a&HFF&\3a&HFF&}ki{\t(\1a&H00&\3a&H00&)} Wants to {\1a&HFF&\3a&HFF&}Hang {\t(\1a&H00&\3a&H00&)}Out!
+Dialogue: 1,0:04:20.36,0:04:20.82,Titles,,0,0,0,,{\pos(981,650)\c&HAA5BEF&\1a&HFF&\3a&HFF&\blur0.8\t(\1a&H00&\3a&H00&)}Uza{\c&HE27E31&\1a&HFF&\3a&HFF&}ki{\c&HAA5BEF&\t(\1a&H00&\3a&H00&)} Wants to {\c&HDF7A2E&\1a&HFF&\3a&HFF&}Hang {\c&HAA5BEF&\t(\1a&H00&\3a&H00&)}Out!
+Dialogue: 0,0:04:20.36,0:04:20.82,Titles,,0,0,0,,{\pos(981,650)\b0\bord5\c&HFFFFFF&\3c&HFFFFFF&\1a&HFF&\3a&HFF&\blur0.8\clip(609,597,632,688)\t(\clip(632,597,712,688))}Uza{\1a&H00&\3a&H00&}ki{\1a&HFF&\3a&HFF&} Wants to Hang Out!
+Dialogue: 1,0:04:20.36,0:04:20.82,Titles,,0,0,0,,{\pos(981,650)\b0\c&HAA5BEF&\1a&HFF&\3a&HFF&\blur0.8\clip(609,597,632,688)\t(\clip(632,597,712,688))}Uza{\c&HE27E31&\1a&H00&\3a&H00&}ki{\1a&HFF&\3a&HFF&} Wants to Hang Out!
+Dialogue: 0,0:04:20.36,0:04:20.82,Titles,,0,0,0,,{\pos(981,650)\b0\bord5\c&HFFFFFF&\3c&HFFFFFF&\1a&HFF&\3a&HFF&\blur0.8\clip(1047,596,1059,717)\t(\clip(1057,596,1310,717))}Uzaki Wants to {\1a&H00&\3a&H00&}Hang {\1a&HFF&\3a&HFF&}Out!
+Dialogue: 1,0:04:20.36,0:04:20.82,Titles,,0,0,0,,{\pos(981,650)\b0\c&HAA5BEF&\1a&HFF&\3a&HFF&\blur0.8\clip(1047,596,1059,717)\t(\clip(1057,596,1310,717))}Uzaki Wants to {\c&HDF7A2E&\1a&H00&\3a&H00&}Hang {\c&HAA5BEF&\1a&HFF&\3a&HFF&}Out!
+Dialogue: 0,0:04:20.82,0:04:24.45,Titles,,0,0,0,,{\pos(459,289)\b0\bord5\c&HFFFFFF&\3c&HFFFFFF&\blur0.8}Episode 1
+Dialogue: 1,0:04:20.82,0:04:24.45,Titles,,0,0,0,,{\pos(459,289)\b0\c&HAD5FF1&\4a&HFF&\blur0.8}Episode {\c&HE48232&}1
+Dialogue: 0,0:04:20.82,0:04:24.45,Titles,,0,0,0,,{\pos(981,650)\b0\bord5\c&HFFFFFF&\3c&HFFFFFF&\blur0.8}Uzaki Wants to Hang Out!
+Dialogue: 1,0:04:20.82,0:04:24.45,Titles,,0,0,0,,{\pos(981,650)\b0\c&HAA5BEF&\4a&HFF&\blur0.8}Uza{\c&HE27E31&}ki {\c&HAA5BEF&}Wants to {\c&HDF7A2E&}Hang {\c&HAA5BEF&}Out!
 Dialogue: 1,0:04:28.95,0:04:31.95,Sign,,0,0,0,,{\pos(703.715,65.857)\frz4.1\fax0.02\fs40\c&H88642D&\blur0.8}Schedule Updates
 Dialogue: 0,0:04:28.95,0:04:31.95,Sign,,0,0,0,,{\pos(529.333,105.333)\frz4.455\fax0.04\fs20\c&HFEFBFA&\blur0.8}Faculty
 Dialogue: 0,0:04:28.95,0:04:31.95,Sign,,0,0,0,,{\pos(680.19,95.429)\frz4.455\fax0.04\fs20\c&HFEFCFC&\blur0.8}Status
