@@ -12,7 +12,7 @@ YCbCr Matrix: TV.709
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default (1080p)
-Audio File: uzaki01_premux_v2_Track02.aac
+Audio File: uzaki01_premux_v2.mkv
 Video File: uzaki01_premux_v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
@@ -35,7 +35,7 @@ Dialogue: 0,0:00:34.91,0:00:38.75,Default,,0,0,0,,Now, {\i1}there's{\i0} a sight
 Dialogue: 0,0:00:44.60,0:00:46.20,Default,,0,0,0,,Sakurai!
 Dialogue: 0,0:00:47.33,0:00:48.11,Default,,0,0,0,,Huh?
 Dialogue: 0,0:01:00.66,0:01:03.00,Default,,0,0,0,,Uzaki, right?
-Dialogue: 0,0:01:09.22,0:01:10.37,Default,,0,0,0,,Hana Uzaki!
+Dialogue: 0,0:01:09.22,0:01:10.37,Default,,0,0,0,,Uzaki Hana!
 Dialogue: 0,0:01:10.37,0:01:12.26,Default,,0,0,0,,{\pos(556,1024)}Looks like I'll be \Nyour junior again this year!
 Dialogue: 0,0:01:13.42,0:01:15.51,Default,,0,0,0,,{\pos(556,1024)}Here's to a great year!
 Dialogue: 0,0:01:23.92,0:01:27.52,Default,,0,0,0,,Huh? You won't be swimming in college?
