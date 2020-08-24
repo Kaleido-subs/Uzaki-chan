@@ -383,7 +383,7 @@ Dialogue: 1,0:16:15.87,0:16:15.91,Signs,,0,0,0,,{=147}{\fscx95.97\fscy95.97\an4\
 Dialogue: 1,0:16:15.91,0:16:15.95,Signs,,0,0,0,,{=147}{\fscx99.02\fscy99.02\an4\c&H2A2A2A&\blur0.8\fs110\pos(325.57,758.7)}DON'T BE!
 Dialogue: 1,0:16:15.95,0:16:15.99,Signs,,0,0,0,,{=147}{\fscx100\fscy100\an4\c&H2A2A2A&\blur0.8\fs110\pos(328.57,757.43)}DON'T BE!
 Dialogue: 0,0:16:15.99,0:16:16.95,Signs,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(328.571,757.429)\p1}m -39 -55 l 619 -55 619 61 -39 61
-Dialogue: 0,0:16:15.99,0:16:16.95,Signs,,0,0,0,,{\an4\c&H2A2A2A&\pos(328.571,757.429)\blur0.8\fs100}DON'T BE!
+Dialogue: 0,0:16:15.99,0:16:16.95,Signs,,0,0,0,,{\an4\c&H2A2A2A&\pos(328.571,757.429)\blur0.8\fs110}DON'T BE!
 Dialogue: 0,0:16:16.95,0:16:16.99,Signs,,0,0,0,,{=150}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(328.57,757.43)\p1}m -39 -55 l 619 -55 619 61 -39 61
 Dialogue: 0,0:16:16.99,0:16:17.03,Signs,,0,0,0,,{=150}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(328.57,727.94)\p1}m -39 -55 l 619 -55 619 61 -39 61
 Dialogue: 0,0:16:17.03,0:16:17.08,Signs,,0,0,0,,{=150}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(328.57,639.56)\p1}m -39 -55 l 619 -55 619 61 -39 61
@@ -391,13 +391,13 @@ Dialogue: 0,0:16:17.08,0:16:17.12,Signs,,0,0,0,,{=150}{\an7\blur1\bord0\shad0\fs
 Dialogue: 0,0:16:17.12,0:16:17.16,Signs,,0,0,0,,{=150}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(328.57,338.38)\p1}m -39 -55 l 619 -55 619 61 -39 61
 Dialogue: 0,0:16:17.16,0:16:17.20,Signs,,0,0,0,,{=150}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(328.57,176.28)\p1}m -39 -55 l 619 -55 619 61 -39 61
 Dialogue: 0,0:16:17.20,0:16:17.24,Signs,,0,0,0,,{=150}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(328.57,36.31)\p1}m -39 -55 l 619 -55 619 61 -39 61
-Dialogue: 0,0:16:16.95,0:16:16.99,Signs,,0,0,0,,{=149}{\an4\c&H2A2A2A&\pos(328.57,757.43)\blur0.8\fs100}DON'T BE!
-Dialogue: 0,0:16:16.99,0:16:17.03,Signs,,0,0,0,,{=149}{\an4\c&H2A2A2A&\pos(328.57,727.94)\blur0.8\fs100}DON'T BE!
-Dialogue: 0,0:16:17.03,0:16:17.08,Signs,,0,0,0,,{=149}{\an4\c&H2A2A2A&\pos(328.57,639.56)\blur0.8\fs100}DON'T BE!
-Dialogue: 0,0:16:17.08,0:16:17.12,Signs,,0,0,0,,{=149}{\an4\c&H2A2A2A&\pos(328.57,502.05)\blur0.8\fs100}DON'T BE!
-Dialogue: 0,0:16:17.12,0:16:17.16,Signs,,0,0,0,,{=149}{\an4\c&H2A2A2A&\pos(328.57,338.38)\blur0.8\fs100}DON'T BE!
-Dialogue: 0,0:16:17.16,0:16:17.20,Signs,,0,0,0,,{=149}{\an4\c&H2A2A2A&\pos(328.57,176.28)\blur0.8\fs100}DON'T BE!
-Dialogue: 0,0:16:17.20,0:16:17.24,Signs,,0,0,0,,{=149}{\an4\c&H2A2A2A&\pos(328.57,36.31)\blur0.8\fs100}DON'T BE!
+Dialogue: 0,0:16:16.95,0:16:16.99,Signs,,0,0,0,,{=149}{\an4\c&H2A2A2A&\pos(328.57,757.43)\blur0.8\fs110}DON'T BE!
+Dialogue: 0,0:16:16.99,0:16:17.03,Signs,,0,0,0,,{=149}{\an4\c&H2A2A2A&\pos(328.57,727.94)\blur0.8\fs110}DON'T BE!
+Dialogue: 0,0:16:17.03,0:16:17.08,Signs,,0,0,0,,{=149}{\an4\c&H2A2A2A&\pos(328.57,639.56)\blur0.8\fs110}DON'T BE!
+Dialogue: 0,0:16:17.08,0:16:17.12,Signs,,0,0,0,,{=149}{\an4\c&H2A2A2A&\pos(328.57,502.05)\blur0.8\fs110}DON'T BE!
+Dialogue: 0,0:16:17.12,0:16:17.16,Signs,,0,0,0,,{=149}{\an4\c&H2A2A2A&\pos(328.57,338.38)\blur0.8\fs110}DON'T BE!
+Dialogue: 0,0:16:17.16,0:16:17.20,Signs,,0,0,0,,{=149}{\an4\c&H2A2A2A&\pos(328.57,176.28)\blur0.8\fs110}DON'T BE!
+Dialogue: 0,0:16:17.20,0:16:17.24,Signs,,0,0,0,,{=149}{\an4\c&H2A2A2A&\pos(328.57,36.31)\blur0.8\fs110}DON'T BE!
 Dialogue: 0,0:16:18.70,0:16:18.74,Signs,,0,0,0,,{=165}{\an7\blur1\bord0\shad0\fscx78.75\fscy78.75\pos(948.24,481.87)\p1}m -3 -52 l 772 -52 772 65 -3 65
 Dialogue: 0,0:16:18.74,0:16:18.79,Signs,,0,0,0,,{=165}{\an7\blur1\bord0\shad0\fscx91.2\fscy91.2\pos(964.56,459.07)\p1}m -3 -52 l 772 -52 772 65 -3 65
 Dialogue: 0,0:16:18.79,0:16:18.83,Signs,,0,0,0,,{=165}{\an7\blur1\bord0\shad0\fscx96.22\fscy96.22\pos(971.19,449.85)\p1}m -3 -52 l 772 -52 772 65 -3 65
