@@ -15,19 +15,16 @@ subs {
     episodes(getList("episodes"))
 
     merge {
-        from(get("dialogue")) {
-            incrementLayer(10)
+        from(get("dialogue"))
+
+        if (propertyExists("OP")) {
+            from(get("OP")) {
+                syncTo(getAs<Duration>("opsync"))
+            }
         }
 
-        if (file(get("OP")).exists()) {
-            from(get("OP")) { 
-                syncField(EventLineAccessor.ACTOR)
-                syncTo(getAs<Duration>("opsync")) }
-        }
-
-        if (file(get("ED")).exists()) {
+        if (propertyExists("ED")) {
             from(get("ED")) {
-                syncField(EventLineAccessor.ACTOR)
                 syncTo(getAs<Duration>("edsync"))
             }
         }
@@ -36,7 +33,7 @@ subs {
             from(get("IS"))
         }
 
-        if (file(get("TS")).exists()) {
+        if (propertyExists("TS")) {
             from(get("TS"))
         }
 
@@ -44,7 +41,7 @@ subs {
     }
 
     chapters {
-        from(get("chapters"))
+        from(merge.item())
         chapterMarker("chapter")
     }
 
@@ -57,7 +54,7 @@ subs {
 		from(merge.item()) {
 			tracks {
 				lang("eng")
-                name("Kaleido-subs")
+                name(get("group"))
 				default(true)
 				forced(false)
 				compression(CompressionType.ZLIB)
@@ -71,5 +68,10 @@ subs {
         }
 
         out(get("muxout"))
+    }
+
+    torrent {
+        from(mux.item())
+        out(get("single_ep"))
     }
 }
