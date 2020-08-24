@@ -540,7 +540,7 @@ Dialogue: 10,0:17:22.18,0:17:22.22,Default,,0,0,0,,{\pos(960,1050)\frx180\i1\sha
 Dialogue: 10,0:17:22.22,0:17:22.27,Default,,0,0,0,,{\pos(960,1050)\frx180\i1\shad0\alpha&HD7&\clip(m -41.53 920.53 l 1768.22 1090.62 -19.02 1103.13 -41.53 920.53)}and the soothing aroma of brewing coffee.
 Dialogue: 10,0:17:22.27,0:17:22.31,Default,,0,0,0,,{\pos(960,1050)\frx180\i1\shad0\alpha&HD7&\clip(m -41 920.25 l 1767.75 1090.25 -18.5 1102.75 -41 920.25)}and the soothing aroma of brewing coffee.
 Dialogue: 10,0:17:22.98,0:17:25.56,Default,,0,0,0,,{\i1}It feels like time flows differently here.
-Dialogue: 10,0:17:26.10,0:17:28.36,Default,,0,0,0,,{\i1}You truly feel at ease here.
+Dialogue: 10,0:17:26.10,0:17:28.36,Default,,0,0,0,,{\i1}It truly lets you feel at ease.
 Comment: 10,0:17:29.27,0:17:30.65,Default,,0,0,0,,Sakurai!
 Dialogue: 10,0:17:29.27,0:17:30.36,Default,,0,0,0,,{\pos(960,1024)}Sakurai!
 Dialogue: 10,0:17:30.36,0:17:30.40,Default,,0,0,0,,{\pos(758.98,1024)}Sakurai!
@@ -573,7 +573,7 @@ Dialogue: 10,0:18:27.46,0:18:30.88,Default,,0,0,0,,We're closing up for the nigh
 Dialogue: 10,0:18:30.88,0:18:31.63,Default,,0,0,0,,Huh?
 Dialogue: 10,0:18:31.63,0:18:33.67,Default,,0,0,0,,Really?!
 Dialogue: 10,0:18:33.67,0:18:35.67,Default,,0,0,0,,We don't have any customers right now.
-Dialogue: 10,0:18:37.05,0:18:41.26,Default,,0,0,0,,{\i1\an8}It's fun watching the back-and-forth \Nbetween these two.
+Dialogue: 10,0:18:37.05,0:18:41.26,Default,,0,0,0,,{\i1\an8}It's fun watching the banter between these two.
 Dialogue: 10,0:18:49.52,0:18:53.65,Default,,0,0,0,,A little something for my best \Njunior employee. It's on the house.
 Dialogue: 10,0:18:54.90,0:18:57.90,Default,,0,0,0,,There's really no need for that.
 Dialogue: 10,0:18:58.20,0:19:00.99,Default,,0,0,0,,Hooray! You're so generous, sir!
@@ -586,26 +586,26 @@ Dialogue: 10,0:19:10.79,0:19:13.88,Default,,0,0,0,,"I think" is something a grad
 Comment: 9,0:19:13.88,0:19:17.42,Default,,0,0,0,,{\bord8\shad0\3c&HFFFFFF&\blur2}Change it to "It's thought" or "It's considered".
 Dialogue: 10,0:19:13.88,0:19:17.42,Default,,0,0,0,,Change it to "It's thought" or "It's considered".
 Dialogue: 10,0:19:20.01,0:19:23.47,Default,,0,0,0,,You're in college. Leave childish sentences behind.
-Dialogue: 10,0:19:23.47,0:19:28.81,Default,,0,0,0,,Now me, I'd boost the word count with \N"Personally speaking, it feels as though XYZ..."
+Dialogue: 10,0:19:23.47,0:19:28.81,Default,,0,0,0,,Now me, I'd boost the word count with \N"In the author's opinion, it would appear that..."
 Dialogue: 10,0:19:29.14,0:19:31.19,Default,,0,0,0,,I see...
 Dialogue: 10,0:19:31.56,0:19:35.40,Default,,0,0,0,,Once that's rectified, \Nall that's left is the closing sentence.
 Dialogue: 10,0:19:35.40,0:19:37.11,Default,,0,0,0,,Write that and be done with it.
 Dialogue: 10,0:19:37.11,0:19:40.03,Default,,0,0,0,,Oh, right! I've been meaning \Nto ask you something.
 Dialogue: 10,0:19:40.03,0:19:42.95,Default,,0,0,0,,Can't concentrate to save your life, can you?
-Dialogue: 10,0:19:43.49,0:19:45.83,Default,,0,0,0,,May I visit your house?
+Dialogue: 10,0:19:43.49,0:19:45.83,Default,,0,0,0,,Can I swing by your place?
 Dialogue: 10,0:19:45.83,0:19:47.33,Default,,0,0,0,,Absolutely not.
 Dialogue: 10,0:19:47.99,0:19:49.83,Default,,0,0,0,,{\i1}No hesitation whatsoever.
 Dialogue: 10,0:19:50.12,0:19:52.17,Default,,0,0,0,,Where'd that come from, anyway?
-Dialogue: 10,0:19:52.17,0:19:54.21,Default,,0,0,0,,I just wanna see it!
+Dialogue: 10,0:19:52.17,0:19:54.21,Default,,0,0,0,,I just wanna check it out!
 Dialogue: 10,0:19:54.63,0:19:56.50,Default,,0,0,0,,"Just" my ass!
-Dialogue: 10,0:19:56.50,0:19:59.34,Default,,0,0,0,,I'm not "just" gonna let you upend \Nmy lifestyle for entertainment.
+Dialogue: 10,0:19:56.50,0:19:59.34,Default,,0,0,0,,I'm not "just" gonna let you upend \Nmy lifestyle for your entertainment.
 Dialogue: 10,0:19:59.34,0:20:01.97,Default,,0,0,0,,{\an8}I won't upend anything! So why can't I?
 Dialogue: 10,0:20:02.59,0:20:04.97,Default,,0,0,0,,Why?! I mean...
 Comment: 10,0:20:05.97,0:20:07.97,Default,,0,0,0,,{\i1}She's gotta be kidding, right?
 Dialogue: 10,0:20:05.97,0:20:07.97,Default,,0,0,0,,{\move(960.05,979.58,960,1024,28,1988)\fscx90.83\fscy90.83\i1\bord3.27\shad1.36\t(28,1988,\bord3.6)\t(28,1988,\fscx100)\t(28,1988,\fscy100)\t(28,1988,\shad1.5)}She's gotta be kidding, right?
 Dialogue: 10,0:20:09.18,0:20:11.98,Default,,0,0,0,,I have no reason to let you into my place.{I have no reason to feel obligated to let you into...", but eh, too complicated I guess?}{## ye, I can't think of a nice way to write that in atm}
 Dialogue: 10,0:20:11.98,0:20:16.19,Default,,0,0,0,,Sure you do. You said you live alone, right?
-Dialogue: 10,0:20:16.19,0:20:22.03,Default,,0,0,0,,You can save money if I cook, \Nand you're closer to campus.
+Dialogue: 10,0:20:16.19,0:20:22.03,Default,,0,0,0,,You can save money if I cook, \Nand your place is closer to campus.
 Dialogue: 10,0:20:22.03,0:20:24.49,Default,,0,0,0,,See? There are way more pros than cons!
 Dialogue: 10,0:20:24.87,0:20:26.78,Default,,0,0,0,,You've gotta be kidding, right?{"Are you for real?"}{## was gonna spice it up but my head is empty}
 Dialogue: 10,0:20:26.78,0:20:29.24,Default,,0,0,0,,Is your cooking even edible?
@@ -615,7 +615,7 @@ Dialogue: 10,0:20:34.50,0:20:37.04,Default,,0,0,0,,Now, back to that essay.
 Dialogue: 10,0:20:39.05,0:20:41.34,Default,,0,0,0,,Hold on, what was the last pro there?
 Dialogue: 10,0:20:42.55,0:20:43.34,Default,,0,0,0,,Huh?
 Dialogue: 10,0:20:43.34,0:20:47.10,Default,,0,0,0,,My place is close to campus and...?
-Dialogue: 10,0:20:47.39,0:20:50.85,Default,,0,0,0,,Well, since it's so close, I figure I can sleep in—
+Dialogue: 10,0:20:47.39,0:20:50.85,Default,,0,0,0,,Well, since it's so close, \NI figure I could sleep in—
 Dialogue: 10,0:20:50.85,0:20:52.48,Default,,0,0,0,,You're not spending the night!
 Dialogue: 10,0:20:52.98,0:20:56.10,Default,,0,0,0,,Th-That's... unbelievable!
 Dialogue: 10,0:20:56.90,0:20:58.86,Default,,0,0,0,,What are you angry about?
@@ -623,7 +623,7 @@ Dialogue: 10,0:21:01.36,0:21:04.57,Default,,0,0,0,,Look, I-I'm not angry.
 Dialogue: 10,0:21:04.57,0:21:06.36,Default,,0,0,0,,It's just that you...
 Dialogue: 10,0:21:07.49,0:21:08.99,Default,,0,0,0,,What's up?
 Dialogue: 10,0:21:10.08,0:21:13.25,Default,,0,0,0,,Letting you in my apartment is one thing...
-Dialogue: 10,0:21:13.71,0:21:19.17,Default,,0,0,0,,It's... not so simple for a girl... \Nto be in a guy's room...
+Dialogue: 10,0:21:13.71,0:21:19.17,Default,,0,0,0,,It's... not so simple for a girl... \Nto to sleep in a guy's room...
 Dialogue: 10,0:21:19.75,0:21:21.51,Default,,0,0,0,,You don't want me to?{we might add "do" at the end to strengthen the "improper phrasing" lol}
 Comment: 10,0:21:21.51,0:21:23.51,Default,,0,0,0,,Wh... {\i1}What{\i0}?!
 Dialogue: 10,0:21:21.51,0:21:21.55,Default,,0,0,0,,{\pos(960,1024)}Wh... {\i1}What{\i0}?!
@@ -679,16 +679,19 @@ Dialogue: 10,0:21:28.51,0:21:29.35,Default,,0,0,0,,Eh?
 Dialogue: 10,0:21:29.35,0:21:33.64,Default,,0,0,0,,You can't hide it from me, Sakurai! \NI know you bought that new game!
 Dialogue: 10,0:21:33.64,0:21:35.27,Default,,0,0,0,,You're on my friend list!
 Dialogue: 10,0:21:35.27,0:21:39.27,Default,,0,0,0,,If we stop by after class, we can \Nhang out and play any day of the week!
-Dialogue: 9,0:21:41.02,0:21:45.24,Default,,0,0,0,,{\bord1\shad0\3c&H7184FF&\blur12}Y-You idiot! Moron! Imbecile!
-Dialogue: 10,0:21:41.02,0:21:45.24,Default,,0,0,0,,{\shad0\c&H7184FF&}Y-You idiot! Moron! Imbecile!
+Dialogue: 9,0:21:41.02,0:21:45.24,Default,,0,0,0,,{\bord1\shad0\3c&H7184FF&\blur12}Y-You bumbling idiot! Dumbass! Utter imbecile!
+Dialogue: 10,0:21:41.02,0:21:45.24,Default,,0,0,0,,{\shad0\c&H7184FF&}Y-You bumbling idiot! Dumbass! Utter imbecile!
 Dialogue: 10,0:21:45.61,0:21:47.74,Default,,0,0,0,,Why?!{"the heck"}
-Dialogue: 10,0:21:47.74,0:21:48.74,Default,,0,0,0,,You dummy!
-Dialogue: 10,0:21:48.74,0:21:54.87,Default,,0,0,0,,{\i1}I opened this café for the thrill of \Ngetting a glimpse into all sorts of lives.
-Dialogue: 10,0:21:49.74,0:21:52.04,Alt,,0,0,0,,{\an8}I can't {\i1}believe{\i0} you!
-Dialogue: 10,0:21:52.04,0:21:53.66,Alt,,0,0,0,,{\an8}What makes me an idiot?!
-Dialogue: 10,0:21:53.66,0:21:55.41,Alt,,0,0,0,,{\an8}Because you {\i1}are{\i0}!{suggestion: remove single-word italics -Pik}
+Dialogue: 10,0:21:47.74,0:21:48.74,Default,,0,0,0,,You asshat!
+Dialogue: 10,0:21:48.74,0:21:54.87,Default,,0,0,0,,{\i1}I opened this café for the thrill of \Ngetting a glimpse into all kinds of lives.
+Dialogue: 10,0:21:49.74,0:21:52.04,Default,,0,0,0,,{\an8}I can't {\i1}believe{\i0} you!
+Dialogue: 10,0:21:52.04,0:21:53.66,Default,,0,0,0,,{\an8}What makes me an idiot?!
+Dialogue: 10,0:21:53.66,0:21:55.41,Default,,0,0,0,,{\an8}You just are!
+Dialogue: 10,0:21:55.41,0:21:57.62,Default,,0,0,0,,{\an8}Takes one to know one, dontcha think?
+Dialogue: 10,0:21:57.62,0:21:58.96,Default,,0,0,0,,{\an8}Nah, you're just an absolute twit!
+Dialogue: 10,0:21:58.96,0:22:03.21,Default,,0,0,0,,{\an8}For crying out loud, stop calling me dumb!
 Dialogue: 10,0:21:54.87,0:21:57.62,Default,,0,0,0,,{\i1}But these two are the best. \NI could watch them forever.
-Dialogue: 10,0:21:58.83,0:22:01.96,Default,,0,0,0,,{\i1}If Sakurai quits, the show would be over.
+Dialogue: 10,0:21:58.83,0:22:01.96,Default,,0,0,0,,{\i1}If Sakurai quit, the show would be over.
 Dialogue: 10,0:22:01.96,0:22:04.92,Default,,0,0,0,,{\i1}Maybe I should give him a raise.
 Comment: 0,0:23:34.93,0:23:34.93,Default,chapter,0,0,0,,{Preview}
 Dialogue: 10,0:23:35.72,0:23:38.43,Default,,0,0,0,,{\fad(113,0)}Guess we'll see Ami next time.
