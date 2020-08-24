@@ -75,13 +75,13 @@ Dialogue: 1,0:15:37.20,0:15:37.33,Signs,,0,0,0,,{=2}{\an7\blur1\bord0\shad0\fscx
 Dialogue: 2,0:15:37.20,0:15:37.33,Signs,,0,0,0,,{=2}{\c&H434343&\fs25\fry-0.93\frx1.28\frz-40.57\fax-0.06\fscx76\fscy100\blur0.8\pos(1540.02,457.523)}Uzaki (idiot)
 Dialogue: 1,0:15:37.20,0:15:37.33,Signs,,0,0,0,,{=2}{\c&H434343&\pos(1613.429,521.81)\fs20\fry-0.92\frx1.27\frz-40.6\fax-0.06\blur0.8\fscx76}now
 Dialogue: 1,0:15:37.20,0:15:37.33,Signs,,0,0,0,,{=2}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1417.886,442.438)\p1\c&HEFD4B3&}m 19 -43 l 194 111 149 159 b 135 174 129 176 111 158 l -32 33 b -40 25 -38 19 -31 11
-Dialogue: 2,0:15:37.20,0:15:37.33,Signs,,0,0,0,,{=2}{\c&H434343&\fs25\an4\fry-0.93\frx1.29\frz-40.96\fax-0.05\pos(1417.886,442.438)\fscx76\blur0.8\fscy100}You okay?\NNot being left out?
+Dialogue: 2,0:15:37.20,0:15:37.33,Signs,,0,0,0,,{=2}{\c&H434343&\fs25\an4\fry-0.93\frx1.29\frz-40.96\fax-0.05\pos(1417.886,442.438)\fscx76\blur0.8\fscy100}You okay?\NNot feeling left out?
 Dialogue: 0,0:15:38.83,0:15:43.46,Signs,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(942.953,332.19)\p1}m -330 -82 l 343 -82 343 81 -330 81
 Dialogue: 1,0:15:38.83,0:15:43.46,Signs,,0,0,0,,{=2}{\c&H2A2A2A&\fs140\blur0.8\pos(942.953,332.19)}Uzaki (idiot)
 Dialogue: 0,0:15:38.83,0:15:43.46,Signs,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1716.762,337.143)\p1}m -76 -67 l 80 -67 80 64 -76 64
 Dialogue: 1,0:15:38.83,0:15:43.46,Signs,,0,0,0,,{=2}{\c&H2A2A2A&\blur0.8\pos(1716.762,337.143)}now
 Dialogue: 0,0:15:38.83,0:15:43.46,Signs,,0,0,0,,{\an7\c&HDDC0AA&\1a&H00&\pos(222,656)\blur1\bord0\shad0\p1}m 1619.0 -214.0 b 1619.0 -214.0 1591.0 -214.0 1591.0 -214.0 b 1591.0 -214.0 1535.0 -214.0 1535.0 -214.0 b 1535.0 -214.0 1366.0 -214.0 1366.0 -214.0 b 1366.0 -214.0 854.0 -214.0 854.0 -214.0 b 854.0 -214.0 386.0 -214.0 386.0 -214.0 b 386.0 -214.0 -133.0 -214.0 -133.0 -214.0 b -135.0 -214.0 -138.8 -214.2 -140.4 -213.0 b -142.9 -211.0 -142.0 -197.6 -142.0 -194.0 b -142.0 -194.0 -142.0 -130.0 -142.0 -130.0 b -142.0 -130.0 -142.0 146.0 -142.0 146.0 b -142.0 178.3 -120.5 210.2 -92.0 224.6 b -79.5 231.0 -63.0 234.8 -49.0 235.0 b -49.0 235.0 126.0 235.0 126.0 235.0 b 126.0 235.0 476.0 235.0 476.0 235.0 b 476.0 235.0 1210.0 235.0 1210.0 235.0 b 1210.0 235.0 1224.0 234.0 1224.0 234.0 b 1224.0 234.0 1239.0 234.9 1239.0 234.9 b 1239.0 234.9 1252.0 234.9 1252.0 234.9 b 1252.0 234.9 1299.0 234.9 1299.0 234.9 b 1299.0 234.9 1522.0 234.9 1522.0 234.9 b 1563.7 234.9 1600.0 212.4 1613.9 172.0 b 1617.5 161.5 1619.0 149.1 1619.0 138.0 b 1619.0 138.0 1619.0 -214.0 1619.0 -214.0
-Dialogue: 1,0:15:38.83,0:15:43.46,Signs,,0,0,0,,{=2}{\c&H2A2A2A&\fs140\an4\blur0.8\pos(222,656)}You okay?\NNot being left out?
+Dialogue: 1,0:15:38.83,0:15:43.46,Signs,,0,0,0,,{=2}{\c&H2A2A2A&\fs140\an4\blur0.8\pos(222,656)}You okay?\NNot feeling left out?
 Dialogue: 0,0:15:45.59,0:15:45.63,Signs,,0,0,0,,{=103}{\an7\blur1\bord0\shad0\fscx78.82\fscy78.82\pos(944.51,459.95)\p1}m -18 -132 l 802 -132 802 153 -18 153
 Dialogue: 0,0:15:45.63,0:15:45.67,Signs,,0,0,0,,{=103}{\an7\blur1\bord0\shad0\fscx91.24\fscy91.24\pos(960.41,427.11)\p1}m -18 -132 l 802 -132 802 153 -18 153
 Dialogue: 0,0:15:45.67,0:15:45.71,Signs,,0,0,0,,{=103}{\an7\blur1\bord0\shad0\fscx96.3\fscy96.3\pos(966.81,413.86)\p1}m -18 -132 l 802 -132 802 153 -18 153
@@ -102,14 +102,14 @@ Dialogue: 0,0:15:50.92,0:15:50.97,Signs,,0,0,0,,{=107}{\an7\blur1\bord0\shad0\fs
 Dialogue: 0,0:15:50.97,0:15:51.01,Signs,,0,0,0,,{=107}{\an7\blur1\bord0\shad0\fscx98.65\fscy98.65\pos(221.48,418.65)\p1}m -9 -159 l 844 -159 844 166 -9 166
 Dialogue: 0,0:15:51.01,0:15:51.05,Signs,,0,0,0,,{=107}{\an7\blur1\bord0\shad0\fscx99.69\fscy99.69\pos(222.72,415.87)\p1}m -9 -159 l 844 -159 844 166 -9 166
 Dialogue: 0,0:15:51.05,0:15:51.18,Signs,,0,0,0,,{=107}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(223.2,414.8)\p1}m -9 -159 l 844 -159 844 166 -9 166
-Dialogue: 1,0:15:50.84,0:15:50.88,Signs,,0,0,0,,{=106}{\fscx78.84\fscy78.84\an4\c&H229978&\pos(193.12,468.47)\blur0.8}>caring about table manners\N{\c&H2A2A2A&}What are you, an old man?\NxDDDDDDDD
-Dialogue: 1,0:15:50.88,0:15:50.92,Signs,,0,0,0,,{=106}{\fscx91.37\fscy91.37\an4\c&H229978&\pos(207.19,437.55)\blur0.8}>caring about table manners\N{\c&H2A2A2A&}What are you, an old man?\NxDDDDDDDD
-Dialogue: 1,0:15:50.92,0:15:50.97,Signs,,0,0,0,,{=106}{\fscx96.37\fscy96.37\an4\c&H229978&\pos(212.88,424.68)\blur0.8}>caring about table manners\N{\c&H2A2A2A&}What are you, an old man?\NxDDDDDDDD
-Dialogue: 1,0:15:50.97,0:15:51.01,Signs,,0,0,0,,{=106}{\fscx98.65\fscy98.65\an4\c&H229978&\pos(215.56,418.65)\blur0.8}>caring about table manners\N{\c&H2A2A2A&}What are you, an old man?\NxDDDDDDDD
-Dialogue: 1,0:15:51.01,0:15:51.05,Signs,,0,0,0,,{=106}{\fscx99.69\fscy99.69\an4\c&H229978&\pos(216.74,415.87)\blur0.8}>caring about table manners\N{\c&H2A2A2A&}What are you, an old man?\NxDDDDDDDD
-Dialogue: 1,0:15:51.05,0:15:51.18,Signs,,0,0,0,,{=106}{\fscx100\fscy100\an4\c&H229978&\pos(217.2,414.8)\blur0.8}>caring about table manners\N{\c&H2A2A2A&}What are you, an old man?\NxDDDDDDDD
+Dialogue: 1,0:15:50.84,0:15:50.88,Signs,,0,0,0,,{=106}{\fscx78.84\fscy78.84\an4\c&H229978&\pos(193.12,468.47)\blur0.8}>caring about table manners\N{\c&H2A2A2A&}Who are you, my grandpa?\NxDDDDDDDD
+Dialogue: 1,0:15:50.88,0:15:50.92,Signs,,0,0,0,,{=106}{\fscx91.37\fscy91.37\an4\c&H229978&\pos(207.19,437.55)\blur0.8}>caring about table manners\N{\c&H2A2A2A&}Who are you, my grandpa?\NxDDDDDDDD
+Dialogue: 1,0:15:50.92,0:15:50.97,Signs,,0,0,0,,{=106}{\fscx96.37\fscy96.37\an4\c&H229978&\pos(212.88,424.68)\blur0.8}>caring about table manners\N{\c&H2A2A2A&}Who are you, my grandpa?\NxDDDDDDDD
+Dialogue: 1,0:15:50.97,0:15:51.01,Signs,,0,0,0,,{=106}{\fscx98.65\fscy98.65\an4\c&H229978&\pos(215.56,418.65)\blur0.8}>caring about table manners\N{\c&H2A2A2A&}Who are you, my grandpa?\NxDDDDDDDD
+Dialogue: 1,0:15:51.01,0:15:51.05,Signs,,0,0,0,,{=106}{\fscx99.69\fscy99.69\an4\c&H229978&\pos(216.74,415.87)\blur0.8}>caring about table manners\N{\c&H2A2A2A&}Who are you, my grandpa?\NxDDDDDDDD
+Dialogue: 1,0:15:51.05,0:15:51.18,Signs,,0,0,0,,{=106}{\fscx100\fscy100\an4\c&H229978&\pos(217.2,414.8)\blur0.8}>caring about table manners\N{\c&H2A2A2A&}Who are you, my grandpa?\NxDDDDDDDD
 Dialogue: 0,0:15:51.18,0:15:57.18,Signs,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(223.2,414.8)\p1}m -9 -159 l 844 -159 844 166 -9 166
-Dialogue: 1,0:15:51.18,0:15:57.18,Signs,,0,0,0,,{=2}{\an4\c&H229978&\blur0.8\pos(217.2,414.8)}>caring about table manners\N{\c&H2A2A2A&}What are you, an old man?\NxDDDDDDDD
+Dialogue: 1,0:15:51.18,0:15:57.18,Signs,,0,0,0,,{=2}{\an4\c&H229978&\blur0.8\pos(217.2,414.8)}>caring about table manners\N{\c&H2A2A2A&}Who are you, my grandpa?\NxDDDDDDDD
 Dialogue: 0,0:15:57.18,0:15:57.22,Signs,,0,0,0,,{=112}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(223.2,414.8)\p1}m -9 -159 l 844 -159 844 166 -9 166
 Dialogue: 0,0:15:57.22,0:15:57.26,Signs,,0,0,0,,{=112}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(223.2,402.23)\p1}m -9 -159 l 844 -159 844 166 -9 166
 Dialogue: 0,0:15:57.26,0:15:57.31,Signs,,0,0,0,,{=112}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(223.2,364.48)\p1}m -9 -159 l 844 -159 844 166 -9 166
@@ -119,15 +119,15 @@ Dialogue: 0,0:15:57.39,0:15:57.43,Signs,,0,0,0,,{=112}{\an7\blur1\bord0\shad0\fs
 Dialogue: 0,0:15:57.43,0:15:57.47,Signs,,0,0,0,,{=112}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(223.18,43.59)\p1}m -9 -159 l 844 -159 844 166 -9 166
 Dialogue: 0,0:15:57.47,0:15:57.51,Signs,,0,0,0,,{=112}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(223.38,-42.04)\p1}m -9 -159 l 844 -159 844 166 -9 166
 Dialogue: 0,0:15:57.51,0:15:57.56,Signs,,0,0,0,,{=112}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(222.7,-118.01)\p1}m -9 -159 l 844 -159 844 166 -9 166
-Dialogue: 1,0:15:57.18,0:15:57.22,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(217.2,414.8)}>caring about table manners\N{\c&H2A2A2A&}What are you, an old man?\NxDDDDDDDD
-Dialogue: 1,0:15:57.22,0:15:57.26,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(217.2,402.23)}>caring about table manners\N{\c&H2A2A2A&}What are you, an old man?\NxDDDDDDDD
-Dialogue: 1,0:15:57.26,0:15:57.31,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(217.2,364.48)}>caring about table manners\N{\c&H2A2A2A&}What are you, an old man?\NxDDDDDDDD
-Dialogue: 1,0:15:57.31,0:15:57.35,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(217.19,303.63)}>caring about table manners\N{\c&H2A2A2A&}What are you, an old man?\NxDDDDDDDD
-Dialogue: 1,0:15:57.35,0:15:57.39,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(217.19,224.65)}>caring about table manners\N{\c&H2A2A2A&}What are you, an old man?\NxDDDDDDDD
-Dialogue: 1,0:15:57.39,0:15:57.43,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(217.18,135.17)}>caring about table manners\N{\c&H2A2A2A&}What are you, an old man?\NxDDDDDDDD
-Dialogue: 1,0:15:57.43,0:15:57.47,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(217.18,43.59)}>caring about table manners\N{\c&H2A2A2A&}What are you, an old man?\NxDDDDDDDD
-Dialogue: 1,0:15:57.47,0:15:57.51,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(217.38,-42.04)}>caring about table manners\N{\c&H2A2A2A&}What are you, an old man?\NxDDDDDDDD
-Dialogue: 1,0:15:57.51,0:15:57.56,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(216.71,-118.01)}>caring about table manners\N{\c&H2A2A2A&}What are you, an old man?\NxDDDDDDDD
+Dialogue: 1,0:15:57.18,0:15:57.22,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(217.2,414.8)}>caring about table manners\N{\c&H2A2A2A&}Who are you, my grandpa?\NxDDDDDDDD
+Dialogue: 1,0:15:57.22,0:15:57.26,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(217.2,402.23)}>caring about table manners\N{\c&H2A2A2A&}Who are you, my grandpa?\NxDDDDDDDD
+Dialogue: 1,0:15:57.26,0:15:57.31,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(217.2,364.48)}>caring about table manners\N{\c&H2A2A2A&}Who are you, my grandpa?\NxDDDDDDDD
+Dialogue: 1,0:15:57.31,0:15:57.35,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(217.19,303.63)}>caring about table manners\N{\c&H2A2A2A&}Who are you, my grandpa?\NxDDDDDDDD
+Dialogue: 1,0:15:57.35,0:15:57.39,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(217.19,224.65)}>caring about table manners\N{\c&H2A2A2A&}Who are you, my grandpa?\NxDDDDDDDD
+Dialogue: 1,0:15:57.39,0:15:57.43,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(217.18,135.17)}>caring about table manners\N{\c&H2A2A2A&}Who are you, my grandpa?\NxDDDDDDDD
+Dialogue: 1,0:15:57.43,0:15:57.47,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(217.18,43.59)}>caring about table manners\N{\c&H2A2A2A&}Who are you, my grandpa?\NxDDDDDDDD
+Dialogue: 1,0:15:57.47,0:15:57.51,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(217.38,-42.04)}>caring about table manners\N{\c&H2A2A2A&}Who are you, my grandpa?\NxDDDDDDDD
+Dialogue: 1,0:15:57.51,0:15:57.56,Signs,,0,0,0,,{=2=111}{\an4\c&H229978&\blur0.8\pos(216.71,-118.01)}>caring about table manners\N{\c&H2A2A2A&}Who are you, my grandpa?\NxDDDDDDDD
 Dialogue: 0,0:15:57.51,0:15:57.56,Signs,,0,0,0,,{=115}{\an7\blur1\bord0\shad0\fscx78.75\fscy78.75\pos(215.91,463.14)\p1}m -36 -160 l 790 -160 790 164 -36 164
 Dialogue: 0,0:15:57.56,0:15:57.60,Signs,,0,0,0,,{=115}{\an7\blur1\bord0\shad0\fscx91.23\fscy91.23\pos(233.38,430.75)\p1}m -36 -160 l 790 -160 790 164 -36 164
 Dialogue: 0,0:15:57.60,0:15:57.64,Signs,,0,0,0,,{=115}{\an7\blur1\bord0\shad0\fscx96.28\fscy96.28\pos(240.52,417.78)\p1}m -36 -160 l 790 -160 790 164 -36 164

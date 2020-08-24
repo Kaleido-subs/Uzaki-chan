@@ -10,7 +10,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: Uzaki-chan wa Asobitai
+Export Encoding: Unicode (UTF-8)
+Last Style Storage: Default (1080p)
 Audio File: uzaki02_premux_v1.mkv
 Video File: uzaki02_premux_v1.mkv
 Video AR Mode: 4
@@ -20,7 +21,6 @@ Video AR Value: 1.777778
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,200,200,56,1
 Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,200,200,56,1
-Style: Sign,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,200,200,56,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -31,17 +31,17 @@ Dialogue: 10,0:00:07.61,0:00:10.44,Default,,0,0,0,,{\i1}not-too-bright lighting,
 Dialogue: 10,0:00:11.19,0:00:14.45,Default,,0,0,0,,{\i1}and the soothing aroma of brewing coffee.
 Dialogue: 10,0:00:15.03,0:00:19.45,Default,,0,0,0,,{\i1}It has been my business policy since \Nthe very day we opened up shop
 Dialogue: 10,0:00:19.45,0:00:24.42,Default,,0,0,0,,{\i1}to provide a place where \Ncustomers can feel at ease.
-Dialogue: 10,0:00:24.42,0:00:28.17,Default,,0,0,0,,A customer's coming up to pay, Sakurai.
+Dialogue: 10,0:00:24.42,0:00:28.17,Default,,0,0,0,,A customer's getting ready to \Npay his check, Sakurai.
 Dialogue: 10,0:00:28.17,0:00:29.63,Default,,0,0,0,,Would you mind?
 Dialogue: 10,0:00:34.05,0:00:35.55,Default,,0,0,0,,Wow.
 Dialogue: 10,0:00:35.55,0:00:37.60,Default,,0,0,0,,You picked up on that so quickly.
 Dialogue: 10,0:00:38.01,0:00:42.23,Default,,0,0,0,,Mhm. Once you've got a decade of experience \Nunder your belt, you'll start seeing it, too.
-Dialogue: 10,0:00:44.14,0:00:49.23,Default,,0,0,0,,{\i1}Sakurai started working for us \Nsometime last year, and he's pretty good.
-Dialogue: 10,0:00:46.94,0:00:48.40,Alt,,0,0,0,,{\an8}Thank you very much.
+Dialogue: 10,0:00:44.14,0:00:49.23,Default,,0,0,0,,{\i1}Sakurai started working for us \Nlast year, and he's pretty good.
+Dialogue: 10,0:00:46.94,0:00:48.40,Alt,,0,0,0,,{\an8}Have a nice day.
 Dialogue: 10,0:00:49.90,0:00:53.74,Default,,0,0,0,,{\i1}He may have a bit of a scary face, \Nbut he's plenty attentive.
 Dialogue: 10,0:00:54.32,0:00:57.12,Default,,0,0,0,,{\i1}He understands my business policy,
 Dialogue: 10,0:00:57.62,0:01:01.62,Default,,0,0,0,,{\i1}and whatever may happen, \Nhe handles it with poise.
-Dialogue: 10,0:01:02.16,0:01:04.83,Default,,0,0,0,,{\i1}Never, ever, making a fuss, or—
+Dialogue: 10,0:01:02.16,0:01:04.83,Default,,0,0,0,,{\i1}He never makes a fuss, or—
 Dialogue: 10,0:01:07.42,0:01:09.25,Default,,0,0,0,,Sakurai!
 Dialogue: 10,0:01:09.25,0:01:13.01,Default,,0,0,0,,{\i1}I've never heard Sakurai screech like that.
 Dialogue: 10,0:01:13.34,0:01:15.76,Default,,0,0,0,,So this is where you work!{suggestion: remove single-word italics -Pik}{## Will remove on a case-by-case basis}
@@ -54,7 +54,6 @@ Dialogue: 10,0:01:27.56,0:01:30.69,Default,,0,0,0,,then I got hungry and figured
 Dialogue: 10,0:01:30.69,0:01:31.61,Default,,0,0,0,,Go home!{"go home!"}
 Dialogue: 10,0:01:31.61,0:01:32.78,Default,,0,0,0,,Why?!
 Dialogue: 10,0:01:34.03,0:01:35.82,Default,,0,0,0,,{\i1}Or perhaps an enemy.
-Comment: 0,0:01:36.95,0:01:36.95,Default,chapter,0,0,0,,{OP}
 Comment: 0,0:03:06.91,0:03:06.91,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:03:09.96,0:03:11.92,Default,,0,0,0,,This may be where I work part-time,
 Dialogue: 10,0:03:11.92,0:03:15.25,Default,,0,0,0,,but it's also a safe haven for me to relax. So {\i1}leave{\i0}!
@@ -82,18 +81,18 @@ Dialogue: 10,0:04:01.47,0:04:04.30,Default,,0,0,0,,Then you're in elem—er, mid
 Dialogue: 10,0:04:04.30,0:04:06.30,Default,,0,0,0,,I'm a college student!
 Dialogue: 10,0:04:06.30,0:04:08.56,Default,,0,0,0,,We go to the same college. \NShe's a year below me.
 Dialogue: 10,0:04:08.56,0:04:12.06,Default,,0,0,0,,You were totally gonna say \N"elementary school", weren't you?!
-Dialogue: 10,0:04:12.94,0:04:15.35,Default,,0,0,0,,Don't blame him, 'cause you're a shorty.
-Dialogue: 10,0:04:15.35,0:04:17.32,Default,,0,0,0,,Shut up! Just shut your mouth!
+Dialogue: 10,0:04:12.94,0:04:15.35,Default,,0,0,0,,Can't really blame him, right, shorty?
+Dialogue: 10,0:04:15.35,0:04:17.32,Default,,0,0,0,,Oh, shut it and keep it shut!
 Dialogue: 10,0:04:18.27,0:04:20.44,Default,,0,0,0,,I... I was {\i1}wrong{\i0}?
 Dialogue: 10,0:04:20.94,0:04:22.99,Default,,0,0,0,,It looks like he's in shock.
 Dialogue: 10,0:04:24.07,0:04:26.45,Default,,0,0,0,,This is unlike him, though.
 Dialogue: 10,0:04:27.78,0:04:33.66,Default,,0,0,0,,{\i1}All these years I've spent in the café business, \Nrefining my eye for people...
 Dialogue: 10,0:04:33.66,0:04:35.08,Default,,0,0,0,,{\i1}and I was wrong?!
 Dialogue: 10,0:04:37.13,0:04:38.17,Default,,0,0,0,,Oh!
-Dialogue: 10,0:04:39.50,0:04:41.84,Default,,0,0,0,,In college... You're an adult.
+Dialogue: 10,0:04:39.50,0:04:41.84,Default,,0,0,0,,In college, you said? \NSo that means you're an adult.
 Dialogue: 10,0:04:41.84,0:04:44.30,Default,,0,0,0,,Huh? Yeah, that's right. I'm an adult.
-Dialogue: 10,0:04:44.30,0:04:49.47,Default,,0,0,0,,{\i1}My impression of the owner sure has changed \Ndrastically over these past few minutes.
-Dialogue: 10,0:04:51.97,0:04:55.27,Default,,0,0,0,,{\pos(1096,1024)}I'm sure this spot will do.
+Dialogue: 10,0:04:44.30,0:04:49.47,Default,,0,0,0,,{\i1}My impression of the owner sure has changed \Ndrastically over these last couple of minutes.
+Dialogue: 10,0:04:51.97,0:04:55.27,Default,,0,0,0,,{\pos(1096,1024)}I'm sure this booth'll do.
 Dialogue: 10,0:04:55.27,0:04:56.60,Default,,0,0,0,,{\pos(1008,1024)}Go on, take a seat.
 Dialogue: 10,0:05:01.40,0:05:02.49,Default,,0,0,0,,Your order?
 Dialogue: 10,0:05:02.78,0:05:07.11,Default,,0,0,0,,Hey, Sakurai, what's with the attitude here?{japanese Karen -aria commentary}
@@ -105,7 +104,7 @@ Dialogue: 10,0:05:11.08,0:05:11.66,Default,,0,0,0,,Cus. To. {\alpha&HFF&}Mer.
 Dialogue: 10,0:05:11.66,0:05:12.37,Default,,0,0,0,,Cus. To. Mer.
 Dialogue: 10,0:05:12.75,0:05:16.29,Default,,0,0,0,,Seeing this makes me question \Nyour behaviour towards other customers.{suggestion: remove single-word italics -Pik}{## reworded line entirely}{actually this needs to change, she says "looking at your current behaviour makes me question your attitude towards others too"}{##changed}
 Dialogue: 10,0:05:16.62,0:05:19.92,Default,,0,0,0,,Need me to go fetch a dictionary \Nand look up "customer service" for you?
-Dialogue: 10,0:05:19.92,0:05:22.34,Default,,0,0,0,,Customer service?
+Dialogue: 10,0:05:19.92,0:05:22.34,Default,,0,0,0,,"Customer service"?
 Dialogue: 10,0:05:22.34,0:05:24.55,Default,,0,0,0,,For who? {\i1}You{\i0}?
 Comment: 10,0:05:24.97,0:05:26.68,Default,,0,0,0,,'Scuse me, sir!
 Comment: 10,0:05:26.68,0:05:29.01,Default,,0,0,0,,This employee has a bad attitude!
@@ -114,16 +113,16 @@ Dialogue: 10,0:05:24.97,0:05:26.68,Default,,0,0,0,,{\t(1566,1691,\fsp2)}'Scuse m
 Dialogue: 10,0:05:26.68,0:05:29.01,Default,,0,0,0,,{\fsp2\t(106,273,\fsp0)\t(357,524,\fsp2)\t(607,774,\fsp0)\t(857,1024,\fsp2)\t(1107,1274,\fsp0)\t(1983,2150,\fsp2)\t(2234,2317,\fsp1)}This employee has a bad attitude!
 Dialogue: 10,0:05:29.01,0:05:31.56,Default,,0,0,0,,{\fsp1\t(0,70,\fsp0)\t(154,321,\fsp2)\t(404,571,\fsp0)\t(654,821,\fsp2)\t(905,1071,\fsp0)\t(1155,1322,\fsp2)\t(1405,1572,\fsp0)\t(1655,1822,\fsp2)\t(1906,2072,\fsp0)}You oughta give him a pay cut!
 Dialogue: 10,0:05:31.56,0:05:32.85,Default,,0,0,0,,Shut up!
-Dialogue: 10,0:05:32.85,0:05:34.89,Default,,0,0,0,,If you're not gonna order, get out!
+Dialogue: 10,0:05:32.85,0:05:34.89,Default,,0,0,0,,If you ain't gonna order, beat it!
 Dialogue: 10,0:05:36.69,0:05:39.94,Default,,0,0,0,,{\i1}These youngsters sure are funny. \NI think I'll watch them for a bit.
 Dialogue: 10,0:05:40.40,0:05:45.82,Default,,0,0,0,,You've gotta take your job seriously \Nno matter the customer.
-Dialogue: 10,0:05:45.82,0:05:47.86,Default,,0,0,0,,That's called being a pro!
+Dialogue: 10,0:05:45.82,0:05:47.86,Default,,0,0,0,,That's what being a pro's all about!
 Dialogue: 10,0:05:47.86,0:05:51.66,Default,,0,0,0,,Sure, but if I {\i1}did{\i0} take it seriously, \Nyou'd just make fun of me!{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:05:51.66,0:05:53.45,Default,,0,0,0,,No, I wouldn't!
+Dialogue: 10,0:05:51.66,0:05:53.45,Default,,0,0,0,,No way I would!
 Dialogue: 10,0:05:56.25,0:06:00.96,Default,,0,0,0,,{\an8}To be honest, it's embarrassing \Nwhen people I know see me working.
 Dialogue: 10,0:06:00.96,0:06:03.46,Default,,0,0,0,,But it's so close to campus.
-Dialogue: 10,0:06:03.46,0:06:05.92,Default,,0,0,0,,Haven't any of your other friends come here?
-Dialogue: 10,0:06:05.92,0:06:08.88,Default,,0,0,0,,Did you treat them so poorly, too?
+Dialogue: 10,0:06:03.46,0:06:05.92,Default,,0,0,0,,Haven't any of your other friends eaten here?
+Dialogue: 10,0:06:05.92,0:06:08.88,Default,,0,0,0,,Did you treat them this poorly, too?
 Dialogue: 10,0:06:08.88,0:06:09.47,Default,,0,0,0,,Oh!
 Comment: 10,0:06:10.26,0:06:11.47,Default,,0,0,0,,Oh, you silly.
 Comment: 10,0:06:11.47,0:06:14.72,Default,,0,0,0,,You're the only one I treat like this.
@@ -134,11 +133,11 @@ Dialogue: 11,0:06:11.47,0:06:14.72,Default,,0,0,0,,You're the only one I treat l
 Comment: 10,0:06:14.72,0:06:16.23,Default,,0,0,0,,You're special.
 Dialogue: 10,0:06:14.72,0:06:16.23,Default,,0,0,0,,{\bord3\shad0\3c&HF2CCFF&\blur15}You're special.
 Dialogue: 11,0:06:14.72,0:06:16.23,Default,,0,0,0,,You're special.
-Comment: 10,0:06:18.14,0:06:21.77,Default,,0,0,0,,Got it? Then drink a soda \Nor something and get lost, dumdum.
+Comment: 10,0:06:18.14,0:06:21.77,Default,,0,0,0,,Got it? Then have a soda \Nor something and get lost, dumdum.
 Comment: 10,0:06:21.77,0:06:25.48,Default,,0,0,0,,See, badmouthing me with that \Nposed expression {\i1}really{\i0} ticks me off!{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:18.14,0:06:21.77,Default,,0,0,0,,{\pos(1222,1024)\bord3\shad0\3c&HF2CCFF&\blur15}Got it? Then drink a soda  \Nor something and get lost, dumdum.
-Dialogue: 11,0:06:18.14,0:06:21.77,Default,,0,0,0,,{\pos(1222,1024)}Got it? Then drink a soda \Nor something and get lost, dumdum.
-Dialogue: 10,0:06:21.77,0:06:25.48,Default,,0,0,0,,{\pos(1010,1024)}See, badmouthing me with that \Nposed expression {\i1}really{\i0} ticks me off!{suggestion: remove single-word italics -Pik}
+Dialogue: 10,0:06:18.14,0:06:21.77,Default,,0,0,0,,{\pos(1222,1024)\bord3\shad0\3c&HF2CCFF&\blur15}Got it? Then have a soda  \Nor something and get lost, dumdum.
+Dialogue: 11,0:06:18.14,0:06:21.77,Default,,0,0,0,,{\pos(1222,1024)}Got it? Then have a soda \Nor something and get lost, dumdum.
+Dialogue: 10,0:06:21.77,0:06:25.48,Default,,0,0,0,,{\pos(1010,1024)}See, hearing all this abuse from you \Nwith that look on your face really ticks me off!
 Dialogue: 10,0:06:26.19,0:06:28.03,Default,,0,0,0,,Now, now, Sakurai.
 Dialogue: 10,0:06:28.03,0:06:30.41,Default,,0,0,0,,Go show her how you usually do things.
 Dialogue: 10,0:06:30.41,0:06:32.37,Default,,0,0,0,,He's always so great with customers.
@@ -146,92 +145,92 @@ Dialogue: 10,0:06:33.49,0:06:34.37,Default,,0,0,0,,Yes, sir.
 Dialogue: 10,0:06:34.37,0:06:35.87,Default,,0,0,0,,That's the spirit!
 Dialogue: 10,0:06:35.87,0:06:39.12,Default,,0,0,0,,I'd like to order one serving \Nof excellent customer service!
 Dialogue: 10,0:06:39.12,0:06:41.63,Default,,0,0,0,,Now start over, beginning with a glass of water!
-Comment: 10,0:06:42.59,0:06:46.13,Default,,0,0,0,,She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:42.59,0:06:42.63,Default,,0,0,0,,{\pos(960.96,1018.53)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:42.63,0:06:42.67,Default,,0,0,0,,{\pos(961.62,1018.12)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:42.67,0:06:42.71,Default,,0,0,0,,{\pos(961.91,1019.18)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:42.71,0:06:42.75,Default,,0,0,0,,{\pos(960.33,1022.71)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:42.75,0:06:42.79,Default,,0,0,0,,{\pos(962.37,1019.61)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:42.79,0:06:42.84,Default,,0,0,0,,{\pos(962.13,1022.73)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:42.84,0:06:42.88,Default,,0,0,0,,{\pos(959.49,1016.75)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:42.88,0:06:42.92,Default,,0,0,0,,{\pos(961.54,1017.5)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:42.92,0:06:42.96,Default,,0,0,0,,{\pos(962.61,1017.26)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:42.96,0:06:43.00,Default,,0,0,0,,{\pos(963.18,1019.73)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.00,0:06:43.04,Default,,0,0,0,,{\pos(962.49,1019.38)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.04,0:06:43.09,Default,,0,0,0,,{\pos(962.57,1016.12)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.09,0:06:43.13,Default,,0,0,0,,{\pos(961.2,1020.32)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.13,0:06:43.17,Default,,0,0,0,,{\pos(961.1,1021.31)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.17,0:06:43.21,Default,,0,0,0,,{\pos(963.08,1018.71)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.21,0:06:43.25,Default,,0,0,0,,{\pos(961.13,1018.16)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.25,0:06:43.29,Default,,0,0,0,,{\pos(959.29,1022.6)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.29,0:06:43.34,Default,,0,0,0,,{\pos(960,1024)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.34,0:06:43.38,Default,,0,0,0,,{\pos(961.81,1021.14)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.38,0:06:43.42,Default,,0,0,0,,{\pos(959.59,1021.22)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.42,0:06:43.46,Default,,0,0,0,,{\pos(962.81,1022.93)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.46,0:06:43.50,Default,,0,0,0,,{\pos(960.12,1019.68)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.50,0:06:43.54,Default,,0,0,0,,{\pos(962.33,1018.37)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.54,0:06:43.59,Default,,0,0,0,,{\pos(959.8,1019.71)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.59,0:06:43.63,Default,,0,0,0,,{\pos(962.06,1024.01)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.63,0:06:43.67,Default,,0,0,0,,{\pos(960.23,1017.78)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.67,0:06:43.71,Default,,0,0,0,,{\pos(960.61,1017.28)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.71,0:06:43.75,Default,,0,0,0,,{\pos(962.33,1020.96)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.75,0:06:43.79,Default,,0,0,0,,{\pos(960.09,1016.16)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.79,0:06:43.84,Default,,0,0,0,,{\pos(963.01,1017.67)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.84,0:06:43.88,Default,,0,0,0,,{\pos(960.51,1016.16)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.88,0:06:43.92,Default,,0,0,0,,{\pos(962.05,1021.73)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.92,0:06:43.96,Default,,0,0,0,,{\pos(961.57,1021.14)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:43.96,0:06:44.00,Default,,0,0,0,,{\pos(963.09,1018.36)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.00,0:06:44.05,Default,,0,0,0,,{\pos(961.36,1017.66)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.05,0:06:44.09,Default,,0,0,0,,{\pos(962.93,1018.22)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.09,0:06:44.13,Default,,0,0,0,,{\pos(961.57,1018.56)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.13,0:06:44.17,Default,,0,0,0,,{\pos(962.72,1021.38)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.17,0:06:44.21,Default,,0,0,0,,{\pos(962.14,1018.84)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.21,0:06:44.25,Default,,0,0,0,,{\pos(961.62,1019.87)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.25,0:06:44.30,Default,,0,0,0,,{\pos(962.74,1023.49)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.30,0:06:44.34,Default,,0,0,0,,{\pos(962.62,1022.23)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.34,0:06:44.38,Default,,0,0,0,,{\pos(962.03,1019.31)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.38,0:06:44.42,Default,,0,0,0,,{\pos(961.6,1019.28)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.42,0:06:44.46,Default,,0,0,0,,{\pos(963.07,1019)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.46,0:06:44.50,Default,,0,0,0,,{\pos(962.59,1021.94)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.50,0:06:44.55,Default,,0,0,0,,{\pos(961.81,1021.21)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.55,0:06:44.59,Default,,0,0,0,,{\pos(960.36,1022.21)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.59,0:06:44.63,Default,,0,0,0,,{\pos(960.96,1017.91)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.63,0:06:44.67,Default,,0,0,0,,{\pos(960.43,1021.83)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.67,0:06:44.71,Default,,0,0,0,,{\pos(960.61,1021.41)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.71,0:06:44.75,Default,,0,0,0,,{\pos(962.15,1021.22)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.75,0:06:44.80,Default,,0,0,0,,{\pos(962.9,1021.96)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.80,0:06:44.84,Default,,0,0,0,,{\pos(960.17,1021.83)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.84,0:06:44.88,Default,,0,0,0,,{\pos(963.12,1021.64)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.88,0:06:44.92,Default,,0,0,0,,{\pos(959.57,1020.88)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.92,0:06:44.96,Default,,0,0,0,,{\pos(961.8,1018.24)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:44.96,0:06:45.00,Default,,0,0,0,,{\pos(960.14,1019.16)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.00,0:06:45.05,Default,,0,0,0,,{\pos(960.15,1021.21)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.05,0:06:45.09,Default,,0,0,0,,{\pos(962.34,1021.77)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.09,0:06:45.13,Default,,0,0,0,,{\pos(960.87,1018.24)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.13,0:06:45.17,Default,,0,0,0,,{\pos(960.16,1020.98)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.17,0:06:45.21,Default,,0,0,0,,{\pos(960.89,1021.25)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.21,0:06:45.25,Default,,0,0,0,,{\pos(961.76,1018.76)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.25,0:06:45.30,Default,,0,0,0,,{\pos(962.3,1017.86)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.30,0:06:45.34,Default,,0,0,0,,{\pos(963.04,1018.02)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.34,0:06:45.38,Default,,0,0,0,,{\pos(962.41,1016.24)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.38,0:06:45.42,Default,,0,0,0,,{\pos(961.77,1017.78)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.42,0:06:45.46,Default,,0,0,0,,{\pos(961.37,1023.5)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.46,0:06:45.50,Default,,0,0,0,,{\pos(961.63,1020.66)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.50,0:06:45.55,Default,,0,0,0,,{\pos(960.84,1022.06)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.55,0:06:45.59,Default,,0,0,0,,{\pos(960.79,1017.08)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.59,0:06:45.63,Default,,0,0,0,,{\pos(959.77,1017.85)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.63,0:06:45.67,Default,,0,0,0,,{\pos(963.01,1020.01)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.67,0:06:45.71,Default,,0,0,0,,{\pos(961.7,1023.47)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.71,0:06:45.76,Default,,0,0,0,,{\pos(959.27,1022.52)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.76,0:06:45.80,Default,,0,0,0,,{\pos(963.05,1016.2)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.80,0:06:45.84,Default,,0,0,0,,{\pos(962.02,1018.6)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.84,0:06:45.88,Default,,0,0,0,,{\pos(963.05,1016.12)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.88,0:06:45.92,Default,,0,0,0,,{\pos(961.11,1018.22)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.92,0:06:45.96,Default,,0,0,0,,{\pos(961.84,1022.07)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:45.96,0:06:46.01,Default,,0,0,0,,{\pos(961.26,1020.32)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:46.01,0:06:46.05,Default,,0,0,0,,{\pos(960.73,1018.27)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:46.05,0:06:46.09,Default,,0,0,0,,{\pos(961.75,1019.51)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:06:46.09,0:06:46.13,Default,,0,0,0,,{\pos(962.25,1018.09)}She {\i1}seriously{\i0} gets on my nerves.{suggestion: remove single-word italics -Pik}
+Comment: 10,0:06:42.59,0:06:46.13,Default,,0,0,0,,You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:42.59,0:06:42.63,Default,,0,0,0,,{\pos(960.96,1018.53)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:42.63,0:06:42.67,Default,,0,0,0,,{\pos(961.62,1018.12)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:42.67,0:06:42.71,Default,,0,0,0,,{\pos(961.91,1019.18)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:42.71,0:06:42.75,Default,,0,0,0,,{\pos(960.33,1022.71)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:42.75,0:06:42.79,Default,,0,0,0,,{\pos(962.37,1019.61)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:42.79,0:06:42.84,Default,,0,0,0,,{\pos(962.13,1022.73)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:42.84,0:06:42.88,Default,,0,0,0,,{\pos(959.49,1016.75)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:42.88,0:06:42.92,Default,,0,0,0,,{\pos(961.54,1017.5)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:42.92,0:06:42.96,Default,,0,0,0,,{\pos(962.61,1017.26)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:42.96,0:06:43.00,Default,,0,0,0,,{\pos(963.18,1019.73)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.00,0:06:43.04,Default,,0,0,0,,{\pos(962.49,1019.38)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.04,0:06:43.09,Default,,0,0,0,,{\pos(962.57,1016.12)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.09,0:06:43.13,Default,,0,0,0,,{\pos(961.2,1020.32)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.13,0:06:43.17,Default,,0,0,0,,{\pos(961.1,1021.31)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.17,0:06:43.21,Default,,0,0,0,,{\pos(963.08,1018.71)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.21,0:06:43.25,Default,,0,0,0,,{\pos(961.13,1018.16)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.25,0:06:43.29,Default,,0,0,0,,{\pos(959.29,1022.6)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.29,0:06:43.34,Default,,0,0,0,,{\pos(960,1024)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.34,0:06:43.38,Default,,0,0,0,,{\pos(961.81,1021.14)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.38,0:06:43.42,Default,,0,0,0,,{\pos(959.59,1021.22)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.42,0:06:43.46,Default,,0,0,0,,{\pos(962.81,1022.93)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.46,0:06:43.50,Default,,0,0,0,,{\pos(960.12,1019.68)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.50,0:06:43.54,Default,,0,0,0,,{\pos(962.33,1018.37)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.54,0:06:43.59,Default,,0,0,0,,{\pos(959.8,1019.71)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.59,0:06:43.63,Default,,0,0,0,,{\pos(962.06,1024.01)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.63,0:06:43.67,Default,,0,0,0,,{\pos(960.23,1017.78)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.67,0:06:43.71,Default,,0,0,0,,{\pos(960.61,1017.28)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.71,0:06:43.75,Default,,0,0,0,,{\pos(962.33,1020.96)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.75,0:06:43.79,Default,,0,0,0,,{\pos(960.09,1016.16)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.79,0:06:43.84,Default,,0,0,0,,{\pos(963.01,1017.67)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.84,0:06:43.88,Default,,0,0,0,,{\pos(960.51,1016.16)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.88,0:06:43.92,Default,,0,0,0,,{\pos(962.05,1021.73)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.92,0:06:43.96,Default,,0,0,0,,{\pos(961.57,1021.14)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:43.96,0:06:44.00,Default,,0,0,0,,{\pos(963.09,1018.36)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.00,0:06:44.05,Default,,0,0,0,,{\pos(961.36,1017.66)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.05,0:06:44.09,Default,,0,0,0,,{\pos(962.93,1018.22)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.09,0:06:44.13,Default,,0,0,0,,{\pos(961.57,1018.56)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.13,0:06:44.17,Default,,0,0,0,,{\pos(962.72,1021.38)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.17,0:06:44.21,Default,,0,0,0,,{\pos(962.14,1018.84)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.21,0:06:44.25,Default,,0,0,0,,{\pos(961.62,1019.87)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.25,0:06:44.30,Default,,0,0,0,,{\pos(962.74,1023.49)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.30,0:06:44.34,Default,,0,0,0,,{\pos(962.62,1022.23)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.34,0:06:44.38,Default,,0,0,0,,{\pos(962.03,1019.31)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.38,0:06:44.42,Default,,0,0,0,,{\pos(961.6,1019.28)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.42,0:06:44.46,Default,,0,0,0,,{\pos(963.07,1019)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.46,0:06:44.50,Default,,0,0,0,,{\pos(962.59,1021.94)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.50,0:06:44.55,Default,,0,0,0,,{\pos(961.81,1021.21)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.55,0:06:44.59,Default,,0,0,0,,{\pos(960.36,1022.21)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.59,0:06:44.63,Default,,0,0,0,,{\pos(960.96,1017.91)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.63,0:06:44.67,Default,,0,0,0,,{\pos(960.43,1021.83)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.67,0:06:44.71,Default,,0,0,0,,{\pos(960.61,1021.41)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.71,0:06:44.75,Default,,0,0,0,,{\pos(962.15,1021.22)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.75,0:06:44.80,Default,,0,0,0,,{\pos(962.9,1021.96)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.80,0:06:44.84,Default,,0,0,0,,{\pos(960.17,1021.83)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.84,0:06:44.88,Default,,0,0,0,,{\pos(963.12,1021.64)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.88,0:06:44.92,Default,,0,0,0,,{\pos(959.57,1020.88)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.92,0:06:44.96,Default,,0,0,0,,{\pos(961.8,1018.24)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:44.96,0:06:45.00,Default,,0,0,0,,{\pos(960.14,1019.16)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.00,0:06:45.05,Default,,0,0,0,,{\pos(960.15,1021.21)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.05,0:06:45.09,Default,,0,0,0,,{\pos(962.34,1021.77)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.09,0:06:45.13,Default,,0,0,0,,{\pos(960.87,1018.24)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.13,0:06:45.17,Default,,0,0,0,,{\pos(960.16,1020.98)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.17,0:06:45.21,Default,,0,0,0,,{\pos(960.89,1021.25)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.21,0:06:45.25,Default,,0,0,0,,{\pos(961.76,1018.76)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.25,0:06:45.30,Default,,0,0,0,,{\pos(962.3,1017.86)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.30,0:06:45.34,Default,,0,0,0,,{\pos(963.04,1018.02)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.34,0:06:45.38,Default,,0,0,0,,{\pos(962.41,1016.24)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.38,0:06:45.42,Default,,0,0,0,,{\pos(961.77,1017.78)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.42,0:06:45.46,Default,,0,0,0,,{\pos(961.37,1023.5)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.46,0:06:45.50,Default,,0,0,0,,{\pos(961.63,1020.66)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.50,0:06:45.55,Default,,0,0,0,,{\pos(960.84,1022.06)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.55,0:06:45.59,Default,,0,0,0,,{\pos(960.79,1017.08)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.59,0:06:45.63,Default,,0,0,0,,{\pos(959.77,1017.85)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.63,0:06:45.67,Default,,0,0,0,,{\pos(963.01,1020.01)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.67,0:06:45.71,Default,,0,0,0,,{\pos(961.7,1023.47)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.71,0:06:45.76,Default,,0,0,0,,{\pos(959.27,1022.52)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.76,0:06:45.80,Default,,0,0,0,,{\pos(963.05,1016.2)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.80,0:06:45.84,Default,,0,0,0,,{\pos(962.02,1018.6)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.84,0:06:45.88,Default,,0,0,0,,{\pos(963.05,1016.12)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.88,0:06:45.92,Default,,0,0,0,,{\pos(961.11,1018.22)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.92,0:06:45.96,Default,,0,0,0,,{\pos(961.84,1022.07)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:45.96,0:06:46.01,Default,,0,0,0,,{\pos(961.26,1020.32)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:46.01,0:06:46.05,Default,,0,0,0,,{\pos(960.73,1018.27)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:46.05,0:06:46.09,Default,,0,0,0,,{\pos(961.75,1019.51)}You {\i1}seriously{\i0} get on my nerves, y'know that?
+Dialogue: 10,0:06:46.09,0:06:46.13,Default,,0,0,0,,{\pos(962.25,1018.09)}You {\i1}seriously{\i0} get on my nerves, y'know that?
 Dialogue: 10,0:06:58.48,0:07:00.48,Default,,0,0,0,,May I have your order, please?
 Dialogue: 10,0:07:01.98,0:07:04.36,Default,,0,0,0,,Nope! Nuh-uh! No can do!
 Dialogue: 10,0:07:04.36,0:07:07.86,Default,,0,0,0,,What happened to that glare of yours? \NYou lose it somewhere?
@@ -307,12 +306,12 @@ Dialogue: 10,0:10:00.53,0:10:02.33,Default,,0,0,0,,Uh, yeah...
 Dialogue: 10,0:10:02.87,0:10:04.58,Default,,0,0,0,,Put your hand below eye level.
 Dialogue: 10,0:10:06.21,0:10:12.55,Default,,0,0,0,,{\an8}Cats get scared when bigger beasties \Nreach down over their heads.{plural/singular mismatch. suggestion: "reach down over their heads." -Pik}{## fixed}
 Dialogue: 10,0:10:12.55,0:10:14.21,Default,,0,0,0,,Makes sense, yeah.
-Dialogue: 10,0:10:14.67,0:10:16.97,Default,,0,0,0,,Instead, bring it from below and be patient.
+Dialogue: 10,0:10:14.67,0:10:16.97,Default,,0,0,0,,Instead, bring it in from below and be patient.
 Dialogue: 10,0:10:16.97,0:10:19.34,Default,,0,0,0,,There you go. Good kitty. Good kitty.
 Dialogue: 10,0:10:20.01,0:10:21.72,Default,,0,0,0,,Whoa!
 Dialogue: 10,0:10:22.30,0:10:25.22,Default,,0,0,0,,See? It's easy when they're used to people.
 Dialogue: 10,0:10:26.35,0:10:27.98,Default,,0,0,0,,Nice...
-Dialogue: 10,0:10:28.44,0:10:33.11,Default,,0,0,0,,It might belong to a family in the neighborhood \Nor maybe someone's just feeding it.
+Dialogue: 10,0:10:28.44,0:10:33.11,Default,,0,0,0,,It might belong to a family in the neighbourhood, \Nor maybe someone's just feeding it.
 Dialogue: 10,0:10:34.11,0:10:36.40,Default,,0,0,0,,You sure know a lot about cats.
 Dialogue: 10,0:10:36.40,0:10:38.65,Default,,0,0,0,,We have cats at home.
 Dialogue: 10,0:10:38.65,0:10:39.78,Default,,0,0,0,,Two of them!
@@ -387,10 +386,10 @@ Dialogue: 10,0:12:32.98,0:12:33.81,Default,,0,0,0,,What?!
 Dialogue: 10,0:12:33.81,0:12:36.19,Default,,0,0,0,,W-Well... okay.
 Dialogue: 10,0:12:36.86,0:12:40.44,Default,,0,0,0,,{\i1}He saw my undies? Wait—he touched my butt!
 Dialogue: 10,0:12:40.44,0:12:43.36,Default,,0,0,0,,{\i1}Whatever. We'll have a nice, {\i0}long{\i1} chat about it later.{suggestion: remove single-word italics -Pik}
-Dialogue: 10,0:12:43.78,0:12:46.74,Default,,0,0,0,,Look, could you pull me out\Nfrom behind?
-Dialogue: 10,0:12:46.74,0:12:48.28,Default,,0,0,0,,Grab my hips.
+Dialogue: 10,0:12:43.78,0:12:46.74,Default,,0,0,0,,Look, could you pull me out from behind?
+Dialogue: 10,0:12:46.74,0:12:48.28,Default,,0,0,0,,Grab my waist.
 Dialogue: 10,0:12:48.28,0:12:50.62,Default,,0,0,0,,G-Got it.
-Dialogue: 10,0:12:53.12,0:12:55.87,Default,,0,0,0,,{\i1}Wow, her hips are so slim...
+Dialogue: 10,0:12:53.12,0:12:55.87,Default,,0,0,0,,{\i1}Wow, her waist is so slim...
 Dialogue: 10,0:12:57.25,0:13:00.30,Default,,0,0,0,,Whoa! Stop! Stop!
 Dialogue: 10,0:13:00.30,0:13:01.13,Default,,0,0,0,,Huh?
 Dialogue: 10,0:13:01.13,0:13:03.55,Default,,0,0,0,,Uh-oh. My clothes are caught!
@@ -420,7 +419,7 @@ Dialogue: 10,0:14:13.16,0:14:17.04,Default,,0,0,0,,{\i1}It's kinda hard to look 
 Dialogue: 10,0:14:17.37,0:14:18.50,Default,,0,0,0,,Aha!
 Dialogue: 10,0:14:18.50,0:14:20.92,Default,,0,0,0,,Are you embarrassed to be eating alone?
 Dialogue: 10,0:14:21.25,0:14:22.13,Default,,0,0,0,,What?
-Dialogue: 10,0:14:22.13,0:14:27.59,Default,,0,0,0,,Unfortunately I'm already eating with \Nanother friend of mine, so you're on your own.{suggestion: remove single-word italics -Pik}
+Dialogue: 10,0:14:22.13,0:14:27.59,Default,,0,0,0,,Unfortunately, I'm already eating with \Nanother friend of mine, so you're on your own.{suggestion: remove single-word italics -Pik}
 Dialogue: 10,0:14:27.59,0:14:29.80,Default,,0,0,0,,I know you're lonely, but please, \Nhold back your tears.
 Dialogue: 10,0:14:30.18,0:14:33.06,Default,,0,0,0,,Oh, shut up! I'm eating with a friend!
 Dialogue: 10,0:14:34.93,0:14:37.02,Default,,0,0,0,,Eh? {\i1}Huh{\i0}?!
@@ -429,13 +428,13 @@ Dialogue: 10,0:14:40.10,0:14:42.23,Default,,0,0,0,,You've got {\i1}friends{\i0}?
 Dialogue: 10,0:14:42.23,0:14:44.53,Default,,0,0,0,,That is outstandingly rude!{suggestion: remove single-word italics -Pik}
 Dialogue: 10,0:14:44.53,0:14:46.03,Default,,0,0,0,,Oh, man! What now?!
 Dialogue: 10,0:14:46.03,0:14:49.57,Default,,0,0,0,,I'd better say hi to your friend, huh?
-Dialogue: 10,0:14:49.57,0:14:51.70,Default,,0,0,0,,What are you, my mother?
+Dialogue: 10,0:14:49.57,0:14:51.70,Default,,0,0,0,,Who are you, my mother?
 Dialogue: 10,0:14:51.70,0:14:53.12,Default,,0,0,0,,Beat it!
-Dialogue: 10,0:14:53.12,0:14:54.12,Default,,0,0,0,,Idiot.
+Dialogue: 10,0:14:53.12,0:14:54.12,Default,,0,0,0,,Moron.
 Dialogue: 10,0:15:01.63,0:15:02.33,Default,,0,0,0,,Huh?
-Dialogue: 10,0:15:08.05,0:15:10.59,Default,,0,0,0,,{\i1}What's that moron doing?
-Dialogue: 10,0:15:14.14,0:15:15.85,Default,,0,0,0,,{\i1}What are you staring at?
-Dialogue: 10,0:15:30.61,0:15:32.91,Default,,0,0,0,,{\i1}For real, what's up with that moron?
+Dialogue: 10,0:15:08.05,0:15:10.59,Default,,0,0,0,,{\i1}What's that numbskull doing?
+Dialogue: 10,0:15:14.14,0:15:15.85,Default,,0,0,0,,{\i1}What you looking at, huh?
+Dialogue: 10,0:15:30.61,0:15:32.91,Default,,0,0,0,,{\i1}Seriously, what's that numbskull's deal?
 Dialogue: 10,0:15:32.91,0:15:34.53,Default,,0,0,0,,{\i1}I just don't get it.
 Dialogue: 10,0:15:40.83,0:15:43.46,Default,,0,0,0,,{\i1}And what's up with her unfounded concern?{"why is she corcerned on such a thing?" he is more like talking about her weird worries, like he'd be out of place etc}{## That's what this gets across}
 Dialogue: 10,0:16:25.00,0:16:28.34,Default,,0,0,0,,Your noodles are getting soggy, Hana.
@@ -582,9 +581,9 @@ Dialogue: 10,0:19:01.82,0:19:04.16,Default,,0,0,0,,Essay first, food after.
 Dialogue: 10,0:19:04.16,0:19:06.62,Default,,0,0,0,,Wow. Strict.
 Dialogue: 10,0:19:06.62,0:19:08.37,Default,,0,0,0,,You're almost at the finish line!
 Dialogue: 10,0:19:08.37,0:19:09.92,Default,,0,0,0,,This part needs fixing up.
-Dialogue: 9,0:19:10.79,0:19:13.88,Default,,0,0,0,,{\bord8\shad0\3c&HFFFFFF&\blur2}"I think" is something a grade schooler would write.
-Dialogue: 10,0:19:10.79,0:19:13.88,Default,,0,0,0,,"I think" is something a grade schooler would write.
-Dialogue: 9,0:19:13.88,0:19:17.42,Default,,0,0,0,,{\bord8\shad0\3c&HFFFFFF&\blur2}Change it to "It's thought" or "It's considered".
+Comment: 9,0:19:10.79,0:19:13.88,Default,,0,0,0,,{\bord8\shad0\3c&HFFFFFF&\blur2}"I think" is something a grade-schooler would write.
+Dialogue: 10,0:19:10.79,0:19:13.88,Default,,0,0,0,,"I think" is something a grade-schooler would write.
+Comment: 9,0:19:13.88,0:19:17.42,Default,,0,0,0,,{\bord8\shad0\3c&HFFFFFF&\blur2}Change it to "It's thought" or "It's considered".
 Dialogue: 10,0:19:13.88,0:19:17.42,Default,,0,0,0,,Change it to "It's thought" or "It's considered".
 Dialogue: 10,0:19:20.01,0:19:23.47,Default,,0,0,0,,You're in college. Leave childish sentences behind.
 Dialogue: 10,0:19:23.47,0:19:28.81,Default,,0,0,0,,Now me, I'd boost the word count with \N"Personally speaking, it feels as though XYZ..."
@@ -690,7 +689,6 @@ Dialogue: 10,0:21:52.04,0:21:53.66,Alt,,0,0,0,,{\an8}What makes me an idiot?!
 Dialogue: 10,0:21:53.66,0:21:55.41,Alt,,0,0,0,,{\an8}Because you {\i1}are{\i0}!{suggestion: remove single-word italics -Pik}
 Dialogue: 10,0:21:54.87,0:21:57.62,Default,,0,0,0,,{\i1}But these two are the best. \NI could watch them forever.
 Dialogue: 10,0:21:58.83,0:22:01.96,Default,,0,0,0,,{\i1}If Sakurai quits, the show would be over.
-Dialogue: 10,0:22:01.96,0:22:04.92,Default,,0,0,0,,{\i1}Maybe I'll give him a raise.
-Comment: 0,0:22:04.92,0:22:04.92,Default,chapter,0,0,0,,{ED}
+Dialogue: 10,0:22:01.96,0:22:04.92,Default,,0,0,0,,{\i1}Maybe I should give him a raise.
 Comment: 0,0:23:34.93,0:23:34.93,Default,chapter,0,0,0,,{Preview}
 Dialogue: 10,0:23:35.72,0:23:38.43,Default,,0,0,0,,{\fad(113,0)}Guess we'll see Ami next time.
