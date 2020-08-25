@@ -42,7 +42,7 @@ Comment: 5,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,code line,left_frz = math.rand
 Comment: 5,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,code line,right_frz = math.random(327.8,320)
 Comment: 5,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,code line,positions = {left_pos, right_pos}; rotations = {left_frz, right_frz}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,template line loop layer 3,{\blur0.7}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,template line anystyle loop layer 3,{\blur0.7}
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,face,0,0,0,template line notext loop layer 3 loop side 2,{\an5\bord0\fscx94.92\fscy94.92\blur0.65}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,mixin line anystyle,{!TAGS[$loop_layer]!!relayer($loop_layer)!!ln.line.tag('fad')!!ln.line.tag('fscx')!}
