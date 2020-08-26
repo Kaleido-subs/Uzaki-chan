@@ -37,13 +37,9 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,jump_wave = ln.wave.ne
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function add_to_frz(x) return rotations[loopctx.state.side] + rot_factor[loopctx.state.side] * x; end
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function random_height() return orgline.top + (0.4 + 0.35*math.random()) * orgline.height; end
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function bord_fade_alphas() local fad = ln.line.tag('fad'); local s,e = fad:match('(%d+),(%d+)'); if s and tonumber(s) > 0 then return startfade(tonumber(s)); elseif e and tonumber(e) > 0 then return endfade(tonumber(e)); end; end
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function startfade(t) return '\\1a&HFF&' .. ln.tag.t(t, t+1, ln.line.a()) end
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function endfade(t) return ln.tag.t(orgline.duration-t, orgline.duration-t+1, '\\1a&HFF&') end
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function xd_fade_alphas() local fad = ln.line.tag('fad'); local s,e = fad:match('(%d+),(%d+)'); if s and tonumber(s) > 0 then return startxdfade(tonumber(s)); elseif e and tonumber(e) > 0 then return endxdfade(tonumber(e)); end; end
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function startxdfade(t) return '\\4a&HFF&' .. ln.tag.t(0, t, '\\4a&H00&') end
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function endxdfade(t) return ln.tag.t(orgline.duration-t, orgline.duration, '\\4a&HFF&') end
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function bordlayer() return loopctx.state.layer < 3 end
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function line_initial_state() local delay = wave_delay + PERIOD/2*loopctx.state.side + START_DELAY + BPM_OFFSET; local w = jump_wave.getValue(-delay); return string.format('\\yshad%.2f\\frz%.2f', w, add_to_frz(w)); end
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function starts_at_zero() return orgline.start_time == 0; end
@@ -65,7 +61,6 @@ Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,mixin line t_actor xD,{\pos(!p
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,mixin line t_actor xD if starts_at_zero,{!line_initial_state()!!ln.wave.transform(jump_wave, {{'yshad'}, {'frz', add_to_frz}}, START_DELAY, nil, wave_delay + PERIOD/2*$loop_side, nil, nil, 0)!}
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,mixin line t_actor xD unless starts_at_zero,{!ln.wave.transform(jump_wave, {{'yshad'}, {'frz', add_to_frz}}, nil, nil, wave_delay + PERIOD/2*$loop_side, nil, nil, 0)!}
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,mixin line t_actor xD,{!xd_fade_alphas()!}
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,mixin line anystyle if bordlayer,{!nil --[[ bord_fade_alphas() NOTE: Disabled for now because of libass/vsfilter inconsistency. Change if we get path manipulation tools in templates. ]]!}
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,mixin line t_actor xD,{\p1}!XD!{\p0}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:04.07,OP1 - ENG,,0,0,0,karaoke,You think I want to be asked to hang out with you?
