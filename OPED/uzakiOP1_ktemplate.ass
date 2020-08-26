@@ -36,8 +36,8 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,START_DELAY = 1200; BP
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,jump_wave = ln.wave.new(); jump_wave.addWave('square', PERIOD, 5, 0); --jump_wave.addFunction(function (t) return 10 end);
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function add_to_frz(x) return rotations[loopctx.state.side] + rot_factor[loopctx.state.side] * x; end
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function random_height() return orgline.top + (0.4 + 0.35*math.random()) * orgline.height; end
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function xd_fade_alphas() local fad = ln.line.tag('fad'); local s,e = fad:match('(%d+),(%d+)'); if s and tonumber(s) > 0 then return startxdfade(tonumber(s)); elseif e and tonumber(e) > 0 then return endxdfade(tonumber(e)); end; end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function random_height() return orgline.top + rnd(0.4, 0.75) * orgline.height; end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function xd_fade_alphas() local s,e = ln.line.buffers(0,0); if s > 0 then return startxdfade(s); elseif e > 0 then return endxdfade(e); end; end
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function startxdfade(t) return '\\4a&HFF&' .. ln.tag.t(0, t, '\\4a&H00&') end
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function endxdfade(t) return ln.tag.t(orgline.duration-t, orgline.duration, '\\4a&HFF&') end
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
@@ -46,11 +46,11 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function starts_at_zer
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.08,OP1 - ENG,,0,0,0,code line,left_pos = (orgline.left-50) .. "," .. random_height()
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,code line,right_pos = (orgline.right+45) .. "," .. random_height()
-Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,code line,left_frz = math.random(355.8,365)
-Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,code line,right_frz = math.random(327.8,320)
+Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,code line,left_frz = rnd(355.8,365)
+Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,code line,right_frz = rnd(327.8,320)
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,code line,positions = {left_pos, right_pos}; rotations = {left_frz, right_frz}
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,code line,wave_delay = math.random(2)*PERIOD + (orgline.start_time - orgline.start_time % PERIOD) + BPM_OFFSET
-Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,code line,rot_factor = {math.random(-1, 1), math.random() * 2 - 1};
+Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,code line,rot_factor = {rnd(-1, 1), rnd(-1, 1)}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default,text,0,0,0,template line anystyle loop layer 3,{\blur0.7}
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,xD,0,0,0,template line notext loop layer 3 loop side 2,{\an5\bord0\fscx94.92\fscy94.92\blur0.65}
