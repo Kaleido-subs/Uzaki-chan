@@ -23,14 +23,16 @@ Style: Titles,HGPSoeiKakupoptai,80,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\an7\pos(223.22,512.62)\fscx100\fscy100\fnCabin\bord3.5\3c&H3C3D39&\1a&H47&\blur0.5\fad(0,300)\p1}m -62 -64 l 437 -64 437 181 -62 181
-Dialogue: 0,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\pos(411,489.18)\fnCabin\c&H020202&\blur0.5\fad(0,300)}Ami Asai
-Dialogue: 0,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\pos(411,547.73)\fnCabin\fs60\c&H020202&\blur0.5\fad(0,300)}21-year-old senior
-Dialogue: 0,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\pos(411,600)\fnCabin\fs60\c&H020202&\blur0.5\fad(0,300)}at Sakurai's College
-Dialogue: 0,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\pos(286.1,653)\fnCabin\fs45\c&H020202&\blur0.5\fad(0,300)}Hobbies: Ogling
-Dialogue: 0,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\pos(525.95,653)\fnCabin\fs45\c&H020202&\blur0.5\fad(0,300)}People-Watching
-Dialogue: 0,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\an7\pos(349.89,658)\fnCabin\bord1\c&H9447FF&\3c&H9447FF&\1a&H55&\3a&H55&\blur0.6\fad(0,300)\p1}m -5 0 l -22 -17 -17 -22 0 -5 17 -22 22 -17 5 0 22 17 17 22 0 5 -17 22 -22 17
-Dialogue: 0,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\an7\pos(349.89,658)\fnCabin\bord0.5\c&H9447FF&\3c&H000000&\1a&HF0&\3a&H80&\blur5\fad(0,300)\p1}m -5 0 l -22 -17 -17 -22 0 -5 17 -22 22 -17 5 0 22 17 17 22 0 5 -17 22 -22 17
+Dialogue: 1,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\an7\pos(223,513)\fscx100\fscy100\fnCabin\1a&H47&\blur0.5\fad(0,300)\p1}m -62 -64.5 l 437.5 -64.5 437.5 181.5 -62 181.5
+Dialogue: 0,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\an7\pos(223,513)\fscx100\fscy100\fnCabin\bord4\3c&H3C3D39&\1a&H47&\blur0.8\fad(0,300)\iclip(161.5,449,660,694)\p1}m -61.5 -64 l 437 -64 437 181 -61.5 181
+Dialogue: 2,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\pos(411,489)\fnCabin\c&H020202&\blur0.6\fad(0,300)}Ami Asai
+Dialogue: 2,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\pos(411,548)\fnCabin\fs60\c&H020202&\blur0.6\fad(0,300)}21-year-old senior
+Dialogue: 2,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\pos(411,600)\fnCabin\fs60\c&H020202&\blur0.6\fad(0,300)}at Sakurai's College
+Dialogue: 2,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\pos(286,653)\fnCabin\fs45\c&H020202&\blur0.6\fad(0,300)}Hobbies: Ogling
+Dialogue: 2,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\pos(526,653)\fnCabin\fs45\c&H020202&\blur0.6\fad(0,300)}People-Watching
+Dialogue: 4,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\an7\pos(349.89,658)\fnCabin\bord1\c&H9447FF&\3c&H9447FF&\1a&H55&\3a&H55&\blur0.6\fad(0,300)\p1}m -5 0 l -22 -17 -17 -22 0 -5 17 -22 22 -17 5 0 22 17 17 22 0 5 -17 22 -22 17
+Comment: 3,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\an7\pos(349.89,658)\fnCabin\bord0.5\c&H9447FF&\3c&H000000&\1a&HF0&\3a&H80&\blur5\fad(0,300)\p1}m -5 0 l -22 -17 -17 -22 0 -5 17 -22 22 -17 5 0 22 17 17 22 0 5 -17 22 -22 17
+Dialogue: 3,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\an7\pos(349.89,658)\fnCabin\bord0\c&H000000&\1a&HA0&\blur5\fad(0,300)\p1}m -5 0 l -22 -17 -17 -22 0 -5 17 -22 22 -17 5 0 22 17 17 22 0 5 -17 22 -22 17
 Comment: 0,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\fad(0,300)\p1\fnCabin\c&HA059FD&\pos(381,658)}m 5 25 l -22.5 0 l -17.5 0 l 10 25 m 0 0 l 10 0 l -17.5 25 l -22.5 25
 Dialogue: 0,0:01:02.51,0:01:04.28,Signs,,0,0,0,,{\pos(918,409.5)}You cannot
 Dialogue: 0,0:01:57.61,0:02:04.15,Signs,,0,0,0,,{\pos(1002,873)}Uzaki- chan Wants to Hang Out !
