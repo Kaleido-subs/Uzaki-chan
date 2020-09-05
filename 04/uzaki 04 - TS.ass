@@ -35,6 +35,7 @@ Dialogue: 0,0:04:14.61,0:04:18.94,Sign,,0,0,0,,{\blur7.5\frz335.7\c&H707070&\3c&
 Dialogue: 0,0:04:14.61,0:04:18.94,Sign,,0,0,0,,{\blur7.5\frz335.7\c&H707070&\3c&HFFFFFF&\pos(885,309)\shad1.5\bord3.6\3a&H00&\an2}Gorilla
 Dialogue: 0,0:04:14.61,0:04:18.94,Sign,,0,0,0,,{\blur7.5\frz335.7\c&H707070&\3c&HFFFFFF&\pos(639,909)\shad1.5\bord3.6\3a&H00&\an2}Gorilla
 Dialogue: 0,0:04:14.61,0:04:18.94,Sign,,0,0,0,,{\blur7.5\frz335.7\c&H707070&\3c&HFFFFFF&\pos(978,1047)\shad1.5\bord3.6\3a&H00&\an2}Gorilla
+Dialogue: 10,0:05:15.41,0:05:17.17,Default,,0,0,0,,{\bord0.15\move(966,570,966,-90)\c&H0CF1FB&\3c&H0CF1FB&\frz10.01}Protect Your Eyes {\c&HF4F5F7&\3c&HF4F5F7&}from Blue Light!
 Dialogue: 0,0:11:18.28,0:11:21.28,Sign,,0,0,0,,{\be3\shad7.5\fnImpact\fs75\c&HE1E1E1&\2c&HE0E2E2&\4c&H826338&\pos(951,657)\4a&H00&\b0\an2\3a&H00&}When Your Chest's Tight and Your Heart Won't Stop Pounding
 Dialogue: 0,0:13:05.28,0:13:06.78,Sign,,0,0,0,,{\bord0.3\frz16.79\c&H567868&\fnOpen Sans Extrabold\pos(870,501)\3a&H00&\shad1.5\an2}Uzaki
 Dialogue: 0,0:13:05.28,0:13:06.78,Sign,,0,0,0,,{\bord0.3\frz16.79\c&H567868&\fnOpen Sans Extrabold\pos(918,660)\3a&H00&\shad1.5\an2}Uzaki
