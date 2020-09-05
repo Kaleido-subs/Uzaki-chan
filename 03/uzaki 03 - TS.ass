@@ -325,18 +325,62 @@ Dialogue: 0,0:01:02.50,0:01:04.25,Signs,,0,0,0,,{\clip(1654,340,1659,767)\pos(93
 Dialogue: 0,0:01:02.50,0:01:04.25,Signs,,0,0,0,,{\clip(1659,340,1664,767)\pos(930,765)\an7\fnBubblegum Sans\fs150\3a&HD0&\blur10\fscx100\fscy100\p1\c&HDFD3DB&\3c&HDFD3DB&}m 1 -394 l -628 -366 -631 -73 11 -28 704 -93 682 -347
 Comment: 0,0:01:02.50,0:01:04.25,Signs,,0,0,0,,{\pos(918,409.5)}In your dreams, maybe
 Dialogue: 0,0:01:57.61,0:02:04.15,Signs,,0,0,0,,{\pos(1002,873)}Uzaki- chan Wants to Hang Out !
-Dialogue: 0,0:03:19.98,0:03:25.94,Signs,,0,0,0,,{\pos(942,306)}Asia
-Dialogue: 0,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\fad(100,0)\pos(405,336)}Episode
-Dialogue: 0,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\fad(100,0)\pos(570,336)}3
-Dialogue: 0,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\fad(100,0)\pos(876,462)}The Asai Family
-Dialogue: 0,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\fad(100,0)\pos(1470,579)}Wants to Look Out for Us !
-Dialogue: 0,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\p1\pos(225,399)}m 225 0 b 450 0 450 450 225 450 b 0 450 0 0 225 0 m 549 486 l 306 423 l 124.5 114
-Dialogue: 0,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\pos(180,237)}Uza-Attack SColds with
+Dialogue: 0,0:03:19.97,0:03:25.93,Signs,,0,0,0,,{=6}{\c&HD4D6E3&\blur1\fnDay Roman\fs90\pos(923.81,215.69)}C{*\c&HD2D3E1&}a{*\c&HCFCFDE&}f{\c&HCDCCDC&}é
+Dialogue: 0,0:03:19.97,0:03:25.93,Signs,,0,0,0,,{=6}{\c&HCDCEDE&\blur1\fnDay Roman\fs90\pos(923.81,291.145)}A{*\c&HCCCDDE&}s{*\c&HCBCCDD&}i{\c&HCACBDD&}a
+Dialogue: 0,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\fad(420,0)\pos(456,288.8)\bord5\c&HFFFFFF&\blur0.6\1a&HFF&\t(420,420,1,\1a&H00&)}Episode 3
+Dialogue: 1,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\fad(420,0)\pos(456,288.8)\c&H0E9CFF&\blur0.6}Episode {\c&H1C9C3A&}3
+Dialogue: 0,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\fad(420,0)\pos(662,661.6)\bord5\c&HFDFDFC&\3c&HFDFDFC&\blur0.6\1a&HFF&\t(420,420,1,\1a&H00&)}The A{\alpha&HFF&}sai{\alpha} Family
+Dialogue: 1,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\fad(420,0)\pos(662,661.6)\c&H1C9936&\blur0.6}The A{\alpha&HFF&}sai{\alpha} Family
+Dialogue: 0,0:03:20.30,0:03:25.94,Titles,,0,0,0,,{\pos(640,661.6)\bord5\c&HFDFDFC&\3c&HFDFDFC&\blur0.6\clip(552,617.6,591,716)\t(0,470,\clip(552,617.6,695,709))}sai
+Dialogue: 1,0:03:20.30,0:03:25.94,Titles,,0,0,0,,{\pos(640,661.6)\c&H0E9BFF&\blur0.6\clip(552,617.6,591,716)\t(0,470,\clip(552,617.6,695,709))}sai
+Dialogue: 0,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\fad(420,0)\pos(1129.6,789.6)\bord5\c&HFDFDFC&\3c&HFDFDFC&\blur0.6\1a&HFF&\t(420,420,1,\1a&H00&)}Wants to {\alpha&HFF&}Look Out{\alpha} for Us!
+Dialogue: 1,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\fad(420,0)\pos(1129.6,789.6)\c&H1C9936&\blur0.6}Wants to {\alpha&HFF&}Look Out{\alpha} for Us!
+Dialogue: 1,0:03:20.30,0:03:25.94,Titles,,0,0,0,,{\3c&HFFFFFF&\c&HFFFFFF&\pos(1161.9,789.6)\blur0.6\bord5\clip(980,722,980,844)\t(0,470,\clip(980,722,1335,845))}Look Out
+Dialogue: 2,0:03:20.30,0:03:25.94,Titles,,0,0,0,,{\pos(1161.9,789.6)\c&H0E9CFF&\blur0.6\bord0\clip(980,722,980,844)\t(0,470,\clip(980,722,1335,845))\4a&HFF&}Look Out
+Dialogue: 0,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\pos(486.667,301)}Uza-Attack SColds with
 Dialogue: 0,0:17:46.07,0:17:54.03,Signs,,0,0,0,,"Total Mastery: Beginner's
 Dialogue: 0,0:21:15.23,0:21:16.30,Signs,,0,0,0,,"Total Mastery: Beginner's Guide to Hypnosis"
 Dialogue: 0,0:21:16.29,0:21:18.50,Signs,,0,0,0,,"Total Mastery: Beginner's Guide to Hypnosis"
-Dialogue: 0,0:23:35.23,0:23:39.99,Titles,,0,0,0,,{\fad(100,0)\pos(405,336)}Episode
-Dialogue: 0,0:23:35.32,0:23:39.99,Titles,,0,0,0,,{\fad(100,0)\pos(570,336)}4
-Dialogue: 0,0:23:35.52,0:23:39.99,Titles,,0,0,0,,{\fad(100,0)\pos(939,471)}I Want to Hang Out
-Dialogue: 0,0:23:35.73,0:23:39.99,Titles,,0,0,0,,{\fad(100,0)\pos(1521,585)}Together Over the
-Dialogue: 0,0:23:35.73,0:23:39.99,Titles,,0,0,0,,{\fad(100,0)\pos(1791,675)}Holiday!
+Dialogue: 0,0:23:35.22,0:23:35.26,Titles,,0,0,0,,{\pos(331,134.238)\bord5\c&HFFFFFF&\1a&HFF&\3a&HA0&\blur0.6}Epi
+Dialogue: 1,0:23:35.22,0:23:35.26,Titles,,0,0,0,,{\pos(331,134.238)\c&HEEC323&\1a&HA0&\blur0.6}Epi
+Dialogue: 0,0:23:35.26,0:23:35.31,Titles,,0,0,0,,{\pos(331,216.371)\bord5\c&HFFFFFF&\1a&HFF&\3a&H5B&\blur0.6}Epi
+Dialogue: 1,0:23:35.26,0:23:35.31,Titles,,0,0,0,,{\pos(331,216.371)\c&HEEC323&\1a&H5B&\blur0.6}Epi
+Dialogue: 0,0:23:35.31,0:23:35.35,Titles,,0,0,0,,{\pos(331,307.8)\fscx98\bord5\c&HFFFFFF&\blur0.6}Epi
+Dialogue: 1,0:23:35.31,0:23:35.35,Titles,,0,0,0,,{\pos(331,307.8)\fscx98\c&HEEC323&\blur0.6}Epi
+Dialogue: 0,0:23:35.35,0:23:35.39,Titles,,0,0,0,,{\pos(331,315.8)\fscx95\bord5\c&HFFFFFF&\blur0.6}Epi
+Dialogue: 1,0:23:35.35,0:23:35.39,Titles,,0,0,0,,{\pos(331,315.8)\fscx95\c&HEEC323&\blur0.6}Epi
+Dialogue: 0,0:23:35.39,0:23:35.43,Titles,,0,0,0,,{\pos(331,304.8)\fscx98\bord5\c&HFFFFFF&\blur0.6}Epi
+Dialogue: 1,0:23:35.39,0:23:35.43,Titles,,0,0,0,,{\pos(331,304.8)\fscx98\c&HEEC323&\blur0.6}Epi
+Dialogue: 0,0:23:35.43,0:23:35.60,Titles,,0,0,0,,{\pos(331,288.8)\bord5\c&HFFFFFF&\blur0.6}Epi
+Dialogue: 1,0:23:35.43,0:23:35.60,Titles,,0,0,0,,{\pos(331,288.8)\c&HEEC323&\blur0.6}Epi
+Dialogue: 0,0:23:35.31,0:23:35.35,Titles,,0,0,0,,{\pos(475.4,134.238)\bord5\c&HFFFFFF&\1a&HFF&\3a&HA0&\blur0.6}sode
+Dialogue: 1,0:23:35.31,0:23:35.35,Titles,,0,0,0,,{\pos(475.4,134.238)\c&HEEC323&\1a&HA0&\blur0.6}sode
+Dialogue: 0,0:23:35.35,0:23:35.39,Titles,,0,0,0,,{\pos(475.4,216.371)\bord5\c&HFFFFFF&\1a&HFF&\3a&H5B&\blur0.6}sode
+Dialogue: 1,0:23:35.35,0:23:35.39,Titles,,0,0,0,,{\pos(475.4,216.371)\c&HEEC323&\1a&H5B&\blur0.6}sode
+Dialogue: 0,0:23:35.39,0:23:35.43,Titles,,0,0,0,,{\pos(475.4,322.8)\fscx90\fscy90\bord5\c&HFFFFFF&\blur0.6}sode
+Dialogue: 1,0:23:35.39,0:23:35.43,Titles,,0,0,0,,{\pos(475.4,322.8)\fscx90\fscy90\c&HEEC323&\blur0.6}sode
+Dialogue: 0,0:23:35.43,0:23:35.47,Titles,,0,0,0,,{\pos(475.4,323.8)\fscx90\fscy95\bord5\c&HFFFFFF&\blur0.6}sode
+Dialogue: 1,0:23:35.43,0:23:35.47,Titles,,0,0,0,,{\pos(475.4,323.8)\fscx90\fscy95\c&HEEC323&\blur0.6}sode
+Dialogue: 0,0:23:35.47,0:23:35.51,Titles,,0,0,0,,{\pos(475.4,304.8)\fscx95\fscy98\bord5\c&HFFFFFF&\blur0.6}sode
+Dialogue: 1,0:23:35.47,0:23:35.51,Titles,,0,0,0,,{\pos(475.4,304.8)\fscx95\fscy98\c&HEEC323&\blur0.6}sode
+Dialogue: 0,0:23:35.51,0:23:35.60,Titles,,0,0,0,,{\pos(475.4,288.8)\bord5\c&HFFFFFF&\blur0.6}sode
+Dialogue: 1,0:23:35.51,0:23:35.60,Titles,,0,0,0,,{\pos(475.4,288.8)\c&HEEC323&\blur0.6}sode
+Dialogue: 0,0:23:35.39,0:23:35.43,Titles,,0,0,0,,{\pos(613.7,142.514)\bord5\c&HFFFFFF&\1a&HFF&\3a&HA0&\blur0.6}4
+Dialogue: 1,0:23:35.39,0:23:35.43,Titles,,0,0,0,,{\pos(613.7,142.514)\c&H769CFF&\1a&HA0&\blur0.6}4
+Dialogue: 0,0:23:35.43,0:23:35.47,Titles,,0,0,0,,{\pos(613.7,224.8)\bord5\c&HFFFFFF&\1a&HFF&\3a&H5A&\blur0.6}4
+Dialogue: 1,0:23:35.43,0:23:35.47,Titles,,0,0,0,,{\pos(613.7,224.8)\c&H769CFF&\1a&H5A&\blur0.6}4
+Dialogue: 0,0:23:35.47,0:23:35.51,Titles,,0,0,0,,{\pos(613.7,298.8)\fscx80\bord5\c&HFFFFFF&\blur0.6}4
+Dialogue: 1,0:23:35.47,0:23:35.51,Titles,,0,0,0,,{\pos(613.7,298.8)\fscx80\c&H769CFF&\blur0.6}4
+Dialogue: 0,0:23:35.51,0:23:35.56,Titles,,0,0,0,,{\pos(613.7,315.8)\fscx90\bord5\c&HFFFFFF&\blur0.6}4
+Dialogue: 1,0:23:35.51,0:23:35.56,Titles,,0,0,0,,{\pos(613.7,315.8)\fscx90\c&H769CFF&\blur0.6}4
+Dialogue: 0,0:23:35.56,0:23:35.60,Titles,,0,0,0,,{\pos(613.7,301.8)\fscx95\bord5\c&HFFFFFF&\blur0.6}4
+Dialogue: 1,0:23:35.56,0:23:35.60,Titles,,0,0,0,,{\pos(613.7,301.8)\fscx95\c&H769CFF&\blur0.6}4
+Dialogue: 0,0:23:35.60,0:23:40.02,Titles,,0,0,0,,{\pos(456,288.8)\bord5\c&HFFFFFF&\blur0.6}Episode 4
+Dialogue: 1,0:23:35.60,0:23:40.02,Titles,,0,0,0,,{\pos(456,288.8)\c&HEEC323&\blur0.6}Episode {\c&H769CFF&}4
+Dialogue: 0,0:23:35.51,0:23:40.02,Titles,,0,0,0,,{\fad(100,0)\pos(662,661.6)\bord5\c&HFDFDFC&\3c&HFDFDFC&\blur0.6\1a&HFF&\blur0.6\t(100,100,\1a&H00&)}I Want to Hang Out
+Dialogue: 1,0:23:35.51,0:23:40.02,Titles,,0,0,0,,{\fad(100,0)\pos(662,661.6)\c&HEDC021&\blur0.6}I Want to {\c&H7195FF&}Hang {\c&HEDC021&}Out
+Dialogue: 0,0:23:35.72,0:23:39.93,Titles,,0,0,0,,{\fad(100,0)\bord5\c&HFDFDFC&\3c&HFDFDFC&\1a&HFF&\blur0.6\t(100,100,\1a&H00&)\pos(1212.457,789.6)}Together Over the Holiday!
+Dialogue: 1,0:23:35.72,0:23:40.02,Titles,,0,0,0,,{\fad(100,0)\c&HEDC021&\blur0.6\pos(1212.457,789.6)}Together {\c&H7195FF&}Over {\c&HEDC021&}the Holiday!
+
+[Aegisub Extradata]
+Data: 6,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A3}
