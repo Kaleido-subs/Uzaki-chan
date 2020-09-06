@@ -337,7 +337,94 @@ Dialogue: 0,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\fad(420,0)\pos(1129.6,789.6)\
 Dialogue: 1,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\fad(420,0)\pos(1129.6,789.6)\c&H1C9936&\blur0.6}Wants to {\alpha&HFF&}Look Out{\alpha} for Us!
 Dialogue: 1,0:03:20.30,0:03:25.94,Titles,,0,0,0,,{\3c&HFFFFFF&\c&HFFFFFF&\pos(1161.9,789.6)\blur0.6\bord5\clip(980,722,980,844)\t(0,470,\clip(980,722,1335,845))}Look Out
 Dialogue: 2,0:03:20.30,0:03:25.94,Titles,,0,0,0,,{\pos(1161.9,789.6)\c&H0E9CFF&\blur0.6\bord0\clip(980,722,980,844)\t(0,470,\clip(980,722,1335,845))\4a&HFF&}Look Out
-Dialogue: 0,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\pos(486.667,301)}Uza-Attack SColds with
+Comment: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{=7}{\an7\blur1.5\pos(453.5,508.4)\c&HFFFFFF&\1a&HAD&\clip\p1}m -18 51 l 97 33 99 39 -12 65
+Comment: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{=7}{\an7\blur1.5\pos(453.5,508.4)\c&HFFFFFF&\1a&HF0&\clip\p1}m -18 51 l 97 33 99 39 -12 65
+Comment: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{=7}{\an7\blur1.5\pos(453.5,508.4)\c&HFFFFFF&\1a&HFF&\clip\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HB4&\blur1.5\clip(432,533,433,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HB5&\blur1.5\clip(433,533,434,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HB6&\blur1.5\clip(434,533,435,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HB7&\blur1.5\clip(435,533,436,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HB8&\blur1.5\clip(436,533,437,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HB9&\blur1.5\clip(437,533,438,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HBA&\blur1.5\clip(438,533,439,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HBB&\blur1.5\clip(439,533,440,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HBC&\blur1.5\clip(440,533,441,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HBD&\blur1.5\clip(441,533,442,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HBE&\blur1.5\clip(442,533,443,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HBF&\blur1.5\clip(443,533,444,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HC0&\blur1.5\clip(444,533,445,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HC1&\blur1.5\clip(445,533,446,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HC2&\blur1.5\clip(446,533,447,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HC3&\blur1.5\clip(447,533,448,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HC4&\blur1.5\clip(448,533,449,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HC5&\blur1.5\clip(449,533,450,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HC6&\blur1.5\clip(450,533,451,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HC7&\blur1.5\clip(451,533,452,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HC8&\blur1.5\clip(452,533,453,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HC9&\blur1.5\clip(453,533,454,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HCA&\blur1.5\clip(454,533,455,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HCB&\blur1.5\clip(455,533,456,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HCC&\blur1.5\clip(456,533,457,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HCD&\blur1.5\clip(457,533,458,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HCE&\blur1.5\clip(458,533,459,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HCF&\blur1.5\clip(459,533,460,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HD0&\blur1.5\clip(460,533,461,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HD1&\blur1.5\clip(461,533,462,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HD2&\blur1.5\clip(462,533,463,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HD3&\blur1.5\clip(463,533,464,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HD4&\blur1.5\clip(464,533,465,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HD5&\blur1.5\clip(465,533,466,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HD6&\blur1.5\clip(466,533,467,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HD7&\blur1.5\clip(467,533,468,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HD8&\blur1.5\clip(468,533,469,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HD9&\blur1.5\clip(469,533,470,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HDA&\blur1.5\clip(470,533,471,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HDB&\blur1.5\clip(471,533,472,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HDC&\blur1.5\clip(472,533,473,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HDD&\blur1.5\clip(473,533,474,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HDE&\blur1.5\clip(474,533,475,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HDF&\blur1.5\clip(475,533,476,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HE0&\blur1.5\clip(476,533,477,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HE1&\blur1.5\clip(477,533,478,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HE2&\blur1.5\clip(478,533,479,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HE3&\blur1.5\clip(479,533,480,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HE4&\blur1.5\clip(480,533,481,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HE5&\blur1.5\clip(481,533,482,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HE6&\blur1.5\clip(482,533,483,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HE7&\blur1.5\clip(483,533,484,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HE8&\blur1.5\clip(484,533,485,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HE9&\blur1.5\clip(485,533,486,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HEA&\blur1.5\clip(486,533,487,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HEB&\blur1.5\clip(487,533,488,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HEC&\blur1.5\clip(488,533,489,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HED&\blur1.5\clip(489,533,490,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HEE&\blur1.5\clip(490,533,491,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HEF&\blur1.5\clip(491,533,492,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HF0&\blur1.5\clip(492,533,496,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HF1&\blur1.5\clip(496,533,500,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HF2&\blur1.5\clip(500,533,505,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HF3&\blur1.5\clip(505,533,509,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HF4&\blur1.5\clip(509,533,513,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HF5&\blur1.5\clip(513,533,518,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HF6&\blur1.5\clip(518,533,522,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HF7&\blur1.5\clip(522,533,526,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HF8&\blur1.5\clip(526,533,531,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HF9&\blur1.5\clip(531,533,535,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HFA&\blur1.5\clip(535,533,540,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HFB&\blur1.5\clip(540,533,544,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HFC&\blur1.5\clip(544,533,549,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HFD&\blur1.5\clip(549,533,553,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(453.5,508.4)\c&HFFFFFF&\1a&HFE&\blur1.5\clip(553,533,557,582)\p1}m -18 51 l 97 33 99 39 -12 65
+Comment: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{=7}{\frz-247.38\fax-0.58\fscx40\fs65\b1\fnHelvetica\pos(452.867,508.4)\blur0.6\c&H91E6FA&\clip(m 429 603 l 350 416 609 387 702 556)}Uza-Attack S
+Dialogue: 0,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(452.867,508.4)\c&H8A2F25&\blur1\p1}m 56 78 l 0 -58 -59 -49 -1 89
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\pos(456.559,515.169)\fscx40\frz113.43\fry4.12\frx9.72\fax-0.7\fnHelvetica\fs65\b1\c&H91E6FA&\blur0.8}U{\blur0.83}Z{\blur0.87}A{\blur0.9}t{\blur0.93}t{\blur0.97}a{\blur1}c{\blur1.03}k {\blur1.1}S
+Dialogue: 0,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(510.134,520.44)\c&H8A2F25&\blur1\p1}m 50 55 l 8 -40 -2 -47 -44 -41 1 63
+Dialogue: 0,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\pos(510.134,520.44)\fscx40\frz-245.14\fax-0.7\fnHelvetica\fs65\c&H4E6CD0&\blur0.8}C{\blur0.82}o{\blur0.84}l{\blur0.87}d {\blur0.91}& {\blur0.96}F{\blur0.98}l{\blur1}u
+Dialogue: 0,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(473.148,433.518)\c&H8B2F27&\blur1\p1}m 23 39 l 17 20 31 15 10 -30 -33 -26 -6 43
+Dialogue: 0,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\pos(461.808,438.773)\fscx40\frz-245.14\fax-0.7\fnHelvetica\fs25\c&H4E6CD0&\blur1}Nasal congestion
+Dialogue: 0,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\pos(481.488,428.263)\fscx40\frz-245.14\fax-0.7\fnHelvetica\fs25\c&H4E6CD0&\blur1}Runny nose
+Dialogue: 0,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\an7\pos(570.99,524.629)\c&HF0CF8D&\blur1\p1}m 27 28 l 4 -24 -25 -27 1 28
+Dialogue: 1,0:11:56.36,0:12:03.83,Signs,,0,0,0,,{\pos(573.452,522.783)\fscx40\frz-244.27\fax-0.72\fnHelvetica\fs30\b1\c&H5A4E37&\blur0.8}2{\b0} PER DAY
 Dialogue: 0,0:17:46.07,0:17:54.03,Signs,,0,0,0,,"Total Mastery: Beginner's
 Dialogue: 0,0:21:15.23,0:21:16.30,Signs,,0,0,0,,"Total Mastery: Beginner's Guide to Hypnosis"
 Dialogue: 0,0:21:16.29,0:21:18.50,Signs,,0,0,0,,"Total Mastery: Beginner's Guide to Hypnosis"
@@ -384,3 +471,4 @@ Dialogue: 1,0:23:35.72,0:23:40.02,Titles,,0,0,0,,{\fad(100,0)\c&HEDC021&\blur0.6
 
 [Aegisub Extradata]
 Data: 6,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A3}
+Data: 7,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A1}
