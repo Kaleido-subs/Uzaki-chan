@@ -324,7 +324,7 @@ Dialogue: 0,0:01:02.50,0:01:04.25,Signs,,0,0,0,,{\clip(1649,340,1654,767)\pos(93
 Dialogue: 0,0:01:02.50,0:01:04.25,Signs,,0,0,0,,{\clip(1654,340,1659,767)\pos(930,765)\an7\fnBubblegum Sans\fs150\3a&HD0&\blur10\fscx100\fscy100\p1\c&HDFD3DB&\3c&HDFD3DB&}m 1 -394 l -628 -366 -631 -73 11 -28 704 -93 682 -347
 Dialogue: 0,0:01:02.50,0:01:04.25,Signs,,0,0,0,,{\clip(1659,340,1664,767)\pos(930,765)\an7\fnBubblegum Sans\fs150\3a&HD0&\blur10\fscx100\fscy100\p1\c&HDFD3DB&\3c&HDFD3DB&}m 1 -394 l -628 -366 -631 -73 11 -28 704 -93 682 -347
 Comment: 0,0:01:02.50,0:01:04.25,Signs,,0,0,0,,{\pos(918,409.5)}In your dreams, maybe
-Dialogue: 0,0:01:57.61,0:02:04.15,Signs,,0,0,0,,{\pos(1002,873)}Uzaki- chan Wants to Hang Out !
+Comment: 0,0:01:57.61,0:02:04.15,Signs,,0,0,0,,{\pos(1002,873)}Uzaki- chan Wants to Hang Out !
 Dialogue: 0,0:03:19.97,0:03:25.93,Signs,,0,0,0,,{=6}{\c&HD4D6E3&\blur1\fnDay Roman\fs90\pos(923.81,215.69)}C{*\c&HD2D3E1&}a{*\c&HCFCFDE&}f{\c&HCDCCDC&}é
 Dialogue: 0,0:03:19.97,0:03:25.93,Signs,,0,0,0,,{=6}{\c&HCDCEDE&\blur1\fnDay Roman\fs90\pos(923.81,291.145)}A{*\c&HCCCDDE&}s{*\c&HCBCCDD&}i{\c&HCACBDD&}a
 Dialogue: 0,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\fad(420,0)\pos(456,288.8)\bord5\c&HFFFFFF&\blur0.6\1a&HFF&\t(420,420,1,\1a&H00&)}Episode 3
