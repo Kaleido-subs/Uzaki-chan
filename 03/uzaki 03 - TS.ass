@@ -34,7 +34,7 @@ Dialogue: 3,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\pos(526,653)\fnCabin\fs45\c&H0
 Dialogue: 5,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\an7\pos(349.89,658)\fnCabin\bord1\c&H9447FF&\3c&H9447FF&\1a&H55&\3a&H55&\blur0.6\fad(0,300)\p1}m -5 0 l -22 -17 -17 -22 0 -5 17 -22 22 -17 5 0 22 17 17 22 0 5 -17 22 -22 17
 Dialogue: 4,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\an7\pos(349.89,658)\fnCabin\c&H000000&\1a&HA0&\blur5\fad(0,300)\p1}m -5 0 l -22 -17 -17 -22 0 -5 17 -22 22 -17 5 0 22 17 17 22 0 5 -17 22 -22 17
 Dialogue: 6,0:01:02.50,0:01:04.25,Signs,,0,0,0,,{\pos(946,548.667)\fnBubblegum Sans\fs150\b1\c&HFDFBFD&\blur0.5}In your dreams, maybe
-Dialogue: 5,0:01:02.50,0:01:04.25,Signs,,0,0,0,,{\pos(946,548.667)\fnBubblegum Sans\fs150\b1\bord1.5\xshad-1\yshad3\4c&H70726B&\1a&HFF&\3a&HFE&\4a&HB4&\blur2}In your dreams, maybe
+Dialogue: 5,0:01:02.50,0:01:04.25,Signs,,0,0,0,,{\pos(946,548.667)\fnBubblegum Sans\fs150\b1\bord1.5\xshad-1\yshad3\4c&H70726B&\1a&HFE&\3a&HFE&\4a&HB4&\blur2}In your dreams, maybe
 Comment: 4,0:01:02.50,0:01:04.25,Signs,,0,0,0,,{\pos(946,548.667)\fnBubblegum Sans\fs150\bord2.5\xshad0.5\yshad-1\4c&HFFFFFC&\1a&HFF&\3a&HFE&\blur1\b1}In your dreams, maybe
 Dialogue: 3,0:01:02.50,0:01:04.25,Signs,,0,0,0,,{\pos(946,548.667)\fnBubblegum Sans\fs150\b1\bord2\c&HE5B197&\3c&HE5B197&\3a&H40&\blur2}In your dreams, maybe
 Dialogue: 2,0:01:02.50,0:01:04.25,Signs,,0,0,0,,{\pos(946,548.667)\fnBubblegum Sans\fs150\b1\bord4\c&H000000&\3c&HE5B197&\1a&HFF&\3a&H40&\blur6}In your dreams, maybe
