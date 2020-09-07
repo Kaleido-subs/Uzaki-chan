@@ -31,7 +31,7 @@ Dialogue: 10,0:00:07.11,0:00:10.86,Default,,0,0,0,,{\i1\q2}Sakurai Shinichi star
 Dialogue: 10,0:00:10.86,0:00:12.32,Default,,0,0,0,,{\i1}Thuggish looks aside,
 Dialogue: 10,0:00:12.32,0:00:17.03,Default,,0,0,0,,{\q2\i1}he treats his work very seriously, and our regulars \Nhave nothing but good things to say about him.{## might have to yeet the part about having a "serious" personality, which is also kinda implied here anyway?}
 Dialogue: 10,0:00:17.33,0:00:18.87,Default,,0,0,0,,{\i1}But, most importantly of all,
-Dialogue: 10,0:00:20.50,0:00:22.54,Default,,0,0,0,,{\i1\pos(1123,1024)}he's got some \Nmighty fine collarbones.{ugh the line here is so plain, work your magic pls light}{## What exactly is she referring to? checked a scanlation, and they say collarbone}
+Dialogue: 10,0:00:20.50,0:00:22.54,Default,,0,0,0,,{\i1\pos(1123,1024)}he's got a \Nmighty fine collarbone.{ugh the line here is so plain, work your magic pls light}{## What exactly is she referring to? checked a scanlation, and they say collarbone}
 Dialogue: 10,0:00:24.12,0:00:25.67,Default,,0,0,0,,{\i1\pos(1123,1024)}Whoopsie-daisy.
 Dialogue: 10,0:00:25.67,0:00:27.34,Default,,0,0,0,,{\i1\pos(1123,1024)}He's sure got the stuff.{That Sakurai's something, all right.}
 Dialogue: 10,0:00:27.34,0:00:29.46,Default,,0,0,0,,{\i1}Upon closer inspection, he's pretty hunky.
@@ -39,9 +39,9 @@ Dialogue: 10,0:00:29.46,0:00:33.17,Default,,0,0,0,,{\q2\i1}He looks nice and sle
 Dialogue: 10,0:00:33.17,0:00:36.09,Default,,0,0,0,,Sakurai, we'd like to settle the bill.
 Dialogue: 10,0:00:36.09,0:00:37.26,Default,,0,0,0,,On my way!
 Dialogue: 10,0:00:37.26,0:00:41.98,Default,,0,0,0,,{\q2\i1}I doubt he's noticed yet, \Nbut he's been attracting a lot of fans.
-Dialogue: 10,0:00:41.98,0:00:45.40,Default,,0,0,0,,{\q2}You're pretty tall, Sakurai! \NHow many centimeters?
+Dialogue: 10,0:00:41.98,0:00:45.40,Default,,0,0,0,,You always seem so towering, Sakurai! \NHow tall are you, anyway?
 Dialogue: 10,0:00:45.40,0:00:46.69,Default,,0,0,0,,One-eighty.
-Dialogue: 10,0:00:46.69,0:00:48.44,Default,,0,0,0,,Whoa, that's tall!
+Dialogue: 10,0:00:46.69,0:00:48.44,Default,,0,0,0,,My, what a colossus!
 Dialogue: 10,0:00:48.44,0:00:50.28,Default,,0,0,0,,Do you play any sports?
 Dialogue: 10,0:00:50.28,0:00:52.11,Default,,0,0,0,,I used to be in the swimming club.
 Dialogue: 10,0:00:52.11,0:00:53.95,Default,,0,0,0,,Wow, really?
@@ -55,7 +55,7 @@ Dialogue: 10,0:01:16.55,0:01:21.31,Default,,0,0,0,,It's fine to get lost in thou
 Dialogue: 10,0:01:21.31,0:01:23.68,Default,high CPS,0,0,0,,It's important to stay on top of things \Nin this line of work.
 Dialogue: 10,0:01:24.23,0:01:26.89,Default,,0,0,0,,You'll lose track of all kinds of things \Nif you aren't careful.
 Dialogue: 10,0:01:27.94,0:01:30.23,Default,,0,0,0,,Right. I'm sorry.
-Dialogue: 10,0:01:30.23,0:01:32.61,Default,,0,0,0,,{\q2}I understand your hobbies, \Nbut focus on work for now.
+Dialogue: 10,0:01:30.23,0:01:32.61,Default,,0,0,0,,I understand your hobbies, \Nbut focus on work for now.
 Dialogue: 10,0:01:32.61,0:01:35.45,Default,,0,0,0,,Now, go clear those customers' table.
 Dialogue: 10,0:01:35.45,0:01:36.95,Default,,0,0,0,,Sure, Dad.
 Dialogue: 10,0:01:37.36,0:01:42.33,Default,,0,0,0,,{\q2\i1}Dad might seem nice and gentle, \Nbut he's pretty strict with family.
@@ -64,43 +64,43 @@ Dialogue: 10,0:01:47.42,0:01:49.29,Default,,0,0,0,,Hiya!
 Comment: 0,0:03:19.97,0:03:20.01,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:03:22.22,0:03:24.39,Default,,0,0,0,,Ugh, you again?{"Heck, you're here again?"}
 Dialogue: 10,0:03:24.39,0:03:25.93,Default,,0,0,0,,Don't have anything better to do?
-Dialogue: 10,0:03:25.93,0:03:29.77,Default,,0,0,0,,{\q2}Right back at ya! But hey, \Nprops to you for working on a Sunday!{"props to you working on a sunday"}
-Dialogue: 10,0:03:30.35,0:03:32.48,Default,,0,0,0,,{\i1}Who's this? Who? Who?!
+Dialogue: 10,0:03:25.93,0:03:29.77,Default,,0,0,0,,Right back at ya! But hey, \Nprops to you for working on a Sunday!{"props to you working on a sunday"}
+Dialogue: 10,0:03:30.35,0:03:32.48,Default,,0,0,0,,{\i1}Who are you? Who? Who?!
 Dialogue: 10,0:03:32.81,0:03:34.61,Default,,0,0,0,,Good afternoon, Hana.
 Dialogue: 10,0:03:34.61,0:03:36.19,Default,,0,0,0,,{\i1}Dad knows her, too?
-Dialogue: 10,0:03:36.19,0:03:37.53,Default,,0,0,0,,Sir! Up top! Yay!
+Dialogue: 10,0:03:36.19,0:03:37.53,Default,,0,0,0,,Up top! Yay!
 Dialogue: 10,0:03:37.53,0:03:38.94,Default,,0,0,0,,Yay!
 Dialogue: 10,0:03:38.94,0:03:41.53,Default,,0,0,0,,{\i1}And he's just playing along with her?!
-Dialogue: 10,0:03:42.07,0:03:45.62,Default,,0,0,0,,{\q2}Our peak hour's just ended, \Nso you can sit wherever you'd like.
+Dialogue: 10,0:03:42.07,0:03:45.62,Default,,0,0,0,,Our peak hour's just ended, \Nso you can sit wherever you'd like.
 Dialogue: 10,0:03:45.62,0:03:47.24,Default,,0,0,0,,{\an8}Thanksies!
 Dialogue: 10,0:03:45.62,0:03:47.24,Default,,0,0,0,,Um... who's that?
-Dialogue: 10,0:03:47.24,0:03:51.12,Default,,0,0,0,,{\q2}You mean Uzaki? \NShe's a sophomore at our college.
+Dialogue: 10,0:03:47.24,0:03:51.12,Default,,0,0,0,,You mean Uzaki? \NShe's a sophomore at our college.
 Dialogue: 10,0:03:51.12,0:03:53.25,Default,,0,0,0,,Huh, she's in college?
 Dialogue: 10,0:03:53.25,0:03:56.21,Default,,0,0,0,,Oh, right, Sakurai! I brought that game you lent me.
-Dialogue: 10,0:03:56.21,0:03:58.38,Default,,0,0,0,,Cool. What's your thoughts?{suggestion: "What'd you think?" -Pik}
-Dialogue: 10,0:03:58.38,0:04:01.92,Default,,0,0,0,,{\q2\i1}They're lending out each other's stuff. \NThey must be pretty good friends.
+Dialogue: 10,0:03:56.21,0:03:58.38,Default,,0,0,0,,Cool. What'd you think?{suggestion: "What'd you think?" -Pik}
+Dialogue: 10,0:03:58.38,0:04:01.92,Default,,0,0,0,,{\q2\i1}They lend each other stuff. \NThey must be pretty good friends.
 Dialogue: 10,0:04:01.92,0:04:05.09,Default,,0,0,0,,Whew, that final act was a real thrill.
 Dialogue: 10,0:04:05.09,0:04:07.10,Default,,0,0,0,,I thought it was a stand-alone title at first,
-Dialogue: 10,0:04:07.10,0:04:09.85,Default,,0,0,0,,{\q2}but when I found out it's actually \Na sequel to some older game?
+Dialogue: 10,0:04:07.10,0:04:09.85,Default,,0,0,0,,but when I found out it's actually \Na sequel to some older game?
 Dialogue: 10,0:04:09.85,0:04:11.89,Default,,0,0,0,,Man, I got {\i1}crazy{\i0} goosebumps!
 Dialogue: 10,0:04:12.39,0:04:13.90,Default,,0,0,0,,I know, right?
-Dialogue: 10,0:04:13.90,0:04:16.73,Default,,0,0,0,,{\q2}I would've been plenty happy \Nif it were a plain ol' building game,{the moment when the game is probably nyancraft -aria}{## ... now I want edit that in}
-Comment: 10,0:04:16.73,0:04:20.53,Default,,0,0,0,,{\q2}but when it turned out to be such a gem, \NI knew I had to get it out there!
-Dialogue: 10,0:04:16.73,0:04:20.53,Default,,0,0,0,,{=0}{\clip()\move(960,1024,1481.44,1024,3405,3780)\q2}but when it turned out to be such a gem, \NI knew I had to get it out there!
+Dialogue: 10,0:04:13.90,0:04:16.73,Default,,0,0,0,,I would've been plenty happy \Nif it were a plain ol' building game,{the moment when the game is probably nyancraft -aria}{## ... now I want edit that in}
+Comment: 10,0:04:16.73,0:04:20.53,Default,,0,0,0,,but when it turned out to be such a gem, \NI knew I had to get it out there!
+Dialogue: 10,0:04:16.73,0:04:20.53,Default,,0,0,0,,{=0}{\move(960,1024,1481.44,1024,3405,3780)\q2}but when it turned out to be such a gem, \NI knew I had to get it out there!
 Dialogue: 10,0:04:20.86,0:04:24.24,Default,,0,0,0,,They seem to be getting along pretty well.
 Dialogue: 10,0:04:24.91,0:04:26.70,Default,,0,0,0,,{\i1}No... There's no way...
 Dialogue: 10,0:04:27.28,0:04:29.41,Default,,0,0,0,,{\i1}Oh, these two?
 Dialogue: 10,0:04:30.50,0:04:32.87,Default,,0,0,0,,{\i1}What's with the chuckle?
-Dialogue: 10,0:04:33.41,0:04:35.00,Default,,0,0,0,,{\q2}Oh, it's nothing.
+Dialogue: 10,0:04:33.41,0:04:35.00,Default,,0,0,0,,Oh, it's nothing.
 Dialogue: 10,0:04:35.00,0:04:37.79,Default,,0,0,0,,Bring her some water, would you?
 Dialogue: 10,0:04:37.79,0:04:39.34,Default,,0,0,0,,Welcome.
 Dialogue: 10,0:04:39.34,0:04:41.13,Default,,0,0,0,,Ah, thanks!
 Dialogue: 10,0:04:41.13,0:04:42.88,Default,,0,0,0,,So we go to the same college, huh?
-Dialogue: 10,0:04:42.88,0:04:45.26,Default,,0,0,0,,I'm Asai Ami. I'm in my senior year.
+Dialogue: 10,0:04:42.88,0:04:45.26,Default,,0,0,0,,I'm Ami Asai. I'm in my senior year.
 Dialogue: 10,0:04:45.26,0:04:49.06,Default,,0,0,0,,Oh, really? Then that makes you Sakurai's senior!{goodluck with that light -aria}{## then that makes you Sakurai's Sakurai!}
 Dialogue: 10,0:04:49.06,0:04:52.06,Default,,0,0,0,,Be right back. I'm gonna stick this \Nin my bag real quick.
 Dialogue: 10,0:04:52.06,0:04:53.02,Default,,0,0,0,,Sure.
-Dialogue: 10,0:04:53.35,0:04:54.73,Default,,0,0,0,,I'm Uzaki Hana,
+Dialogue: 10,0:04:53.35,0:04:54.73,Default,,0,0,0,,I'm Hana Uzaki,
 Dialogue: 10,0:04:54.73,0:04:56.27,Default,,0,0,0,,and I'm a sophomore!
 Dialogue: 10,0:04:58.23,0:05:01.32,Default,,0,0,0,,{\q2\i1}Now that I've taken a closer look at her, \Nthis girl's an absolute cutie!
 Dialogue: 10,0:05:01.32,0:05:04.15,Default,,0,0,0,,{\i1}She's got such a friendly smile...{endearing suits here but just giving context, literally "easy-going", but sometimes used for animals ahahahahha - aria}{## this work?}
@@ -113,9 +113,9 @@ Dialogue: 10,0:05:21.42,0:05:23.42,Default,,0,0,0,,Hmm? Oh, yeah, we do!
 Dialogue: 10,0:05:23.42,0:05:25.22,Default,,0,0,0,,How long have you known each other?
 Dialogue: 10,0:05:25.22,0:05:27.68,Default,,0,0,0,,We were in the same club in high school.
 Dialogue: 10,0:05:28.68,0:05:32.68,Default,,0,0,0,,{\i1}The water on Uzaki's table \Nis getting pretty low.
-Dialogue: 10,0:05:32.68,0:05:36.60,Default,,0,0,0,,{\q2}He's always been that gloomy kid \Nin the back of class everyone avoids!
+Dialogue: 10,0:05:32.68,0:05:36.60,Default,,0,0,0,,He's always been that gloomy kid \Nin the back of class everyone avoids!
 Dialogue: 10,0:05:36.60,0:05:38.85,Default,,0,0,0,,Getting to know him was no easy feat.
-Dialogue: 10,0:05:39.31,0:05:44.24,Default,,0,0,0,,{\q2}He's not much different even now, \Nalways one block away from Loner's Lane!{"he has a tendecy to step on the loners' path quickly"}
+Dialogue: 10,0:05:39.31,0:05:44.24,Default,,0,0,0,,He's not much different even now, \Nalways one block away from Loner's Lane!{"he has a tendecy to step on the loners' path quickly"}
 Dialogue: 10,0:05:44.24,0:05:46.20,Default,,0,0,0,,So I figured I'd look out for him.
 Dialogue: 10,0:05:46.20,0:05:48.95,Default,,0,0,0,,Ah! So that's how it is.
 Dialogue: 10,0:05:48.95,0:05:49.66,Default,,0,0,0,,Huh?
@@ -128,16 +128,16 @@ Dialogue: 10,0:05:57.92,0:05:59.29,Default,,0,0,0,,She's showing real promise.
 Dialogue: 10,0:05:59.29,0:06:02.55,Default,,0,0,0,,You want to stick your nose in their business,
 Dialogue: 10,0:06:02.55,0:06:05.01,Default,,0,0,0,,But you also feel you shouldn't interfere...{you might add to beginning :"also feeling like"}
 Dialogue: 10,0:06:05.01,0:06:08.80,Default,,0,0,0,,They just make you want to watch over them.{"It's kinda urging to look out for them"}
-Dialogue: 10,0:06:08.80,0:06:09.97,Default,,0,0,0,,I get that.
+Dialogue: 10,0:06:08.80,0:06:09.97,Default,,0,0,0,,I feel you.
 Dialogue: 10,0:06:10.51,0:06:12.64,Default,,0,0,0,,Don't you love customer-facing jobs?
-Dialogue: 10,0:06:12.64,0:06:16.93,Default,,0,0,0,,{\q2}You get to watch all kinds of people \Nand how they live their lives, like these two.
+Dialogue: 10,0:06:12.64,0:06:16.93,Default,,0,0,0,,You get to watch all kinds of people \Nand how they live their lives, like these two.
 Dialogue: 10,0:06:17.48,0:06:19.90,Default,,0,0,0,,It's one of the thrills of this business.
 Dialogue: 10,0:06:21.98,0:06:23.07,Default,,0,0,0,,Uzaki. Water.
 Dialogue: 10,0:06:26.15,0:06:28.24,Default,,0,0,0,,That's co-o-old!
 Dialogue: 10,0:06:28.86,0:06:30.99,Default,,0,0,0,,What'd you bump into me for?!{"why the heck you bump into me"}
 Dialogue: 10,0:06:30.99,0:06:32.91,Default,,0,0,0,,That's what I'd like to ask you!
-Dialogue: 10,0:06:32.91,0:06:36.95,Default,,0,0,0,,{\q2}You're a customer! You're supposed to \Nleave waiting to us waiters!
-Dialogue: 10,0:06:36.95,0:06:40.67,Default,,0,0,0,,{\q2}What's this nonsense? You don't even \Ntreat me like a customer half the time!
+Dialogue: 10,0:06:32.91,0:06:36.95,Default,,0,0,0,,You're a customer! You're supposed to \Nleave waiting to us waiters!
+Dialogue: 10,0:06:36.95,0:06:40.67,Default,,0,0,0,,What's this nonsense? You don't even \Ntreat me like a customer half the time!
 Dialogue: 10,0:06:40.67,0:06:41.67,Default,,0,0,0,,Oh, shut it!
 Dialogue: 10,0:06:42.17,0:06:45.13,Default,,0,0,0,,{\i1}They put on quite a show, don't you think?
 Dialogue: 10,0:06:45.67,0:06:49.59,Default,,0,0,0,,{\q2\i1}You're telling me. \NLooks like I'll be taking more shifts soon.
@@ -146,7 +146,7 @@ Dialogue: 10,0:06:56.89,0:06:58.02,Default,,0,0,0,,What?!
 Dialogue: 10,0:06:58.35,0:07:00.98,Default,,0,0,0,,Sakurai's out with a cold?
 Dialogue: 10,0:07:00.98,0:07:03.98,Default,,0,0,0,,He called this morning.
 Dialogue: 10,0:07:03.98,0:07:05.52,Default,,0,0,0,,I made him take the day off.
-Dialogue: 10,0:07:05.52,0:07:10.20,Default,,0,0,0,,{\q2}First the ice-water drenching incident, \Nfollowed by a very cold night straight after...
+Dialogue: 10,0:07:05.52,0:07:10.20,Default,,0,0,0,,First the ice-water drenching incident, \Nfollowed by a very cold night straight after...
 Dialogue: 10,0:07:10.20,0:07:15.83,Default,,0,0,0,,Well, huh. So much for the "I lift, bro" look.
 Dialogue: 10,0:07:15.83,0:07:18.16,Default,,0,0,0,,He's surprisingly fragile.
 Dialogue: 10,0:07:18.62,0:07:21.29,Default,,0,0,0,,Oh, yeah—I lift, bro. {## meme but so good}
@@ -220,7 +220,7 @@ Dialogue: 10,0:11:01.14,0:11:02.34,Default,,0,0,0,,Strip!
 Dialogue: 10,0:11:03.30,0:11:04.81,Default,,0,0,0,,I refuse.
 Dialogue: 10,0:11:04.81,0:11:07.68,Default,,0,0,0,,No way! Wipe yourself down and change your clothes!
 Dialogue: 10,0:11:07.68,0:11:09.44,Default,,0,0,0,,That sweat? It {\i1}stinks{\i0}!
-Dialogue: 10,0:11:09.44,0:11:12.52,Default,,0,0,0,,{\q2}It's fine! I'm just going to \Ntake my medicine and go to sleep!
+Dialogue: 10,0:11:09.44,0:11:12.52,Default,,0,0,0,,It's fine! I'm just going to \Ntake my medicine and go to sleep!
 Dialogue: 10,0:11:11.73,0:11:15.11,Default,,0,0,0,,{\an8}Hey! No fighting back, sickie!
 Dialogue: 10,0:11:19.95,0:11:22.87,Default,,0,0,0,,You've got nice skin, mister.
 Dialogue: 10,0:11:22.87,0:11:24.91,Default,,0,0,0,,I'll be gentle!
@@ -229,15 +229,15 @@ Dialogue: 10,0:11:26.87,0:11:28.45,Default,,0,0,0,,Forget feeling self-conscious
 Dialogue: 10,0:11:28.45,0:11:31.29,Default,,0,0,0,,You must be used to being \Nhalf-naked from swim club.
 Dialogue: 10,0:11:31.29,0:11:33.83,Default,,0,0,0,,I'll do the front myself!
 Dialogue: 10,0:11:46.81,0:11:50.14,Default,,0,0,0,,How can being cared for be so tiring?
-Dialogue: 10,0:11:50.14,0:11:51.89,Default,,0,0,0,,{\q2}Here's your medicine.
+Dialogue: 10,0:11:50.14,0:11:51.89,Default,,0,0,0,,Here's your medicine.
 Dialogue: 10,0:11:51.89,0:11:54.90,Default,,0,0,0,,Take this and you'll be all better in the morning.
-Dialogue: 10,0:11:57.52,0:12:01.49,Default,,0,0,0,,{\q2}But if you're still feeling awful tomorrow, \Nmake sure you see a doctor.
+Dialogue: 10,0:11:57.52,0:12:01.49,Default,,0,0,0,,But if you're still feeling awful tomorrow, \Nmake sure you see a doctor.
 Dialogue: 10,0:12:02.15,0:12:03.82,Default,,0,0,0,,Got it.
 Dialogue: 10,0:12:04.20,0:12:06.78,Default,,0,0,0,,Is it that time already?
 Dialogue: 10,0:12:07.24,0:12:09.16,Default,,0,0,0,,You can go home.
 Dialogue: 10,0:12:09.16,0:12:11.41,Default,,0,0,0,,I'll be fine.
 Dialogue: 10,0:12:11.41,0:12:13.42,Default,,0,0,0,,I will, once you're asleep.
-Dialogue: 10,0:12:13.42,0:12:17.50,Default,,0,0,0,,{\q2}I'll chuck the key back in through \Nthe mail slot, so you can rest easy.
+Dialogue: 10,0:12:13.42,0:12:17.50,Default,,0,0,0,,I'll chuck the key back in through \Nthe mail slot, so you can rest easy.
 Dialogue: 10,0:12:17.50,0:12:19.96,Default,,0,0,0,,You'd do that?
 Dialogue: 10,0:12:21.13,0:12:22.34,Default,,0,0,0,,It's fine.
 Dialogue: 10,0:12:24.30,0:12:26.97,Default,,0,0,0,,I'll just play games in the meantime.
@@ -248,8 +248,8 @@ Dialogue: 10,0:12:35.65,0:12:36.81,Default,,0,0,0,,Thanks.
 Dialogue: 10,0:12:36.81,0:12:41.28,Default,,0,0,0,,Come on. That's just how we are.
 Dialogue: 10,0:12:45.99,0:12:47.20,Default,,0,0,0,,Sakurai! Sakurai!
 Dialogue: 10,0:12:47.20,0:12:49.91,Default,,0,0,0,,How do I beat this bald scissors dude?!
-Dialogue: 10,0:12:50.37,0:12:53.25,Default,,0,0,0,,{\q2}His shields explode \Nwhen I hit 'em with my blade!
-Dialogue: 10,0:12:53.25,0:12:56.38,Default,,0,0,0,,{\q2}Look, I'll lend you the game {\i1}and{\i0} the console, \Nso go home already!
+Dialogue: 10,0:12:50.37,0:12:53.25,Default,,0,0,0,,His shields explode \Nwhen I hit 'em with my blade!
+Dialogue: 10,0:12:53.25,0:12:56.38,Default,,0,0,0,,Look, I'll lend you the game {\i1}and{\i0} the console, \Nso go home already!
 Dialogue: 10,0:12:57.54,0:12:59.75,Default,,0,0,0,,I can't go home a loser!
 Dialogue: 10,0:12:59.75,0:13:02.55,Default,,0,0,0,,Would you let me sleep?!
 Comment: 0,0:13:03.92,0:13:03.97,Default,chapter,0,0,0,,{Part B}
@@ -258,21 +258,21 @@ Dialogue: 10,0:13:11.14,0:13:12.31,Default,,0,0,0,,Ami!
 Dialogue: 10,0:13:12.31,0:13:14.14,Default,,0,0,0,,Is your cold all better?
 Dialogue: 10,0:13:14.14,0:13:18.06,Default,,0,0,0,,Yeah, thanks. Sorry you had to cover my shift.
 Dialogue: 10,0:13:18.06,0:13:21.03,Default,,0,0,0,,Don't mention it. I was free anyway.
-Dialogue: 10,0:13:21.03,0:13:26.99,Default,,0,0,0,,{\q2}Why don't I take one of your shifts, then? \NI've gotta thank you one way or another.
-Dialogue: 10,0:13:26.99,0:13:30.20,Default,,0,0,0,,{\q2}If you'd like to thank me... \NWould you mind inviting Hana?
+Dialogue: 10,0:13:21.03,0:13:26.99,Default,,0,0,0,,Why don't I take one of your shifts, then? \NI've gotta thank you one way or another.
+Dialogue: 10,0:13:26.99,0:13:30.20,Default,,0,0,0,,If you'd like to thank me... \NWould you mind inviting Hana?
 Dialogue: 10,0:13:30.20,0:13:32.66,Default,,0,0,0,,Huh? Uzaki?
 Dialogue: 10,0:13:34.66,0:13:38.88,Default,,0,0,0,,And now, a toast to Sakurai's recovery!
 Dialogue: 10,0:13:38.88,0:13:40.67,Default,,0,0,0,,Cheers!
 Dialogue: 10,0:13:40.67,0:13:41.59,Default,,0,0,0,,Thanks.
 Dialogue: 10,0:13:42.05,0:13:46.05,Default,,0,0,0,,{\i1\q2}They're celebrating my recovery with Korean barbecue... \NThis'll weigh down heavily on me. {## lmk if I'm overediting this}{this one is more like, heavy in terms of being indebted, grateful}
-Dialogue: 10,0:13:46.05,0:13:50.93,Default,,0,0,0,,{\q2}C'mon! It's all-you-can-eat, \Nand I'm the grill girl, so eat up, Sakurai!
+Dialogue: 10,0:13:46.05,0:13:50.93,Default,,0,0,0,,C'mon! It's all-you-can-eat, \Nand I'm the grill girl, so eat up, Sakurai!
 Dialogue: 10,0:13:54.48,0:13:57.56,Default,,0,0,0,,Salted tongue! Chuck! Tripe! Skirt!
 Dialogue: 10,0:13:57.56,0:13:59.27,Default,,0,0,0,,H-Hey, you're piling on too much!
 Dialogue: 10,0:13:59.27,0:14:01.73,Default,,0,0,0,,Short ribs! Knuckle! Ribeye!
 Dialogue: 10,0:14:01.73,0:14:03.28,Default,,0,0,0,,Let me take my time!
 Dialogue: 10,0:14:04.19,0:14:06.49,Default,,0,0,0,,{\i1}So full of energy!
 Dialogue: 10,0:14:06.49,0:14:10.99,Default,,0,0,0,,{\i1}She's happy as a clam now that Sakurai's all better.
-Dialogue: 10,0:14:13.79,0:14:18.75,Default,,0,0,0,,{\q2}Look at you two knock 'em back! \NAre beer and liquor really that tasty?
+Dialogue: 10,0:14:13.79,0:14:18.75,Default,,0,0,0,,Look at you two knock 'em back! \NAre beer and liquor really that tasty?
 Dialogue: 10,0:14:18.75,0:14:21.75,Default,,0,0,0,,Uh-huh, especially with good food on your plate.
 Dialogue: 10,0:14:21.75,0:14:24.71,Default,,0,0,0,,Let's go drinking one day once you're twenty, Hana.
 Dialogue: 10,0:14:24.71,0:14:25.88,Default,,0,0,0,,Hooray!
@@ -288,10 +288,10 @@ Dialogue: 10,0:14:45.44,0:14:49.49,Default,,0,0,0,,I'm just happy Hana took such
 Dialogue: 10,0:14:49.49,0:14:53.70,Default,,0,0,0,,So you really did tell her my address...
 Dialogue: 10,0:14:53.70,0:14:56.16,Default,,0,0,0,,Well? How'd it go?
 Dialogue: 10,0:14:56.58,0:14:58.12,Default,,0,0,0,,How did {\i1}what{\i0} go?
-Dialogue: 10,0:15:01.54,0:15:06.76,Default,,0,0,0,,{\q2}Please don't pressure me by piling \Nmy plate with the finest cuts of meat.
+Dialogue: 10,0:15:01.54,0:15:06.76,Default,,0,0,0,,Please don't pressure me by piling \Nmy plate with the finest cuts of meat.
 Dialogue: 10,0:15:07.09,0:15:11.30,Default,,0,0,0,,Just so you know, it's not like that between us.
 Dialogue: 10,0:15:11.30,0:15:14.39,Default,,0,0,0,,I just want to enjoy a quiet solo life,
-Dialogue: 10,0:15:14.39,0:15:17.68,Default,,0,0,0,,{\q2}so I'd rather not have to \Nentertain guests if I can help it.
+Dialogue: 10,0:15:14.39,0:15:17.68,Default,,0,0,0,,so I'd rather not have to \Nentertain guests if I can help it.
 Dialogue: 10,0:15:17.68,0:15:21.48,Default,,0,0,0,,And Uzaki is the antithesis of "quiet".
 Dialogue: 10,0:15:21.48,0:15:22.48,Default,,0,0,0,,Gloomy!
 Dialogue: 10,0:15:22.48,0:15:23.86,Default,,0,0,0,,Way gloomy!
@@ -299,9 +299,9 @@ Dialogue: 10,0:15:23.86,0:15:25.98,Default,,0,0,0,,That's what you are, Sakurai.
 Dialogue: 10,0:15:26.32,0:15:28.24,Default,,0,0,0,,And what's wrong with that?!
 Dialogue: 10,0:15:28.82,0:15:31.41,Default,,0,0,0,,{\i1}They've been drinking themselves silly.
 Dialogue: 10,0:15:32.03,0:15:33.37,Default,,0,0,0,,Besides...
-Dialogue: 10,0:15:33.74,0:15:38.83,Default,,0,0,0,,{\q2}Uzaki may be my trusted junior, \Nbut she's still a girl.
-Dialogue: 10,0:15:38.83,0:15:45.04,Default,,0,0,0,,{\q2}It'd cause nothing but unnecessary trouble for her \Nif rumour spread of her coming to my place often. {## gonna need rewording likely}
-Dialogue: 10,0:15:45.04,0:15:49.76,Default,,0,0,0,,{\q2}I live near campus, \Nand you never know who's watching.
+Dialogue: 10,0:15:33.74,0:15:38.83,Default,,0,0,0,,Uzaki may be my trusted junior, \Nbut she's still a girl.
+Dialogue: 10,0:15:38.83,0:15:45.04,Default,,0,0,0,,It'd cause nothing but unnecessary trouble for her \Nif rumour spread of her coming to my place often. {## gonna need rewording likely}
+Dialogue: 10,0:15:45.04,0:15:49.76,Default,,0,0,0,,I live near campus, \Nand you never know who's watching.
 Dialogue: 10,0:15:49.76,0:15:51.80,Default,,0,0,0,,{\i1}Th-This is getting complicated!{"Making this complicated!"}{## works fine}
 Dialogue: 10,0:15:51.80,0:15:56.01,Default,,0,0,0,,{\i1}I had an inkling, but this? This is dreadful!
 Dialogue: 10,0:15:56.01,0:15:59.98,Default,,0,0,0,,{\i1}Yet he's so attentive of her! Overbearingly attentive!{I'm of two minds on this one but I think it should be " And you so damn conscious when it's about her", like, getting embarrassed and stuff}{## how's this?}
@@ -335,11 +335,11 @@ Dialogue: 10,0:16:21.79,0:16:23.25,Default,,0,0,0,,Huh? Oh, well...
 Dialogue: 10,0:16:23.25,0:16:25.79,Default,,0,0,0,,Oh, we were discussing work for tomorrow.
 Dialogue: 10,0:16:25.79,0:16:26.63,Default,,0,0,0,,That's right.
 Dialogue: 10,0:16:26.63,0:16:27.71,Default,,0,0,0,,Aha!
-Dialogue: 10,0:16:27.71,0:16:30.76,Default,,0,0,0,,{\q2}A shipmeant of beans and other \Nheavy packages will be arriving,{suggestion: "shipment" -Pik}
-Dialogue: 10,0:16:30.76,0:16:33.05,Default,,0,0,0,,{\q2}so do you think you can \Ncome in a bit early, Sakurai?
+Dialogue: 10,0:16:27.71,0:16:30.76,Default,,0,0,0,,A shipmeant of beans and other \Nheavy packages will be arriving,{suggestion: "shipment" -Pik}
+Dialogue: 10,0:16:30.76,0:16:33.05,Default,,0,0,0,,so do you think you can \Ncome in a bit early, Sakurai?
 Dialogue: 10,0:16:33.05,0:16:35.14,Default,,0,0,0,,Sure thing, Ami.
-Dialogue: 10,0:16:35.14,0:16:38.60,Default,,0,0,0,,{\q2}Thanks! It'll help a lot to have \Nanother pair of muscles around.
-Comment: 10,0:16:38.60,0:16:43.39,Default,,0,0,0,,{\q2}Sure, but what was that just now \Nbetween you and your dad?
+Dialogue: 10,0:16:35.14,0:16:38.60,Default,,0,0,0,,Thanks! It'll help a lot to have \Nanother pair of muscles around.
+Comment: 10,0:16:38.60,0:16:43.39,Default,,0,0,0,,Sure, but what was that just now \Nbetween you and your dad?
 Dialogue: 10,0:16:38.60,0:16:41.93,Default,,0,0,0,,{=4}{\bord3.32\fscx92.29\fscy92.29\shad1.38\pos(960.01,986.66)\q2}Sure, but what was that just now \Nbetween you and your dad?
 Dialogue: 10,0:16:41.93,0:16:43.39,Default,,0,0,0,,{=4}{\bord3.6\fscx100\fscy100\shad1.5\pos(960,1024)\q2}Sure, but what was that just now \Nbetween you and your dad?
 Dialogue: 10,0:16:43.39,0:16:45.56,Default,,0,0,0,,Hmm... Just psyching ourselves up?
@@ -347,7 +347,7 @@ Dialogue: 10,0:16:45.56,0:16:47.61,Default,,0,0,0,,Psyching up, you say...
 Dialogue: 10,0:16:47.61,0:16:49.86,Default,,0,0,0,,Hmm? What's up, Uzaki?
 Dialogue: 10,0:16:49.86,0:16:53.40,Default,,0,0,0,,I see you call Ami by her first name.
 Dialogue: 10,0:16:53.95,0:16:54.86,Default,,0,0,0,,Huh?
-Dialogue: 10,0:16:55.36,0:16:58.33,Default,,0,0,0,,{\q2}If I use her last name, \Nshe'll get mixed up with her father.
+Dialogue: 10,0:16:55.36,0:16:58.33,Default,,0,0,0,,If I use her last name, \Nshe'll get mixed up with her father.
 Dialogue: 10,0:16:58.62,0:17:01.04,Default,,0,0,0,,Hmm. If you say so.
 Dialogue: 10,0:17:04.00,0:17:06.96,Default,,0,0,0,,Hey, uh, I was really careful grilling that.
 Dialogue: 10,0:17:06.96,0:17:08.50,Default,,0,0,0,,Come on!
@@ -407,7 +407,7 @@ Dialogue: 10,0:19:15.59,0:19:16.76,Default,,0,0,0,,{\an8}Couple of love-dummies.
 Dialogue: 10,0:19:16.76,0:19:17.84,Default,,0,0,0,,{\an8}Love-dumb, huh?
 Dialogue: 10,0:19:17.84,0:19:19.17,Default,,0,0,0,,{\an8}Love-dumb.
 Dialogue: 10,0:19:20.18,0:19:23.80,Default,,0,0,0,,Now that's the stuff. I'm satisfied for now.{og line: So that's how it works. \NI'm pretty happy with it!}{## can I get a double-TLC-check on this? sounds off to me. I assume she's just happy that her hypnosis worked?}{###Happy with the results basically, satisfied fits like a glove}
-Dialogue: 10,0:19:23.80,0:19:28.52,Default,,0,0,0,,{\q2}Man, that went better than expected. \NI might be a natural at this!
+Dialogue: 10,0:19:23.80,0:19:28.52,Default,,0,0,0,,Man, that went better than expected. \NI might be a natural at this!
 Dialogue: 10,0:19:28.52,0:19:29.85,Default,,0,0,0,,{\i1}You're not.
 Dialogue: 10,0:19:29.85,0:19:32.19,Default,,0,0,0,,{\i1}But if that's all it takes to cheer her up...
 Dialogue: 10,0:19:32.19,0:19:33.36,Default,,0,0,0,,{\an8}Okay! Next...
@@ -426,19 +426,19 @@ Dialogue: 10,0:19:53.46,0:19:55.84,Default,,0,0,0,,Says the girl making demands 
 Dialogue: 10,0:19:55.84,0:19:57.59,Default,,0,0,0,,What are you trying to pull?
 Dialogue: 10,0:19:58.05,0:19:59.26,Default,,0,0,0,,I mean...
 Dialogue: 10,0:19:59.97,0:20:03.55,Default,,0,0,0,,You call Ami by her first name, right?
-Dialogue: 10,0:20:05.60,0:20:10.06,Default,,0,0,0,,{\q2}I've known you for a pretty long time, \Nyet all I get is a "Hey" and a "Listen up here".
+Dialogue: 10,0:20:05.60,0:20:10.06,Default,,0,0,0,,I've known you for a pretty long time, \Nyet all I get is a "Hey" and a "Listen up here".
 Dialogue: 10,0:20:10.06,0:20:12.48,Default,,0,0,0,,Kinda rude, don't you think?
-Dialogue: 10,0:20:18.90,0:20:19.94,Default,,0,0,0,,{\q2}I see.
+Dialogue: 10,0:20:18.90,0:20:19.94,Default,,0,0,0,,I see.
 Dialogue: 10,0:20:20.69,0:20:24.87,Default,,0,0,0,,I hadn't realised that what I was doing was upsetting you.
 Dialogue: 10,0:20:25.87,0:20:27.66,Default,,0,0,0,,I apologise for that.
 Dialogue: 10,0:20:27.66,0:20:28.83,Default,,0,0,0,,I'm sorry.
-Dialogue: 10,0:20:30.79,0:20:37.38,Default,,0,0,0,,{\q2}But I'm kind of, uh... uncomfortable \Ncalling girls by their first names.
-Dialogue: 10,0:20:37.38,0:20:41.76,Default,,0,0,0,,{\q2}Ami's forced it onto me for work, \Nso I've been trying, but...{I'm doing my best to do what she want me to do and call Ami with her name, because it's related to work " nuance is, ami told her to call her ami, he couldn't refuse cuz it was his work so he needed to}
+Dialogue: 10,0:20:30.79,0:20:37.38,Default,,0,0,0,,But I'm kind of, uh... uncomfortable \Ncalling girls by their first names.
+Dialogue: 10,0:20:37.38,0:20:41.76,Default,,0,0,0,,Ami's forced it onto me for work, \Nso I've been trying, but...{I'm doing my best to do what she want me to do and call Ami with her name, because it's related to work " nuance is, ami told her to call her ami, he couldn't refuse cuz it was his work so he needed to}
 Dialogue: 10,0:20:42.26,0:20:44.80,Default,,0,0,0,,Please, just anything but that.
 Dialogue: 10,0:20:47.72,0:20:49.60,Default,,0,0,0,,That's fine, then.
 Dialogue: 10,0:20:49.60,0:20:52.56,Default,,0,0,0,,I wouldn't want to force a misery guts\N like you to do my bidding.
 Dialogue: 10,0:20:54.52,0:20:56.52,Default,,0,0,0,,Thanks.
-Dialogue: 10,0:20:58.48,0:21:02.24,Default,,0,0,0,,{\q2}Still, hypnotizing with a \Nfive-yen coin in this day and age?
+Dialogue: 10,0:20:58.48,0:21:02.24,Default,,0,0,0,,Still, hypnotizing with a \Nfive-yen coin in this day and age?
 Dialogue: 10,0:21:02.24,0:21:04.95,Default,,0,0,0,,You didn't think that'd actually work, right?
 Comment: 10,0:21:04.95,0:21:06.91,Default,,0,0,0,,Guh...
 Dialogue: 10,0:21:04.95,0:21:04.99,Default,,0,0,0,,{=5}{\bord3.6\fscx100\fscy100\shad1.5\pos(960,1024)}Guh...
@@ -488,7 +488,7 @@ Dialogue: 10,0:21:06.74,0:21:06.78,Default,,0,0,0,,{=5}{\bord3.07\fscx85.29\fscy
 Dialogue: 10,0:21:06.78,0:21:06.82,Default,,0,0,0,,{=5}{\bord3.06\fscx85\fscy85\shad1.28\pos(959.94,951.44)}Guh...
 Dialogue: 10,0:21:06.82,0:21:06.87,Default,,0,0,0,,{=5}{\bord3.05\fscx84.71\fscy84.71\shad1.27\pos(959.94,950.05)}Guh...
 Dialogue: 10,0:21:06.87,0:21:06.91,Default,,0,0,0,,{=5}{\bord3.04\fscx84.43\fscy84.43\shad1.27\pos(959.95,948.66)}Guh...
-Dialogue: 10,0:21:06.91,0:21:10.24,Default,,0,0,0,,{\q2}It worked! Are you kidding me?! \NYou must have zero resistance!
+Dialogue: 10,0:21:06.91,0:21:10.24,Default,,0,0,0,,It worked! Are you kidding me?! \NYou must have zero resistance!
 Dialogue: 10,0:21:10.24,0:21:11.58,Default,,0,0,0,,Hey! Snap out of it!
 Comment: 10,0:21:12.75,0:21:15.21,Default,,0,0,0,,Buh...
 Dialogue: 10,0:21:12.75,0:21:12.79,Default,,0,0,0,,{=7}{\bord3.6\fscx100\fscy100\shad1.5\pos(960,1024)}Buh...
@@ -558,7 +558,7 @@ Comment: 0,0:22:51.89,0:22:51.93,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:22:55.27,0:22:57.23,Default,,0,0,0,,It's not working.
 Dialogue: 10,0:22:57.23,0:23:01.56,Default,,0,0,0,,I told you: I wasn't hypnotised!
 Dialogue: 10,0:23:01.56,0:23:04.02,Default,,0,0,0,,It's legit scary that you can't remember.
-Dialogue: 10,0:23:04.02,0:23:05.78,Default,,0,0,0,,{\q2}It didn't happen, okay?
+Dialogue: 10,0:23:04.02,0:23:05.78,Default,,0,0,0,,It didn't happen, okay?
 Dialogue: 10,0:23:05.78,0:23:08.74,Default,,0,0,0,,Rather, I'd be impressed if it did!
 Dialogue: 10,0:23:08.74,0:23:11.03,Default,,0,0,0,,What's with the attitude?
 Dialogue: 10,0:23:11.03,0:23:13.20,Default,,0,0,0,,I don't have an attitude.
