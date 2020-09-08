@@ -23,6 +23,8 @@ Style: Titles,HGPSoeiKakupoptai,80,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.44,Signs,,0,0,0,,{\fnDay Roman\fs20\blur1\c&HA3A4B7&\frz4.21\fax-0.07\pos(590.416,671.968)}Café
+Dialogue: 0,0:00:00.00,0:00:02.44,Signs,,0,0,0,,{\fnDay Roman\fs20\blur1\c&HA3A4B7&\frz4.21\fax-0.07\pos(590.477,689.545)}Asia
 Dialogue: 2,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\an7\pos(223,513)\fnCabin\1a&H47&\blur0.5\fad(0,300)\p1}m -62 -64.5 l 437.5 -64.5 437.5 181.5 -62 181.5
 Dialogue: 0,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\an7\pos(223,513)\fnCabin\yshad6\blur4\fad(0,300)\iclip(142.3,425,678.4,694)\p1}m -61.5 -64 l 437 -64 437 181 -61.5 181
 Dialogue: 1,0:00:20.50,0:00:26.51,Signs,,0,0,0,,{\an7\pos(223,513)\fnCabin\bord4\3c&H3C3D39&\1a&H47&\blur0.8\fad(0,300)\iclip(161.5,449,660,694)\p1}m -61.5 -64 l 437 -64 437 181 -61.5 181
@@ -337,6 +339,8 @@ Dialogue: 0,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\pos(1129.6,789.6)\bord5\c&HFD
 Dialogue: 1,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\pos(1129.6,789.6)\c&H1C9936&\blur0.6\fad(420,0)}Wants to {\alpha&HFF&}Look Out{\alpha} for Us!
 Dialogue: 1,0:03:20.30,0:03:25.94,Titles,,0,0,0,,{\pos(1161.9,789.6)\bord5\c&HFFFFFF&\blur0.6\clip(980,722,980,844)\t(0,470,\clip(980,722,1335,845))}Look Out
 Dialogue: 2,0:03:20.30,0:03:25.94,Titles,,0,0,0,,{\pos(1161.9,789.6)\c&H0E9CFF&\4a&HFF&\blur0.6\clip(980,722,980,844)\t(0,470,\clip(980,722,1335,845))}Look Out
+Dialogue: 0,0:06:55.56,0:06:58.02,Signs,,0,0,0,,{\fnDay Roman\fs20\blur1\c&HA7A9C0&\frz4.21\fax-0.07\pos(590.416,671.968)}Café
+Dialogue: 0,0:06:55.56,0:06:58.02,Signs,,0,0,0,,{\fnDay Roman\fs20\blur1\c&HA7A9C0&\frz4.21\fax-0.07\pos(590.477,689.545)}Asia
 Dialogue: 0,0:07:18.70,0:07:22.12,Signs,,0,0,0,,{\pos(704.6,133)\fnGosrokan\fs140\bord3\3c&HFFFFFF&\alpha&H80&\blur10\clip(460,0,488,400)\t(0,510,\clip(460,0,1010,400))}Oh, yeah
 Dialogue: 0,0:07:18.70,0:07:22.12,Signs,,0,0,0,,{\pos(704.6,133)\fnGosrokan\fs140\alpha&H80&\blur10\clip(460,0,488,400)\t(0,510,\clip(460,0,1010,400))}Oh, yeah
 Dialogue: 0,0:07:18.70,0:07:22.12,Signs,,0,0,0,,{\pos(704.6,133)\fnGosrokan\fs140\alpha&H80&\blur20\clip(460,0,488,400)\t(0,510,\clip(460,0,1010,400))}Oh, yeah
