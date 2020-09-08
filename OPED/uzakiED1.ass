@@ -21,6 +21,7 @@ Video AR Value: 1.777778
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: ED1 - ROM,FOT-TsukuARdGothic Std E,62,&H00FAFAFA,&H000019FF,&H00140100,&HC4020000,0,0,0,0,98,100,3,0,1,0,0,2,10,10,123,1
 Style: ED1 - ENG,FOT-TsukuARdGothic Std E,69,&H00FAFAFA,&H000019FF,&H00140100,&HC4020000,0,0,0,0,100,102,0,0,1,0,0,8,10,10,44,1
+Style: Signs,Gandhi Sans,80,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,63,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -52,6 +53,8 @@ Comment: 0,0:01:02.95,0:01:09.04,ED1 - ROM,,0,0,0,karaoke,{\fad(0,266)}darenimo 
 Comment: 0,0:01:09.63,0:01:14.22,ED1 - ROM,,0,0,0,karaoke,{\fad(280,0)}akarui hizashi no sono ura de
 Comment: 0,0:01:14.22,0:01:19.80,ED1 - ROM,,0,0,0,karaoke,honto no koto kakurenbo shiteru
 Comment: 0,0:01:19.80,0:01:26.64,ED1 - ROM,,0,0,0,karaoke,{\fad(0,515)}itsuka kitto mitsuketene nantene
+Dialogue: 0,0:00:08.82,0:00:12.82,Signs,,0,0,0,,{\pos(1078.4,813.8)\frz-14.8\fax0.29\fnDay Roman\fs70\c&HC1B5C7&\blur0.8}Café
+Dialogue: 0,0:00:08.82,0:00:12.82,Signs,,0,0,0,,{\pos(1082.2,875)\frz-14.8\fax0.29\fnDay Roman\fs70\c&HB2ABBF&\blur0.8}Asia
 Dialogue: 1,0:00:04.90,0:00:12.82,ED1 - ENG,,0,0,0,fx,{\blur0.7\fad(279,0)\bord6.25\c&HFFFFFF&\3c&HFFFFFF&}Happy, mischevious chatter echoes through the air
 Dialogue: 2,0:00:04.90,0:00:12.82,ED1 - ENG,,0,0,0,fx,{\blur0.7\fad(279,0)\bord4\c&H3C3C3C&\3c&H3C3C3C&}Happy, mischevious chatter echoes through the air
 Dialogue: 3,0:00:04.90,0:00:12.82,ED1 - ENG,,0,0,0,fx,{\blur0.7\fad(279,0)\bord0}Happy, mischevious chatter echoes through the air
