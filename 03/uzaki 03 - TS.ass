@@ -11,8 +11,8 @@ ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
 Last Style Storage: Uzaki
-Audio File: uzaki - 03.mkv
-Video File: uzaki - 03.mkv
+Audio File: uzaki03_premux.mkv
+Video File: uzaki03_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -327,8 +327,8 @@ Dialogue: 0,0:01:02.50,0:01:04.25,Signs,,0,0,0,,{\an7\pos(930,765)\fnBubblegum S
 Dialogue: 0,0:01:02.50,0:01:04.25,Signs,,0,0,0,,{\an7\pos(930,765)\fnBubblegum Sans\fs150\c&HDFD3DB&\3c&HDFD3DB&\3a&HD0&\blur10\clip(1659,340,1664,767)\p1}m 1 -394 l -628 -366 -631 -73 11 -28 704 -93 682 -347
 Comment: 0,0:01:02.50,0:01:04.25,Signs,,0,0,0,,{\pos(918,409.5)}In your dreams, maybe
 Comment: 0,0:01:57.61,0:02:04.15,Signs,,0,0,0,,{\pos(1002,873)}Uzaki- chan Wants to Hang Out !
-Dialogue: 0,0:03:19.97,0:03:25.93,Signs,,0,0,0,,{\pos(923.81,215.69)\fnDay Roman\fs90\c&HD4D6E3&\blur1}C{\c&HD2D3E1&}a{\c&HCFCFDE&}f{\c&HCDCCDC&}é
-Dialogue: 0,0:03:19.97,0:03:25.93,Signs,,0,0,0,,{\pos(923.81,291.145)\fnDay Roman\fs90\c&HCDCEDE&\blur1}A{\c&HCCCDDE&}s{\c&HCBCCDD&}i{\c&HCACBDD&}a
+Dialogue: 0,0:03:19.97,0:03:25.93,Signs,,0,0,0,,{\pos(923.81,215.69)\fnDay Roman\fs90\c&HD4D6E3&\blur1.2}C{\c&HD2D3E1&}a{\c&HCFCFDE&}f{\c&HCDCCDC&}é
+Dialogue: 0,0:03:19.97,0:03:25.93,Signs,,0,0,0,,{\pos(923.81,291.145)\fnDay Roman\fs90\c&HCDCEDE&\blur1.2}A{\c&HCCCDDE&}s{\c&HCBCCDD&}i{\c&HCACBDD&}a
 Dialogue: 0,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\pos(456,288.8)\bord5\c&HFFFFFF&\1a&HFF&\blur0.6\fad(420,0)\t(420,420,\1a&H00&)}Episode 3
 Dialogue: 1,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\pos(456,288.8)\c&H0E9CFF&\blur0.6\fad(420,0)}Episode {\c&H1C9C3A&}3
 Dialogue: 0,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\pos(662,661.6)\bord5\c&HFDFDFC&\3c&HFDFDFC&\1a&HFF&\blur0.6\fad(420,0)\t(420,420,\1a&H00&)}The A{\alpha&HFF&}sai{\alpha} Family
