@@ -10,6 +10,7 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default (1080p)
 Audio File: [Erai-raws] Uzaki-chan wa Asobitai! - 04 [1080p]_Track02.aac
 Video File: [Erai-raws] Uzaki-chan wa Asobitai! - 04 [1080p].mkv
@@ -39,12 +40,12 @@ Dialogue: 10,0:01:00.79,0:01:02.37,Default,,0,0,0,,It {\i1}had{\i0} to be you.
 Comment: 0,0:02:33.00,0:02:38.00,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:02:34.63,0:02:38.05,Default,,0,0,0,,Are you free today? You gotta be, right?
 Dialogue: 10,0:02:38.05,0:02:41.14,Default,,0,0,0,,Don't drop by unannounced \Nwith all that rubbish.{you pop over unannounced and spitting whatever you wanna say}
-Dialogue: 10,0:02:41.14,0:02:46.68,Default,,0,0,0,,Figured I should, since loners like you \Nalways hole up and game when they're off work.{Well, I figured I'd drop by since loners like you \Nalways hole up playing games when they're off work.}{Well, you're off work, and I figured \Na loner like you would be home gaming}
+Dialogue: 10,0:02:41.14,0:02:46.68,Default,,0,0,0,,Figured I should, since loners like you \Nalways hole up and game when they're off work.
 Dialogue: 10,0:02:46.68,0:02:48.60,Default,,0,0,0,,And wow, turns out I was right!
 Dialogue: 10,0:02:48.60,0:02:50.48,Default,,0,0,0,,I'm speechless.
 Dialogue: 10,0:02:50.48,0:02:54.61,Default,,0,0,0,,So here I am to hang out with you, \Nmy senior, but friend above all else!
 Dialogue: 10,0:02:54.61,0:02:55.90,Default,,0,0,0,,Great news, ye?
-Dialogue: 10,0:02:55.90,0:02:58.86,Default,,0,0,0,,Drop the condescending tone, it pisses me off.
+Dialogue: 10,0:02:55.90,0:02:58.86,Default,,0,0,0,,Drop the condescending tone. It pisses me off.
 Dialogue: 10,0:02:58.86,0:03:00.91,Default,,0,0,0,,And so...
 Dialogue: 10,0:03:00.91,0:03:03.16,Default,,0,0,0,,Wanna go play Doramon GO™ on the go?{"go out and play"}
 Dialogue: 10,0:03:03.16,0:03:05.24,Default,,0,0,0,,I'd still be gaming!
@@ -66,7 +67,7 @@ Dialogue: 10,0:03:51.87,0:03:54.21,Default,,0,0,0,,Check this out, Sakurai!
 Dialogue: 10,0:03:54.21,0:03:55.63,Default,,0,0,0,,Huh?
 Dialogue: 10,0:03:56.63,0:03:59.55,Default,,0,0,0,,If looks could kill, you'd be a murderer.{YABAI}
 Dialogue: 10,0:04:00.59,0:04:02.30,Default,,0,0,0,,Gamed too much.
-Dialogue: 10,0:04:02.30,0:04:06.18,Default,,0,0,0,,Being all scowly's one thing, but walking around \Nwith that face on top of that?{"You are all scowly to begin with, and now walking with that face"}
+Dialogue: 10,0:04:02.30,0:04:06.18,Default,,0,0,0,,Being all scowly's one thing, \Nbut walking around with that face?{"You are all scowly to begin with, and now walking with that face"}
 Dialogue: 10,0:04:06.18,0:04:07.60,Default,,0,0,0,,Someone's gonna report you.
 Dialogue: 10,0:04:07.60,0:04:09.89,Default,,0,0,0,,Mind not slowly backing away like that?{"backing away casually"}
 Dialogue: 10,0:04:09.89,0:04:12.14,Default,,0,0,0,,Christ.
@@ -80,7 +81,7 @@ Dialogue: 10,0:04:34.37,0:04:36.29,Default,,0,0,0,,Huh? Ami, that you?
 Dialogue: 10,0:04:37.21,0:04:38.17,Default,,0,0,0,,Oh, my!
 Dialogue: 10,0:04:38.17,0:04:41.30,Default,,0,0,0,,Fancy running into you two!
 Dialogue: 10,0:04:41.30,0:04:44.63,Default,,0,0,0,,I see. So your eyes hurt \Nfrom playing games too much.
-Dialogue: 10,0:04:44.63,0:04:47.55,Default,,0,0,0,,If this keeps up, he'll be Doramon GO™-ing \Nstraight to the police station!{OG: If this keeps up, \Nhe'll be Doramon Go-ing to lockup.}{## tfw can't think of anything funny}
+Dialogue: 10,0:04:44.63,0:04:47.55,Default,,0,0,0,,If this keeps up, he'll be Doramon GO™-ing \Nstraight to the police station!{## tfw can't think of anything funny}
 Dialogue: 10,0:04:47.55,0:04:50.14,Default,,0,0,0,,You wanna have a Doramon GO™ at it?
 Dialogue: 10,0:04:50.14,0:04:55.06,Default,,0,0,0,,Sakurai, you've done nothing but play video games \Nwhile we were at the hot springs?
 Dialogue: 10,0:04:55.06,0:04:56.44,Default,,0,0,0,,Sorry.
@@ -92,7 +93,7 @@ Dialogue: 10,0:05:08.20,0:05:10.12,Default,,0,0,0,,My glassistant?
 Dialogue: 10,0:05:10.12,0:05:11.95,Default,,0,0,0,,Is there something you're looking for?
 Dialogue: 10,0:05:11.95,0:05:15.41,Default,,0,0,0,,Yeah, this hermit of a gamer here \Nis in dire need of a specific item:
 Dialogue: 10,0:05:16.00,0:05:17.96,Default,,0,0,0,,Computer glasses!
-Dialogue: 10,0:05:17.96,0:05:21.88,Default,,0,0,0,,Oh, the ones that cut down \Non blue light from LCD displays?
+Dialogue: 10,0:05:17.96,0:05:21.88,Default,,0,0,0,,Oh, the ones that cut down \Non blue light from LCDs?
 Dialogue: 10,0:05:21.88,0:05:25.09,Default,,0,0,0,,These bad boys are supposed to \Nkeep your eyes from getting strained!
 Dialogue: 10,0:05:25.09,0:05:27.18,Default,,0,0,0,,I've always wanted a pair myself!
 Dialogue: 10,0:05:27.18,0:05:31.85,Default,,0,0,0,,Mhm. Might be good for long gaming sessions.
@@ -125,7 +126,7 @@ Dialogue: 10,0:06:35.24,0:06:36.70,Default,,0,0,0,,Knock it off!
 Dialogue: 10,0:06:36.70,0:06:37.66,Default,,0,0,0,,Dammit...
 Dialogue: 10,0:06:37.66,0:06:42.04,Default,,0,0,0,,Try, uh, these on next, Sakurai!
 Dialogue: 10,0:06:42.04,0:06:44.04,Default,,0,0,0,,You're already in tears!
-Dialogue: 10,0:06:46.55,0:06:51.59,Default,,0,0,0,,With your natural fierce look, \Nyou almost look like a bona fide mafioso!
+Dialogue: 10,0:06:46.55,0:06:51.59,Default,,0,0,0,,With your natural fierce look, \Nyou look like a real mafioso!
 Dialogue: 10,0:06:51.59,0:06:54.89,Default,,0,0,0,,Like someone who'd assassinate \Npeople with a fibre wire!
 Dialogue: 10,0:06:54.89,0:06:58.52,Default,,0,0,0,,Or like the mob boss of the criminal underworld!
 Dialogue: 10,0:06:58.52,0:06:59.10,Default,,0,0,0,,Oh!
@@ -138,7 +139,7 @@ Dialogue: 10,0:07:10.86,0:07:14.87,Default,,0,0,0,,Brush your hair back with \Nt
 Dialogue: 10,0:07:14.87,0:07:16.29,Default,,0,0,0,,Just once, I swear!
 Dialogue: 10,0:07:16.29,0:07:20.00,Default,,0,0,0,,You'll turn into an \Nembarrassingly tropey character!
 Dialogue: 10,0:07:20.75,0:07:23.42,Default,,0,0,0,,What the hell do you want from me?!
-Dialogue: 10,0:07:23.42,0:07:26.75,Default,,0,0,0,,Sorry, sorry! This is the final pair.
+Dialogue: 10,0:07:23.42,0:07:26.75,Default,,0,0,0,,Sorry, sorry! This is the last pair.
 Dialogue: 10,0:07:26.75,0:07:29.47,Default,,0,0,0,,Seriously this time.
 Dialogue: 10,0:07:29.47,0:07:30.30,Default,,0,0,0,,Pretty please?
 Dialogue: 10,0:07:30.30,0:07:33.22,Default,,0,0,0,,Uh... sure.
@@ -171,34 +172,34 @@ Dialogue: 10,0:08:54.51,0:08:55.59,Default,,0,0,0,,Dumbass!
 Dialogue: 10,0:08:54.51,0:08:58.68,Default,,0,0,0,,{\an8}Doesn't count if you said it first, \Ndumbass! Dumbass! Dumbass!
 Dialogue: 10,0:08:58.68,0:09:00.68,Default,,0,0,0,,Is it fine to leave them like that?
 Dialogue: 10,0:09:00.68,0:09:03.85,Default,,0,0,0,,Yup. They always act like this.
-Comment: 0,0:09:04.02,0:09:09.02,Default,chapter,0,0,0,,{Part B}
-Dialogue: 10,0:09:08.48,0:09:12.90,Default,,0,0,0,,Boooo, I missed out on getting glasses \Nthanks to you.{I missed out on getting glasses, \Nand it's all your fault.}
-Dialogue: 10,0:09:12.90,0:09:15.53,Default,,0,0,0,,Ooh! Got a Lousy Cat Dandy!
+Dialogue: 10,0:09:08.48,0:09:12.90,Default,,0,0,0,,Boooo, I missed out on getting \Nglasses thanks to you.
+Dialogue: 10,0:09:12.90,0:09:15.53,Default,,0,0,0,,Ooh! Caught me a Lousy Cat Dandy!
 Dialogue: 10,0:09:15.53,0:09:18.49,Default,,0,0,0,,You just {\i1}had{\i0} to start trouble.
 Dialogue: 10,0:09:18.99,0:09:21.03,Default,,0,0,0,,Another Gorilla.
-Dialogue: 10,0:09:21.03,0:09:24.75,Default,,0,0,0,,C'mon, be the bigger man and \Nlearn to take some responsibility.{Don't dump the blame on me \Njust 'cause you're older.}{not cause but "Don't dump the blame on me, you are the older one " in terms of, be a bigger man kind of meaning, or like, be nice to your juniors etc, or you should be the one acting his shit together}{## how's this?}
+Dialogue: 10,0:09:21.03,0:09:21.03,Default,,0,0,0,,C'mon, be the bigger man and \Nlearn to take some responsibility.{not cause but "Don't dump the blame on me, you are the older one " in terms of, be a bigger man kind of meaning, or like, be nice to your juniors etc, or you should be the one acting his shit together}{## how's this?}
+Dialogue: 10,0:09:21.03,0:09:24.75,Default,,0,0,0,,C'mon, be the bigger man and \Nlearn to take some responsibility.{not cause but "Don't dump the blame on me, you are the older one " in terms of, be a bigger man kind of meaning, or like, be nice to your juniors etc, or you should be the one acting his shit together}{## how's this?}
 Dialogue: 10,0:09:24.75,0:09:26.67,Default,,0,0,0,,That's power harassment. {## there's a better word for this in English, but it's escaping me atm}
-Dialogue: 10,0:09:26.67,0:09:29.67,Default,,0,0,0,,Hey, I got a Lousy Cat Genius this time!
+Dialogue: 10,0:09:26.67,0:09:29.67,Default,,0,0,0,,Ey, got a Lousy Cat Genius this time!
 Dialogue: 10,0:09:29.67,0:09:34.80,Default,,0,0,0,,It's obviously the fault of whoever \Nstarted it, which would be {\i1}you{\i0}.
 Dialogue: 10,0:09:34.80,0:09:37.47,Default,,0,0,0,,Nothing but Gorillas.
-Dialogue: 10,0:09:37.47,0:09:39.85,Default,,0,0,0,,See, {\i1}your{\i0} problem is—
+Dialogue: 10,0:09:37.47,0:09:39.85,Default,,0,0,0,,See, your problem is—
 Dialogue: 10,0:09:43.14,0:09:45.64,Default,,0,0,0,,Thanks.
 Dialogue: 10,0:09:45.64,0:09:48.56,Default,,0,0,0,,Uh... Don't mention it.
-Dialogue: 10,0:09:48.56,0:09:51.15,Default,,0,0,0,,Nechst Station. Nechst Station.{I love this ahahah, I think you'd get it but tsugi no eki=next station}{## lol nice}
-Dialogue: 10,0:09:53.40,0:09:55.40,Default,,0,0,0,,Lot of people getting on.
+Dialogue: 10,0:09:48.56,0:09:51.15,Default,,0,0,0,,The next station is: Nechst Station.{I love this ahahah, I think you'd get it but tsugi no eki=next station}{## lol nice}
+Dialogue: 10,0:09:53.40,0:09:55.40,Default,,0,0,0,,Lotta people getting on now.
 Dialogue: 10,0:09:55.40,0:10:00.87,Default,,0,0,0,,But with this game, the monster spawn rates \Nincrease when there's more people.
 Dialogue: 10,0:10:00.87,0:10:03.62,Default,,0,0,0,,See? A Lousy Cat Cyborg!
 Dialogue: 10,0:10:03.62,0:10:05.66,Default,,0,0,0,,Still nothing but bloody Gorillas here.
 Dialogue: 10,0:10:05.66,0:10:07.71,Default,,0,0,0,,Just how much into gorillas are ya?
 Dialogue: 10,0:10:07.71,0:10:11.67,Default,,0,0,0,,Not one bit. They're into {\i1}me{\i0}.
 Dialogue: 10,0:10:11.67,0:10:14.92,Default,,0,0,0,,Well, so long as we reach our destination.
-Dialogue: 10,0:10:18.47,0:10:20.26,Default,,0,0,0,,Andenechst Station.
-Dialogue: 10,0:10:21.30,0:10:23.85,Default,,0,0,0,,Andefallo-Wing Station.
+Dialogue: 10,0:10:18.47,0:10:20.26,Default,,0,0,0,,The next station is: Andenechst Station.
+Dialogue: 10,0:10:21.30,0:10:23.85,Default,,0,0,0,,The next station is: Andefallo-Wing Station.
 Dialogue: 10,0:10:23.85,0:10:25.35,Default,,0,0,0,,Now it's crazy crowded.
-Dialogue: 10,0:10:25.35,0:10:29.77,Default,,0,0,0,,Oh, right—there's a football match \Nat a nearby stadium.
+Dialogue: 10,0:10:25.35,0:10:29.77,Default,,0,0,0,,Oh, right. There's a football match \Nat a nearby stadium.
 Dialogue: 10,0:10:29.77,0:10:31.36,Default,,0,0,0,,Explains.
-Dialogue: 10,0:10:33.82,0:10:36.07,Default,,0,0,0,,Pardon me, huh-huh.
-Dialogue: 10,0:10:41.37,0:10:44.12,Default,,0,0,0,,{\i1}S-Something incredibly soft...
+Dialogue: 10,0:10:33.82,0:10:36.07,Default,,0,0,0,,Pardon me, ook-ook.{## this is a proper monkey onomatopoeia, not "huh-huh"}
+Dialogue: 10,0:10:41.37,0:10:44.12,Default,,0,0,0,,{\i1}S-Something incredibly soft is...
 Dialogue: 10,0:10:44.12,0:10:47.12,Default,,0,0,0,,I-I'm sorry.
 Dialogue: 10,0:10:47.12,0:10:50.29,Default,,0,0,0,,It's fine. Not much we can do about it.
 Dialogue: 10,0:10:50.29,0:10:54.71,Default,,0,0,0,,{\i1}This is hell. And it'll only get worse at this rate!
@@ -211,34 +212,35 @@ Dialogue: 10,0:11:10.98,0:11:13.19,Default,,0,0,0,,I-It's nothing.
 Dialogue: 10,0:11:13.19,0:11:15.73,Default,,0,0,0,,{\i1}Why are those ads {\i0}there{\i1} of all places?!
 Dialogue: 10,0:11:15.73,0:11:18.03,Default,,0,0,0,,{\i1}Gotta get my mind on something else, pronto...
 Dialogue: 10,0:11:20.11,0:11:21.28,Default,,0,0,0,,Sakurai?
-Dialogue: 10,0:11:21.28,0:11:24.62,Default,,0,0,0,,{\i1}I'm fine. Absolutely fine.
-Dialogue: 10,0:11:25.37,0:11:27.62,Default,,0,0,0,,{\i1}There's nothing but traps \Nno matter where I look!{astolfo says hi- aria}
+Dialogue: 10,0:11:21.28,0:11:24.62,Default,,0,0,0,,{\i1}I'm fine. I'm totally fine.
+Dialogue: 10,0:11:25.37,0:11:27.62,Default,,0,0,0,,{\i1}There's nothing but traps, \Nno matter where I look!{astolfo says hi- aria}
 Dialogue: 10,0:11:27.62,0:11:30.79,Default,,0,0,0,,{\i1}I see nothing. I hear nothing.
 Dialogue: 10,0:11:30.79,0:11:33.63,Default,,0,0,0,,{\i1}I turn my consciousness inward.
 Dialogue: 10,0:11:33.63,0:11:37.38,Default,,0,0,0,,{\i1}What's wrong with him? \NHe got so quiet all of a sudden.
 Dialogue: 10,0:11:37.38,0:11:40.05,Default,,0,0,0,,{\i1}Oh, his eyelashes are really long.
-Dialogue: 10,0:11:40.05,0:11:41.93,Default,,0,0,0,,{\i1}His face is so close!
+Dialogue: 10,0:11:40.05,0:11:41.93,Default,,0,0,0,,{\i1}Wai—his face is so close!
 Dialogue: 10,0:11:41.93,0:11:45.43,Default,,0,0,0,,{\i1}Picture it—now! A clear blue sky!
 Dialogue: 10,0:11:45.43,0:11:49.89,Default,,0,0,0,,This is like one of those \Nwall-slam things, huh? Ha, ha...
-Dialogue: 10,0:11:49.89,0:11:52.56,Default,,0,0,0,,{\i1}Ah, the vastness of Bliss, \Nstretching as far as the eye can see!{A vast field, stretching \Nas far as the eye can see!}{wow windows xp background -aria}{## ... fuck it. Let's do it.}
+Dialogue: 10,0:11:49.89,0:11:52.56,Default,,0,0,0,,{\i1}Ah, Bliss, stretching far and vast!{wow windows xp background -aria}{## ... fuck it. Let's do it.}
 Dialogue: 10,0:11:52.56,0:11:57.40,Default,,0,0,0,,Isn't your arm getting tired? Don't overdo it.
 Dialogue: 10,0:11:57.40,0:12:01.82,Default,,0,0,0,,{\i1}Crystal-clear, unclouded water, \Nits surface like a mirror!
-Dialogue: 10,0:12:01.82,0:12:04.28,Default,,0,0,0,,Say something...
+Dialogue: 10,0:12:01.82,0:12:04.28,Default,,0,0,0,,Earth to Sakurai...
 Dialogue: 10,0:12:04.28,0:12:08.08,Default,,0,0,0,,{\i1}I can do this. I can make it if I keep this up!{"I've gotta make it through"}
 Dialogue: 10,0:12:13.00,0:12:17.00,Default,,0,0,0,,{\i1}With my eyes closed and my ears dulled, \Nmy other senses are heighten—
 Dialogue: 10,0:12:26.51,0:12:30.39,Default,,0,0,0,,Hey, uh, Sakurai... Thanks for earli—
 Dialogue: 10,0:12:30.39,0:12:33.64,Default,,0,0,0,,Eh?
 Dialogue: 10,0:12:33.64,0:12:35.52,Default,,0,0,0,,Sakurai!
 Dialogue: 10,0:12:35.52,0:12:39.32,Default,,0,0,0,,Is he out cold—on his feet?
-Dialogue: 10,0:12:39.32,0:12:40.73,Default,,0,0,0,,The door is closing.
+Dialogue: 10,0:12:39.32,0:12:40.73,Default,,0,0,0,,Step back; doors closing.
 Dialogue: 10,0:12:40.73,0:12:42.82,Default,,0,0,0,,Hey! This is our stop!
 Dialogue: 10,0:12:42.82,0:12:46.49,Default,,0,0,0,,Sakurai? Sakurai!
-Dialogue: 10,0:12:50.79,0:12:53.04,Default,,0,0,0,,Now... Now what?
+Dialogue: 10,0:12:50.79,0:12:53.04,Default,,0,0,0,,N-Now what?
 Dialogue: 10,0:13:00.75,0:13:03.05,Default,,0,0,0,,Where am I?
 Dialogue: 10,0:13:03.05,0:13:05.09,Default,,0,0,0,,What time is it even?
 Dialogue: 10,0:13:05.09,0:13:06.59,Default,,0,0,0,,Oh.
 Dialogue: 10,0:13:07.09,0:13:10.26,Default,,0,0,0,,I got a ton of calls from Uzaki.
 Dialogue: 10,0:13:12.02,0:13:13.77,Default,,0,0,0,,And... one of these.
+Comment: 0,0:13:15.77,0:13:20.77,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:13:17.60,0:13:21.07,Default,,0,0,0,,So {\i1}that's{\i0} what happened...
 Dialogue: 10,0:13:21.07,0:13:23.28,Default,,0,0,0,,...during Golden Week?
 Dialogue: 10,0:13:23.28,0:13:25.11,Default,,0,0,0,,Yes.
@@ -251,31 +253,31 @@ Dialogue: 10,0:13:34.04,0:13:39.21,Default,,0,0,0,,If {\i1}she{\i0} made me feel
 Dialogue: 10,0:13:39.21,0:13:41.25,Default,,0,0,0,,I see.
 Dialogue: 10,0:13:41.25,0:13:44.88,Default,,0,0,0,,{\i1}Wait, can he just flip his \Nconsciousness on and off at will?
 Dialogue: 10,0:13:44.88,0:13:47.80,Default,,0,0,0,,{\i1}What is he, a ninja? Spooky.
-Dialogue: 10,0:13:47.80,0:13:51.72,Default,,0,0,0,,Well, don't worry too much about it.
+Dialogue: 10,0:13:47.80,0:13:51.72,Default,,0,0,0,,Well, don't fret over it too much.
 Dialogue: 10,0:13:51.72,0:13:55.68,Default,,0,0,0,,You're still young. You ought to be more carefree.
-Dialogue: 10,0:13:55.68,0:14:00.69,Default,,0,0,0,,I mean, I'm sure my Ami \Nis hanging out with boys.
-Dialogue: 10,0:14:00.69,0:14:02.90,Default,,0,0,0,,With boys?
+Dialogue: 10,0:13:55.68,0:14:00.69,Default,,0,0,0,,I mean, look at Ami. She hangs out \Nwith the boys a lot as well.
+Dialogue: 10,0:14:00.69,0:14:02.90,Default,,0,0,0,,With boys? Me?
 Dialogue: 10,0:14:02.90,0:14:04.32,Default,,0,0,0,,Not at all.
 Dialogue: 10,0:14:04.32,0:14:06.15,Default,,0,0,0,,See? Not at all!
-Dialogue: 10,0:14:06.15,0:14:08.32,Default,,0,0,0,,Not at all? Really?
-Dialogue: 10,0:14:08.32,0:14:09.57,Default,,0,0,0,,Yes, really.
-Dialogue: 10,0:14:09.57,0:14:11.32,Default,,0,0,0,,What?!
+Dialogue: 10,0:14:06.15,0:14:08.32,Default,,0,0,0,,Not at all? Seriously?
+Dialogue: 10,0:14:08.32,0:14:09.57,Default,,0,0,0,,Yes, seriously.
+Dialogue: 10,0:14:09.57,0:14:11.32,Default,,0,0,0,,Wha—?!
 Dialogue: 10,0:14:11.32,0:14:12.78,Default,,0,0,0,,I'm sorry.
-Dialogue: 10,0:14:12.78,0:14:14.70,Default,,0,0,0,,What are you apologising for?
+Dialogue: 10,0:14:12.78,0:14:14.70,Default,,0,0,0,,What for?
 Dialogue: 10,0:14:15.75,0:14:17.21,Default,,0,0,0,,Huh!
 Dialogue: 10,0:14:17.21,0:14:22.92,Default,,0,0,0,,But that happening right after \Nsounds hilar—er, terrible!
 Dialogue: 10,0:14:22.92,0:14:24.88,Default,,0,0,0,,I heard that Freudian slip!
 Dialogue: 10,0:14:24.88,0:14:27.17,Default,,0,0,0,,That was unfortunate.
 Dialogue: 10,0:14:27.17,0:14:29.26,Default,,0,0,0,,Yeah, well.
-Dialogue: 10,0:14:29.26,0:14:31.64,Default,,0,0,0,,Follow up with Hana.
+Dialogue: 10,0:14:29.26,0:14:31.64,Default,,0,0,0,,Make sure you follow up with Hana.
 Dialogue: 10,0:14:31.64,0:14:35.89,Default,,0,0,0,,She's the one who invited you along, after all.
 Dialogue: 10,0:14:35.89,0:14:38.56,Default,,0,0,0,,Yeah... I guess you're right.
-Dialogue: 10,0:14:49.49,0:14:54.53,Default,,0,0,0,,{\i1}I don't know what's going on, \Nbut I'm not engaging. Pain in the ass.
+Dialogue: 10,0:14:49.49,0:14:54.53,Default,,0,0,0,,{\i1}I don't know what's going on, but I'm \Nnot engaging. Looks like a pain in the ass.
 Dialogue: 10,0:14:54.53,0:14:57.91,Default,,0,0,0,,Listen to this, Sakurai.
 Dialogue: 10,0:14:57.91,0:15:00.17,Default,,0,0,0,,{\i1}She's engaging me.
-Dialogue: 10,0:15:00.17,0:15:02.29,Default,,0,0,0,,Did something happen?
+Dialogue: 10,0:15:00.17,0:15:02.29,Default,,0,0,0,,Did something nice happen?
 Dialogue: 10,0:15:02.29,0:15:04.88,Default,,0,0,0,,I was looking at the calendar when it hit me.
-Dialogue: 10,0:15:04.88,0:15:05.84,Default,,0,0,0,,Yeah?
+Dialogue: 10,0:15:04.88,0:15:05.84,Default,,0,0,0,,Right.
 Dialogue: 10,0:15:05.84,0:15:09.09,Default,,0,0,0,,There are no holidays in June.
 Dialogue: 10,0:15:09.09,0:15:11.72,Default,,0,0,0,,And {\i1}that's{\i0} why you're so down?!
 Dialogue: 10,0:15:11.72,0:15:14.18,Default,,0,0,0,,You've still got weekends off.
@@ -287,60 +289,60 @@ Dialogue: 10,0:15:29.07,0:15:32.86,Default,,0,0,0,,Sure. But after the rainy \Ns
 Dialogue: 10,0:15:32.86,0:15:35.08,Default,,0,0,0,,But not before exams.
 Dialogue: 10,0:15:36.99,0:15:40.75,Default,,0,0,0,,I wanna go have fun!
 Dialogue: 10,0:15:42.25,0:15:45.25,Default,,0,0,0,,Let's do that, then.
-Dialogue: 10,0:15:45.25,0:15:47.75,Default,,0,0,0,,How about next weekend?
-Dialogue: 10,0:15:47.75,0:15:48.96,Default,,0,0,0,,You mean it?!
+Dialogue: 10,0:15:45.25,0:15:47.75,Default,,0,0,0,,How's next weekend sound?
+Dialogue: 10,0:15:47.75,0:15:48.96,Default,,0,0,0,,You're serious?!
 Dialogue: 10,0:15:48.96,0:15:50.55,Default,,0,0,0,,Don't startle me!
-Dialogue: 10,0:15:50.55,0:15:52.47,Default,,0,0,0,,You startled {\i1}me{\i0}!
+Dialogue: 10,0:15:50.55,0:15:52.47,Default,,0,0,0,,That's my line!
 Dialogue: 10,0:15:52.47,0:15:55.51,Default,,0,0,0,,This same old loner of a senior, \Nsuggesting we go somewhere?
-Dialogue: 10,0:15:55.51,0:15:59.52,Default,,0,0,0,,Hell must be frozen over! Completely frozen over! \NAnd now I know why it's raining!
-Dialogue: 10,0:15:59.52,0:16:02.39,Default,,0,0,0,,Because {\i1}you{\i0} say such weird stuff! Ugh!
-Dialogue: 10,0:16:02.39,0:16:03.90,Default,,0,0,0,,Calm down!
+Dialogue: 10,0:15:55.51,0:15:59.52,Default,,0,0,0,,Hell must be frozen over! \NNow I know where the rain's coming from!
+Dialogue: 10,0:15:59.52,0:16:02.39,Default,,0,0,0,,It's because {\i1}you{\i0} say such weird stuff! Ugh!
+Dialogue: 10,0:16:02.39,0:16:03.90,Default,,0,0,0,,Calm your horses!
 Dialogue: 10,0:16:03.90,0:16:06.86,Default,,0,0,0,,I can't make heads or tails \Nof this mixed-up conversation!
-Dialogue: 10,0:16:06.86,0:16:09.19,Default,,0,0,0,,If it doesn't work for you, then never mind.
+Dialogue: 10,0:16:06.86,0:16:09.19,Default,,0,0,0,,But well, if it doesn't work out for you, forget it.
 Dialogue: 10,0:16:09.19,0:16:10.32,Default,,0,0,0,,I'll go!
-Dialogue: 10,0:16:10.32,0:16:12.74,Default,,0,0,0,,Well... good.
+Dialogue: 10,0:16:10.32,0:16:12.74,Default,,0,0,0,,Well... glad to hear that.
 Dialogue: 10,0:16:12.74,0:16:16.32,Default,,0,0,0,,So, is there someplace you had in mind?
 Dialogue: 10,0:16:16.32,0:16:20.87,Default,,0,0,0,,I know! How about an outing by train?
 Dialogue: 10,0:16:26.29,0:16:28.88,Default,,0,0,0,,Sakurai, your face is all red.
 Dialogue: 10,0:16:28.88,0:16:31.59,Default,,0,0,0,,It's nothing. Trains are banned.
 Dialogue: 10,0:16:31.59,0:16:34.59,Default,,0,0,0,,Then do you mind if I just \Nthrow something together?
-Dialogue: 10,0:16:34.59,0:16:36.51,Default,,0,0,0,,Please do.
+Dialogue: 10,0:16:34.59,0:16:36.51,Default,,0,0,0,,Not at all, be my guest.
 Dialogue: 10,0:16:36.51,0:16:40.77,Default,,0,0,0,,Got it! I can't wait!
 Dialogue: 10,0:16:40.77,0:16:42.60,Default,,0,0,0,,That's one frightening laugh.
-Dialogue: 10,0:16:42.60,0:16:45.69,Default,,0,0,0,,Still, it's not every day that I get an invite from {\i1}you{\i0}!
+Dialogue: 10,0:16:42.60,0:16:45.69,Default,,0,0,0,,Still, it's not every day that {\i1}you{\i0} invite me!
 Dialogue: 10,0:16:45.69,0:16:52.03,Default,,0,0,0,,Well, yeah. I felt bad for \Nwhat happened over Golden Week.
 Dialogue: 10,0:16:52.03,0:16:53.36,Default,,0,0,0,,Sakurai...
 Dialogue: 10,0:16:53.36,0:16:58.58,Default,,0,0,0,,And when I told Ami, \Nshe said I should follow up with you.
-Dialogue: 10,0:16:58.58,0:17:01.37,Default,,0,0,0,,Huh? Are you mad?
+Dialogue: 10,0:16:58.58,0:17:01.37,Default,,0,0,0,,Huh? You upset?
 Dialogue: 10,0:17:01.37,0:17:03.04,Default,,0,0,0,,Am not.
-Dialogue: 10,0:17:03.04,0:17:04.79,Default,,0,0,0,,You totally are.
-Dialogue: 10,0:17:04.79,0:17:07.25,Default,,0,0,0,,Not in the slightest.
-Dialogue: 10,0:17:07.25,0:17:08.54,Default,,0,0,0,,Oh, come on.
+Dialogue: 10,0:17:03.04,0:17:04.79,Default,,0,0,0,,Pull the other one.
+Dialogue: 10,0:17:04.79,0:17:07.25,Default,,0,0,0,,For real.
+Dialogue: 10,0:17:07.25,0:17:08.54,Default,,0,0,0,,Oh, c'mon. Be real.
 Dialogue: 10,0:17:08.54,0:17:11.59,Default,,0,0,0,,Look, if I were mad, it'd be a big deal!
-Dialogue: 10,0:17:11.59,0:17:13.76,Default,,0,0,0,,What the hell?
+Dialogue: 10,0:17:11.59,0:17:13.76,Default,,0,0,0,,The hell's that supposed to mean?
 Dialogue: 10,0:17:19.51,0:17:23.85,Default,,0,0,0,,It's pouring. Forget going out in this.
 Dialogue: 10,0:17:23.85,0:17:26.60,Default,,0,0,0,,I hope she's still home...
-Dialogue: 10,0:17:32.48,0:17:36.24,Default,,0,0,0,,I was just about to call you.
-Dialogue: 10,0:17:36.24,0:17:40.62,Default,,0,0,0,,I figured it'd still be pissing down today, \Nso may as well just play games at your place.{"downpour rain"}
-Dialogue: 10,0:17:40.62,0:17:46.00,Default,,0,0,0,,"Might as well cook!" I thought, \Nbut then it came down even harder...{I thought I'd cook while I have the chance..."}
+Dialogue: 10,0:17:32.48,0:17:36.24,Default,,0,0,0,,I was literally just about to call you.
+Dialogue: 10,0:17:36.24,0:17:40.62,Default,,0,0,0,,I figured it'd still be pissing down today, \Nso I thought we'd just play games at your place.{"downpour rain"}
+Dialogue: 10,0:17:40.62,0:17:46.00,Default,,0,0,0,,"Might as well cook, too!" I thought, \Nbut then it came down even harder...{I thought I'd cook while I have the chance..."}
 Dialogue: 10,0:17:46.00,0:17:49.00,Default,,0,0,0,,By the time I exited the supermarket, \Nit was hell out there.
 Dialogue: 10,0:17:49.00,0:17:51.88,Default,,0,0,0,,I appreciate the sentiment, \Nbut don't go overboard.
 Dialogue: 10,0:17:51.88,0:17:56.47,Default,,0,0,0,,Can I borrow your shower? \NOh, and a change of clothes.
 Dialogue: 10,0:17:56.47,0:17:59.84,Default,,0,0,0,,Aw, shouldn't have worn my favourite shirt.
 Dialogue: 10,0:18:01.43,0:18:03.56,Default,,0,0,0,,Care to join me?
-Dialogue: 10,0:18:03.56,0:18:05.14,Default,,0,0,0,,Go in already!
+Dialogue: 10,0:18:03.56,0:18:05.14,Default,,0,0,0,,Get in already, you imp!
 Dialogue: 10,0:18:06.81,0:18:08.23,Default,,0,0,0,,Honestly.
 Dialogue: 10,0:18:11.69,0:18:14.69,Default,,0,0,0,,Whoa! I'm soaked clear through to my undies!
-Dialogue: 10,0:18:14.69,0:18:17.20,Default,,0,0,0,,Ugh! Too much info!
+Dialogue: 10,0:18:14.69,0:18:17.20,Default,,0,0,0,,Too much info!
 Dialogue: 10,0:18:24.24,0:18:25.91,Default,,0,0,0,,This shirt is ginormous!
-Dialogue: 10,0:18:25.91,0:18:29.50,Default,,0,0,0,,Lemme get lunch done before we start playing.
+Dialogue: 10,0:18:25.91,0:18:29.50,Default,,0,0,0,,Lemme get lunch done before we play.
 Dialogue: 10,0:18:29.50,0:18:31.17,Default,,0,0,0,,Hey, uh, thanks.
 Dialogue: 10,0:18:31.17,0:18:32.42,Default,,0,0,0,,Ta-dah!
 Dialogue: 10,0:18:32.42,0:18:37.80,Default,,0,0,0,,You don't have any good cookware, \Nso I'm giving you my old pot.
 Dialogue: 10,0:18:37.80,0:18:42.10,Default,,0,0,0,,That's incredibly nice of you. I appreciate it.
 Dialogue: 10,0:18:42.80,0:18:43.93,Default,,0,0,0,,First...
-Dialogue: 10,0:18:43.93,0:18:45.56,Default,,0,0,0,,Need help?
-Dialogue: 10,0:18:46.35,0:18:50.10,Default,,0,0,0,,You're no cook. How about washing these veggies?
+Dialogue: 10,0:18:43.93,0:18:45.56,Default,,0,0,0,,Need a hand?
+Dialogue: 10,0:18:46.35,0:18:50.10,Default,,0,0,0,,You're no cook. \NHow about you wash these veggies?
 Dialogue: 10,0:18:50.10,0:18:51.86,Default,,0,0,0,,Yeah, sure.
 Dialogue: 10,0:18:51.86,0:18:54.86,Default,,0,0,0,,You're awfully obedient today, Sakurai.
 Dialogue: 10,0:18:54.86,0:19:01.11,Default,,0,0,0,,It's just that everything's been \Ngoing wrong for you today, so...
@@ -349,7 +351,7 @@ Dialogue: 10,0:19:04.95,0:19:10.12,Default,,0,0,0,,You said you couldn't taste t
 Dialogue: 10,0:19:10.12,0:19:12.50,Default,,0,0,0,,so there's a little score-settling in the mix.
 Dialogue: 10,0:19:12.50,0:19:15.63,Default,,0,0,0,,I'm really sorry I said that.
 Dialogue: 10,0:19:15.63,0:19:20.05,Default,,0,0,0,,My cooking will have your \Nunsophisticated palate {\i1}moaning{\i0}!
-Dialogue: 10,0:19:20.05,0:19:23.18,Default,,0,0,0,,You're taking it one step too far again.
+Dialogue: 10,0:19:20.05,0:19:23.18,Default,,0,0,0,,Taking it one step too far, {\i1}again{\i0}.
 Dialogue: 10,0:19:26.26,0:19:28.27,Default,,0,0,0,,What game did you have in mind?
 Dialogue: 10,0:19:28.27,0:19:32.69,Default,,0,0,0,,Oh! You downloaded Meowcraft! Let's play that!
 Dialogue: 10,0:19:34.90,0:19:38.90,Default,,0,0,0,,Let's work together to build \Nsomething totally out-there!
@@ -358,32 +360,32 @@ Dialogue: 10,0:19:48.58,0:19:50.87,Default,,0,0,0,,{\i1}Ah, who cares?
 Dialogue: 10,0:19:50.87,0:19:53.00,Default,,0,0,0,,Ready to start being \Na useless college student?
 Dialogue: 10,0:19:53.00,0:19:56.13,Default,,0,0,0,,What do you mean, "start"? \NYou've always been one.
 Dialogue: 10,0:19:56.13,0:19:57.50,Default,,0,0,0,,Back off!
-Dialogue: 10,0:20:22.15,0:20:23.95,Default,,0,0,0,,Phew! Now that's what I'd call a LAN party.{"That's what I'd call a gaming night"}
-Dialogue: 10,0:20:27.33,0:20:31.41,Default,,0,0,0,,Guess it was a bit much to try \Nand finish our building in one day.
+Dialogue: 10,0:20:22.15,0:20:23.95,Default,,0,0,0,,Now {\i1}that's{\i0} what I'd call a LAN party.{"That's what I'd call a gaming night"}
+Dialogue: 10,0:20:27.33,0:20:31.41,Default,,0,0,0,,Guess I was overzealous, thinking we \Ncould finish building that in one day.
 Dialogue: 10,0:20:31.41,0:20:33.54,Default,,0,0,0,,It did get torn down a few times.
-Dialogue: 10,0:20:33.54,0:20:36.54,Default,,0,0,0,,We can just work on it \Nthe next time you're over.
+Dialogue: 10,0:20:33.54,0:20:36.54,Default,,0,0,0,,We can just work on it further \Nthe next time you're over.
 Dialogue: 10,0:20:36.54,0:20:40.42,Default,,0,0,0,,The... next time?
 Dialogue: 10,0:20:40.42,0:20:43.63,Default,,0,0,0,,Hmm?
 Dialogue: 10,0:20:43.63,0:20:45.05,Default,,0,0,0,,Yeah!
-Dialogue: 10,0:20:46.51,0:20:49.39,Default,,0,0,0,,Enough with the scary laugh!
+Dialogue: 10,0:20:46.51,0:20:49.39,Default,,0,0,0,,Enough with that scary laugh!
 Dialogue: 10,0:20:52.89,0:20:57.77,Default,,0,0,0,,Put the curry pot in \Nthe fridge just like that, 'kay?
 Dialogue: 10,0:20:58.31,0:21:00.36,Default,,0,0,0,,Will do.
 Dialogue: 10,0:21:00.36,0:21:04.65,Default,,0,0,0,,It'll taste even better after sitting overnight.
 Dialogue: 10,0:21:04.65,0:21:07.45,Default,,0,0,0,,You know, I've heard that before. Is it true?
 Dialogue: 10,0:21:07.45,0:21:10.87,Default,,0,0,0,,Let it sit overnight and the roux \Nsoaks into the meat and veggies,
 Dialogue: 10,0:21:10.87,0:21:15.75,Default,,0,0,0,,which release their umami components, \Namino acids, sugars, into the roux!
-Dialogue: 10,0:21:15.75,0:21:20.96,Default,,0,0,0,,That's how you get a richer \Numami flavor all through the curry.
+Dialogue: 10,0:21:15.75,0:21:20.96,Default,,0,0,0,,That's how you get a richer \Numami flavour all throughout the curry.
 Dialogue: 10,0:21:18.46,0:21:20.96,Default,,0,0,0,,{\an8}Too long; didn't listen.{"TLDR" would suit better lol}
 Dialogue: 10,0:21:20.96,0:21:23.34,Default,,0,0,0,,I'm looking forward to it.
 Dialogue: 10,0:21:23.34,0:21:25.18,Default,,0,0,0,,Good!
-Dialogue: 10,0:21:25.18,0:21:28.26,Default,,0,0,0,,Though today's was already plenty good.
+Dialogue: 10,0:21:25.18,0:21:28.26,Default,,0,0,0,,Though today's portion was plenty good already.
 Dialogue: 10,0:21:30.43,0:21:31.97,Default,,0,0,0,,Sakurai?
 Dialogue: 10,0:21:34.73,0:21:38.02,Default,,0,0,0,,About that next time...
-Dialogue: 10,0:21:38.02,0:21:41.15,Default,,0,0,0,,How's tomorrow sound?
-Dialogue: 10,0:21:41.15,0:21:46.74,Default,,0,0,0,,Oh, to pick up where we left off? \NSure. God knows I'm free.
+Dialogue: 10,0:21:38.02,0:21:41.15,Default,,0,0,0,,Would tomorrow work?
+Dialogue: 10,0:21:41.15,0:21:46.74,Default,,0,0,0,,Oh, to pick up where we left off? \NSure. Got all the time in the world.
 Dialogue: 10,0:21:46.74,0:21:48.24,Default,,0,0,0,,Hooray!
 Dialogue: 10,0:21:50.91,0:21:54.79,Default,,0,0,0,,Then let's hang out again, okay?
 Dialogue: 10,0:21:54.79,0:21:56.00,Default,,0,0,0,,Yep.
 Dialogue: 10,0:21:57.46,0:22:01.50,Default,,0,0,0,,Um... wait—what?
 Dialogue: 10,0:22:01.50,0:22:05.84,Default,,0,0,0,,Sorry. I seem to have \Nleft my pass at your place.
-Dialogue: 10,0:22:08.18,0:22:10.18,Default,,0,0,0,,You're so disorganized.
+Dialogue: 10,0:22:08.18,0:22:10.18,Default,,0,0,0,,You're so disorganised.
