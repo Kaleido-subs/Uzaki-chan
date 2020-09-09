@@ -25,34 +25,34 @@ Style: OP1 - ENG,FOT-TsukuARdGothic Std E,69,&H00FAFAFA,&H000019FF,&H00140100,&H
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,sync,{OP}
-Comment: 0,0:00:00.00,0:00:04.06,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}You think I want to be asked to hang out with you?
-Comment: 0,0:00:04.06,0:00:07.86,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}No, no! I've never even thought about it once!
-Comment: 0,0:00:07.86,0:00:09.40,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}I'm only subtly ushering you{pestering you is just another type of}
-Comment: 0,0:00:09.40,0:00:11.32,OP1 - ENG,,0,0,0,karaoke,{\fad(0,264)\blur0.7\bord0}To begin considering the possibilities!{negotiation to coax you on}
-Comment: 0,0:00:14.11,0:00:17.16,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}I thought I'd be nice and hear what you had planned for today
-Comment: 0,0:00:17.16,0:00:20.25,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}But why would I want to come along? (Seriously, what're you imagining?){What's up with that reaction, (seriously)}
-Comment: 0,0:00:20.25,0:00:26.21,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}Even I think your being so serious and gloomy is super creepy!{Coming up with such a manner would even make me gloomy}
-Comment: 0,0:00:26.21,0:00:26.88,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}Totally!{"True that"}{this line actually refers to the next}
-Comment: 0,0:00:26.88,0:00:30.21,OP1 - ENG,,0,0,0,karaoke,{\fscx95\blur0.7\bord0}Just brushing me off as annoying won't help you a lot{Getting brushed off as an annoying one has no merits}
-Comment: 0,0:00:30.21,0:00:33.22,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}But praising my blossoming body would be ideal!{But maybe it will change into anm "impishly cute"}{yeah I know I have zero song TL sense in english so going full lit.}
-Comment: 0,0:00:33.22,0:00:36.39,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}I thought I'd just rush up some day and chatter away (why not?){I thought I'd just rush up some day and ask away}
-Comment: 0,0:00:36.39,0:00:38.72,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}And you just went along
-Comment: 0,0:00:38.72,0:00:39.64,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}With my silly whims{"Unexpectedly simple one, eh?"}
-Comment: 0,0:00:39.64,0:00:42.77,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}Being so distant sure seems lonely
-Comment: 0,0:00:42.77,0:00:45.94,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}So just stick close to me and come nearer, step by step!
-Comment: 0,0:00:45.94,0:00:48.82,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}Even if you turn aside, step away or block my attempts{Going back and forth, push-and-pull}
-Comment: 0,0:00:48.82,0:00:52.94,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}I'll repeat them again, again and again without hesitation{Just how many time we'd repeat that I wonder}
-Comment: 0,0:00:52.94,0:00:57.45,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}Eagerly anticipating the results!{The destination of our feelings are unknown}
-Comment: 0,0:00:58.28,0:01:01.79,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}Teasing you soothes, refreshes and makes me just way too happy
-Comment: 0,0:01:01.79,0:01:05.25,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}I'm not just saying this either, I'm totally serious!
-Comment: 0,0:01:05.25,0:01:08.25,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}I want to show you how to love life's simple joys!{I'm simply deeply enjoying this}
-Comment: 0,0:01:08.25,0:01:09.75,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}Let's cherish them together every day{It's a mutual relation}
-Comment: 0,0:01:09.75,0:01:11.30,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}Sounds great? Right, right?{It is, right? Right?}
-Comment: 0,0:01:11.30,0:01:14.34,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}We're just going up and down with this seesaw game{If this turns into a outwitting play it'll be just a seesaw game}
-Comment: 0,0:01:14.34,0:01:17.80,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}Though irritating and whimsical, I'll always wait for you{I'll be waiting you, sometime wavering, sometime whimsical, sometime carefree}
-Comment: 0,0:01:17.80,0:01:20.85,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}Ah, being asked out by you
-Comment: 0,0:01:20.85,0:01:24.23,OP1 - ENG,,0,0,0,karaoke,{\blur0.7\bord0}Was something I hadn't thought about, but it'd be so nice!
-Comment: 0,0:01:24.23,0:01:28.15,OP1 - ENG,,0,0,0,karaoke,{\fad(0,184)\blur0.7\bord0}Teasing you, playing and horsing around would make every day nice!
+Comment: 0,0:00:00.00,0:00:04.06,OP1 - ENG,,0,0,0,karaoke,You think I want to be asked to hang out with you?
+Comment: 0,0:00:04.06,0:00:07.86,OP1 - ENG,,0,0,0,karaoke,No, no! I've never even thought about it once!
+Comment: 0,0:00:07.86,0:00:09.40,OP1 - ENG,,0,0,0,karaoke,I'm only subtly ushering you{pestering you is just another type of}
+Comment: 0,0:00:09.40,0:00:11.32,OP1 - ENG,,0,0,0,karaoke,{\fad(0,264)}To begin considering the possibilities!{negotiation to coax you on}
+Comment: 0,0:00:14.11,0:00:17.16,OP1 - ENG,,0,0,0,karaoke,I thought I'd be nice and hear what you had planned for today
+Comment: 0,0:00:17.16,0:00:20.25,OP1 - ENG,,0,0,0,karaoke,But why would I want to come along? (Seriously, what're you imagining?){What's up with that reaction, (seriously)}
+Comment: 0,0:00:20.25,0:00:26.21,OP1 - ENG,,0,0,0,karaoke,Even I think your being so serious and gloomy is super creepy!{Coming up with such a manner would even make me gloomy}
+Comment: 0,0:00:26.21,0:00:26.88,OP1 - ENG,,0,0,0,karaoke,Totally!{"True that"}{this line actually refers to the next}
+Comment: 0,0:00:26.88,0:00:30.21,OP1 - ENG,,0,0,0,karaoke,{\fscx95}Just brushing me off as annoying won't help you a lot{Getting brushed off as an annoying one has no merits}
+Comment: 0,0:00:30.21,0:00:33.22,OP1 - ENG,,0,0,0,karaoke,But praising my blossoming body would be ideal!{But maybe it will change into anm "impishly cute"}{yeah I know I have zero song TL sense in english so going full lit.}
+Comment: 0,0:00:33.22,0:00:36.39,OP1 - ENG,,0,0,0,karaoke,I thought I'd just rush up some day and chatter away (why not?){I thought I'd just rush up some day and ask away}
+Comment: 0,0:00:36.39,0:00:38.72,OP1 - ENG,,0,0,0,karaoke,And you just went along
+Comment: 0,0:00:38.72,0:00:39.64,OP1 - ENG,,0,0,0,karaoke,With my silly whims{"Unexpectedly simple one, eh?"}
+Comment: 0,0:00:39.64,0:00:42.77,OP1 - ENG,,0,0,0,karaoke,Being so distant sure seems lonely
+Comment: 0,0:00:42.77,0:00:45.94,OP1 - ENG,,0,0,0,karaoke,So just stick close to me and come nearer, step by step!
+Comment: 0,0:00:45.94,0:00:48.82,OP1 - ENG,,0,0,0,karaoke,Even if you turn aside, step away or block my attempts{Going back and forth, push-and-pull}
+Comment: 0,0:00:48.82,0:00:52.94,OP1 - ENG,,0,0,0,karaoke,I'll repeat them again, again and again without hesitation{Just how many time we'd repeat that I wonder}
+Comment: 0,0:00:52.94,0:00:57.45,OP1 - ENG,,0,0,0,karaoke,Eagerly anticipating the results!{The destination of our feelings are unknown}
+Comment: 0,0:00:58.28,0:01:01.79,OP1 - ENG,,0,0,0,karaoke,Teasing you soothes, refreshes and makes me just way too happy
+Comment: 0,0:01:01.79,0:01:05.25,OP1 - ENG,,0,0,0,karaoke,I'm not just saying this either, I'm totally serious!
+Comment: 0,0:01:05.25,0:01:08.25,OP1 - ENG,,0,0,0,karaoke,I want to show you how to love life's simple joys!{I'm simply deeply enjoying this}
+Comment: 0,0:01:08.25,0:01:09.75,OP1 - ENG,,0,0,0,karaoke,Let's cherish them together every day{It's a mutual relation}
+Comment: 0,0:01:09.75,0:01:11.30,OP1 - ENG,,0,0,0,karaoke,Sounds great? Right, right?{It is, right? Right?}
+Comment: 0,0:01:11.30,0:01:14.34,OP1 - ENG,,0,0,0,karaoke,We're just going up and down with this seesaw game{If this turns into a outwitting play it'll be just a seesaw game}
+Comment: 0,0:01:14.34,0:01:17.80,OP1 - ENG,,0,0,0,karaoke,Though irritating and whimsical, I'll always wait for you{I'll be waiting you, sometime wavering, sometime whimsical, sometime carefree}
+Comment: 0,0:01:17.80,0:01:20.85,OP1 - ENG,,0,0,0,karaoke,Ah, being asked out by you
+Comment: 0,0:01:20.85,0:01:24.23,OP1 - ENG,,0,0,0,karaoke,Was something I hadn't thought about, but it'd be so nice!
+Comment: 0,0:01:24.23,0:01:28.15,OP1 - ENG,,0,0,0,karaoke,{\fad(0,184)}Teasing you, playing and horsing around would make every day nice!
 Comment: 0,0:00:00.00,0:00:04.06,OP1 - ROM,,0,0,0,karaoke,honto wa sasotte hoshii nante
 Comment: 0,0:00:04.06,0:00:07.86,OP1 - ROM,,0,0,0,karaoke,omottemo nankanai sonnakoto manzara zenzen naisu
 Comment: 0,0:00:07.86,0:00:09.40,OP1 - ROM,,0,0,0,karaoke,uzagarami soremo hitotsuno
