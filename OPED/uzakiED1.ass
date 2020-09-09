@@ -27,7 +27,7 @@ Style: Signs,Gandhi Sans,80,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,sync,{ED}
 Comment: 0,0:00:04.90,0:00:12.82,ED1 - ENG,,0,0,0,karaoke,{\fad(279,0)}Happy, mischevious chatter echoes through the air
-Comment: 0,0:00:12.82,0:00:21.33,ED1 - ENG,,0,0,0,karaoke,Imbuing these mundane afternoons with it's distinctive flavour
+Comment: 0,0:00:12.82,0:00:21.33,ED1 - ENG,,0,0,0,karaoke,Imbuing these mundane afternoons with its distinctive flavour
 Comment: 0,0:00:21.33,0:00:29.55,ED1 - ENG,,0,0,0,karaoke,When I'm with you in this world filled with adventures
 Comment: 0,0:00:29.55,0:00:36.72,ED1 - ENG,,0,0,0,karaoke,Every second feels like a new, special find
 Comment: 0,0:00:36.72,0:00:40.64,ED1 - ENG,,0,0,0,karaoke,No matter how often we laugh together, I'll never grow tired of it
@@ -58,9 +58,9 @@ Dialogue: 0,0:00:08.82,0:00:12.82,Signs,,0,0,0,,{\pos(1082.2,875)\frz-14.8\fax0.
 Dialogue: 1,0:00:04.90,0:00:12.82,ED1 - ENG,,0,0,0,fx,{\blur0.7\fad(279,0)\bord6.25\c&HFFFFFF&\3c&HFFFFFF&}Happy, mischevious chatter echoes through the air
 Dialogue: 2,0:00:04.90,0:00:12.82,ED1 - ENG,,0,0,0,fx,{\blur0.7\fad(279,0)\bord4\c&H3C3C3C&\3c&H3C3C3C&}Happy, mischevious chatter echoes through the air
 Dialogue: 3,0:00:04.90,0:00:12.82,ED1 - ENG,,0,0,0,fx,{\blur0.7\fad(279,0)\bord0}Happy, mischevious chatter echoes through the air
-Dialogue: 1,0:00:12.82,0:00:21.33,ED1 - ENG,,0,0,0,fx,{\blur0.7\bord6.25\c&HFFFFFF&\3c&HFFFFFF&}Imbuing these mundane afternoons with it's distinctive flavour
-Dialogue: 2,0:00:12.82,0:00:21.33,ED1 - ENG,,0,0,0,fx,{\blur0.7\bord4\c&H3C3C3C&\3c&H3C3C3C&}Imbuing these mundane afternoons with it's distinctive flavour
-Dialogue: 3,0:00:12.82,0:00:21.33,ED1 - ENG,,0,0,0,fx,{\blur0.7\bord0}Imbuing these mundane afternoons with it's distinctive flavour
+Dialogue: 1,0:00:12.82,0:00:21.33,ED1 - ENG,,0,0,0,fx,{\blur0.7\bord6.25\c&HFFFFFF&\3c&HFFFFFF&}Imbuing these mundane afternoons with its distinctive flavour
+Dialogue: 2,0:00:12.82,0:00:21.33,ED1 - ENG,,0,0,0,fx,{\blur0.7\bord4\c&H3C3C3C&\3c&H3C3C3C&}Imbuing these mundane afternoons with its distinctive flavour
+Dialogue: 3,0:00:12.82,0:00:21.33,ED1 - ENG,,0,0,0,fx,{\blur0.7\bord0}Imbuing these mundane afternoons with its distinctive flavour
 Dialogue: 1,0:00:21.33,0:00:29.55,ED1 - ENG,,0,0,0,fx,{\blur0.7\bord6.25\c&HFFFFFF&\3c&HFFFFFF&}When I'm with you in this world filled with adventures
 Dialogue: 2,0:00:21.33,0:00:29.55,ED1 - ENG,,0,0,0,fx,{\blur0.7\bord4\c&H3C3C3C&\3c&H3C3C3C&}When I'm with you in this world filled with adventures
 Dialogue: 3,0:00:21.33,0:00:29.55,ED1 - ENG,,0,0,0,fx,{\blur0.7\bord0}When I'm with you in this world filled with adventures
