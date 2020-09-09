@@ -1085,6 +1085,8 @@ Dialogue: 2,0:21:15.21,0:21:16.30,Signs,,0,0,0,,{\pos(1664,334.666)\fscx70\frz19
 Dialogue: 1,0:21:15.21,0:21:16.30,Signs,,0,0,0,,{\pos(1459.696,573.486)\fscx80\frz17.56\fax-0.48\fnDFPHSMincho-W9\fs90\bord4\c&HD0C9D0&\3c&HD0C9D0&\blur1}G{\fax-0.494}u{\fax-0.507}i{\fax-0.521}d{\fax-0.535}e {\fax-0.563}t{\fax-0.576}o {\fax-0.604}H{\fax-0.617}y{\fax-0.631}p{\fax-0.645}n{\fax-0.659}o{\fax-0.672}s{\fax-0.686}i{\fax-0.7}s
 Dialogue: 2,0:21:15.21,0:21:16.30,Signs,,0,0,0,,{\pos(1459.696,573.486)\fscx80\frz17.56\fax-0.48\fnDFPHSMincho-W9\fs90\c&H191217&\4a&HFF&\blur1}G{\fax-0.494}u{\fax-0.507}i{\fax-0.521}d{\fax-0.535}e {\fax-0.563}t{\fax-0.576}o {\fax-0.604}H{\fax-0.617}y{\fax-0.631}p{\fax-0.645}n{\fax-0.659}o{\fax-0.672}s{\fax-0.686}i{\fax-0.7}s
 Comment: 0,0:21:16.29,0:21:18.50,Signs,,0,0,0,,"Total Mastery: Beginner's Guide to Hypnosis"
+Dialogue: 0,0:22:51.89,0:22:53.85,Signs,,0,0,0,,{\pos(590.416,671.968)\frz4.21\fax-0.07\fnDay Roman\fs20\c&HA86D4A&\blur1}Café
+Dialogue: 0,0:22:51.89,0:22:53.85,Signs,,0,0,0,,{\pos(590.477,689.545)\frz4.21\fax-0.07\fnDay Roman\fs20\c&HA86D4A&\blur1}Asia
 Dialogue: 0,0:23:35.22,0:23:35.26,Titles,,0,0,0,,{\pos(331,134.238)\bord5\c&HFFFFFF&\1a&HFF&\3a&HA0&\blur0.6}Epi
 Dialogue: 1,0:23:35.22,0:23:35.26,Titles,,0,0,0,,{\pos(331,134.238)\c&HEEC323&\1a&HA0&\blur0.6}Epi
 Dialogue: 0,0:23:35.26,0:23:35.31,Titles,,0,0,0,,{\pos(331,216.371)\bord5\c&HFFFFFF&\1a&HFF&\3a&H5B&\blur0.6}Epi
