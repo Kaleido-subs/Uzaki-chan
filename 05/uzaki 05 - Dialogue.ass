@@ -20,8 +20,6 @@ Video AR Value: 1.777778
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,200,200,56,1
-Style: sign1,Open Sans Semibold,68,&H00DADCDE,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,2,15,15,38,1
-Style: sign2,Open Sans Semibold,75,&H00A543EF,&H000000FF,&H00A543EF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,15,15,38,1
 Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,200,200,56,1
 Style: Sign,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,200,200,56,1
 
@@ -37,20 +35,20 @@ Dialogue: 10,0:00:38.69,0:00:41.94,Default,,0,0,0,,Can I drop by your place agai
 Dialogue: 10,0:00:42.53,0:00:44.07,Default,,0,0,0,,Today? Again?
 Dialogue: 10,0:00:44.07,0:00:50.78,Default,,0,0,0,,I'm just really worried you'll build \Nmore of Uzaki Hills without me!
 Dialogue: 10,0:00:50.78,0:00:52.53,Default,,0,0,0,,I wouldn't.
-Dialogue: 10,0:00:52.53,0:00:55.61,Default,,0,0,0,,That tower's so creepy. \NReminds me of some evil emperor's lair.
-Dialogue: 10,0:00:55.61,0:00:58.07,Default,,0,0,0,,An evil emperor's lair? Yeah, right!
+Dialogue: 10,0:00:52.53,0:00:55.53,Default,,0,0,0,,That tower's so creepy. \NReminds me of some evil emperor's lair.
+Dialogue: 10,0:00:55.53,0:00:58.07,Default,,0,0,0,,An evil emperor's lair? Yeah, right!
 Dialogue: 10,0:00:58.07,0:01:01.15,Default,,0,0,0,,That's my dream house, \Nstuffed full of my perfect ideals!
 Dialogue: 10,0:01:01.15,0:01:04.19,Default,,0,0,0,,You'd set up a lava trap at your own house?!
-Dialogue: 10,0:01:04.19,0:01:05.57,Default,,0,0,0,,Oh, that?
-Dialogue: 10,0:01:05.57,0:01:08.78,Default,,0,0,0,,That is so you can always come by and visit!
-Dialogue: 10,0:01:09.90,0:01:11.73,Default,,0,0,0,,What, visit so I can get trapped?
+Dialogue: 10,0:01:04.19,0:01:05.54,Default,,0,0,0,,Oh, that?
+Dialogue: 10,0:01:05.54,0:01:08.78,Default,,0,0,0,,That is so you can always come by and visit!
+Dialogue: 10,0:01:09.79,0:01:11.73,Default,,0,0,0,,What, visit so I can get trapped?
 Dialogue: 10,0:01:11.73,0:01:14.19,Default,,0,0,0,,Trapped? Rude much! I'd never do that!{"Wow, saying that I'm a trapper is so rude"}{## I'm fine with removing "trapper" here. I can add it in if you feel strongly about it @TLC}
 Dialogue: 10,0:01:14.19,0:01:17.69,Default,,0,0,0,,Oh, come on! Explain what the \Nbloody {\i1}lava trap{\i0} is for, then!{"It's a trap so what else would I call you?!"}
 Dialogue: 10,0:03:01.23,0:03:06.28,Default,,0,0,0,,What are you doing out there, kitty?
 Dialogue: 10,0:03:06.28,0:03:11.44,Default,,0,0,0,,I'll rescue you. \NStay right there and be a good kitty.
 Dialogue: 10,0:03:12.57,0:03:14.65,Default,,0,0,0,,Almost there...
 Dialogue: 10,0:03:16.15,0:03:18.07,Default,,0,0,0,,It's all right.
-Dialogue: 10,0:03:20.57,0:03:22.36,Default,,0,0,0,,Hey!
+Dialogue: 10,0:03:20.42,0:03:22.36,Default,,0,0,0,,Hey!
 Dialogue: 10,0:03:24.36,0:03:25.69,Default,,0,0,0,,No!{"No way..."}
 Dialogue: 10,0:03:31.73,0:03:34.40,Default,,0,0,0,,A dream? I was... dreaming?
 Dialogue: 10,0:03:34.40,0:03:36.69,Default,,0,0,0,,Well, yeah.
@@ -66,8 +64,8 @@ Dialogue: 10,0:04:14.65,0:04:16.44,Default,,0,0,0,,God, you bug me!
 Dialogue: 10,0:04:16.44,0:04:19.48,Default,,0,0,0,,Be quiet. Class has started!
 Dialogue: 10,0:04:19.48,0:04:21.44,Default,,0,0,0,,Whoopsie!
 Dialogue: 10,0:04:21.44,0:04:25.57,Default,,0,0,0,,Are you familiar with dream interpretation?
-Dialogue: 10,0:04:25.57,0:04:29.69,Default,,0,0,0,,It holds that the content of \None's dreams reveal one's mental state.
-Dialogue: 10,0:04:29.69,0:04:32.11,Default,,0,0,0,,Dreams of falling from a height, for example,
+Dialogue: 10,0:04:25.57,0:04:29.66,Default,,0,0,0,,It holds that the content of \None's dreams reveal one's mental state.
+Dialogue: 10,0:04:29.66,0:04:32.11,Default,,0,0,0,,Dreams of falling from a height, for example,
 Dialogue: 10,0:04:32.11,0:04:35.94,Default,,0,0,0,,indicate deep-seated feelings of anxiety,
 Dialogue: 10,0:04:35.94,0:04:42.15,Default,,0,0,0,,while vague unease about \None's career or personal prospects...
 Dialogue: 10,0:04:36.07,0:04:38.19,Default,,0,0,0,,{\an8}Oh, you're anxious, Sakurai?
@@ -80,14 +78,14 @@ Dialogue: 10,0:04:53.90,0:04:56.57,Default,,0,0,0,,Shut up, I said!
 Dialogue: 10,0:04:53.90,0:04:56.57,Default,,0,0,0,,{\an8}a subconscious dissatisfaction \Nwith the action or attitude responsible.
 Dialogue: 10,0:04:56.57,0:05:00.36,Default,,0,0,0,,Quit getting so excited! \NGet those feet on the ground!
 Dialogue: 10,0:05:00.36,0:05:02.07,Default,,0,0,0,,Look who's talking!
-Dialogue: 10,0:05:05.73,0:05:10.78,Default,,0,0,0,,Talk about a timely lecture! Too funny!
+Dialogue: 10,0:05:05.57,0:05:10.78,Default,,0,0,0,,Talk about a timely lecture! Too funny!
 Dialogue: 10,0:05:10.78,0:05:14.57,Default,,0,0,0,,Really laid bare your deepest psyche, huh?
 Dialogue: 10,0:05:14.57,0:05:18.61,Default,,0,0,0,,Can it. Besides, I'm not a kid— \NI don't believe in that stuff.
 Dialogue: 10,0:05:19.57,0:05:22.32,Default,,0,0,0,,Maybe it was a little juvenile...
-Dialogue: 10,0:05:22.32,0:05:24.90,Default,,0,0,0,,Well, I'm more of a believer.
-Dialogue: 10,0:05:24.90,0:05:27.57,Default,,0,0,0,,Psychological tests, blood-type fortunes...
-Dialogue: 10,0:05:27.57,0:05:32.23,Default,,0,0,0,,Superstition, all of it. \NThat's not what psychology is about.
-Dialogue: 10,0:05:32.23,0:05:36.36,Default,,0,0,0,,Sure, you say that, but are you \Nsure you're not just acting tough?
+Dialogue: 10,0:05:22.32,0:05:24.84,Default,,0,0,0,,Well, I'm more of a believer.
+Dialogue: 10,0:05:24.84,0:05:27.57,Default,,0,0,0,,Psychological tests, blood-type fortunes...
+Dialogue: 10,0:05:27.57,0:05:32.10,Default,,0,0,0,,Superstition, all of it. \NThat's not what psychology is about.
+Dialogue: 10,0:05:32.10,0:05:36.36,Default,,0,0,0,,Sure, you say that, but are you \Nsure you're not just acting tough?
 Dialogue: 10,0:05:36.36,0:05:37.57,Default,,0,0,0,,Yeah, right.
 Dialogue: 10,0:05:37.57,0:05:40.28,Default,,0,0,0,,But psychologically speaking—
 Dialogue: 10,0:05:40.28,0:05:43.32,Default,,0,0,0,,Uh-oh... I'm—
@@ -112,7 +110,7 @@ Dialogue: 10,0:06:26.44,0:06:29.61,Default,,0,0,0,,That's terrifying!
 Dialogue: 10,0:06:32.90,0:06:33.90,Default,,0,0,0,,Aw!
 Dialogue: 10,0:06:33.90,0:06:35.44,Default,,0,0,0,,C'mon, why not?
 Dialogue: 10,0:06:35.44,0:06:37.44,Default,,0,0,0,,Ah!
-Dialogue: 10,0:06:37.44,0:06:39.69,Default,,0,0,0,,'Cause I have plans with that guy.
+Dialogue: 10,0:06:37.44,0:06:39.58,Default,,0,0,0,,'Cause I have plans with that guy.
 Dialogue: 10,0:06:42.57,0:06:44.07,Default,,0,0,0,,Maybe next time, okay?
 Dialogue: 10,0:06:44.07,0:06:46.53,Default,,0,0,0,,Aw!
 Dialogue: 10,0:06:46.53,0:06:50.82,Default,,0,0,0,,You showed up at the perfect time, Sak. \NThose girls are relentless!
@@ -146,19 +144,19 @@ Dialogue: 10,0:08:16.61,0:08:18.86,Default,,0,0,0,,Kept pretty busy.
 Dialogue: 10,0:08:20.78,0:08:23.94,Default,,0,0,0,,Enough! Will you go hog wild just once?!
 Dialogue: 10,0:08:23.94,0:08:28.23,Default,,0,0,0,,I've been hanging out with you \Nfor three years. Your life is dull!
 Dialogue: 10,0:08:28.23,0:08:30.19,Default,,0,0,0,,It's depressing just hearing about it!
-Dialogue: 10,0:08:30.19,0:08:33.40,Default,,0,0,0,,Only four years of college, \Nand you're wasting it! Enjoy it!
-Dialogue: 10,0:08:33.40,0:08:34.90,Default,,0,0,0,,Get a girlfriend!
-Dialogue: 10,0:08:34.90,0:08:38.03,Default,,0,0,0,,You always say that.
-Dialogue: 10,0:08:39.28,0:08:40.91,Default,,0,0,0,,This is no time to be drinking!
-Dialogue: 10,0:08:40.91,0:08:42.90,Default,,0,0,0,,What the—? You gave it to me!
-Dialogue: 10,0:08:42.90,0:08:46.40,Default,,0,0,0,,Shut up! Jerks like you \Nwho waste their youth are insufferable!
+Dialogue: 10,0:08:30.19,0:08:33.36,Default,,0,0,0,,Only four years of college, \Nand you're wasting it! Enjoy it!
+Dialogue: 10,0:08:33.36,0:08:34.90,Default,,0,0,0,,Get a girlfriend!
+Dialogue: 10,0:08:34.90,0:08:37.87,Default,,0,0,0,,You always say that.
+Dialogue: 10,0:08:39.12,0:08:40.91,Default,,0,0,0,,This is no time to be drinking!
+Dialogue: 10,0:08:40.91,0:08:42.87,Default,,0,0,0,,What the—? You gave it to me!
+Dialogue: 10,0:08:42.87,0:08:46.40,Default,,0,0,0,,Shut up! Jerks like you \Nwho waste their youth are insufferable!
 Dialogue: 10,0:08:46.40,0:08:48.03,Default,,0,0,0,,Hey, Sakurai!
 Dialogue: 10,0:08:48.73,0:08:51.11,Default,,0,0,0,,There you are!
 Dialogue: 10,0:08:51.11,0:08:52.15,Default,,0,0,0,,Huh?
 Dialogue: 10,0:08:52.15,0:08:54.90,Default,,0,0,0,,Might this person be...
 Dialogue: 10,0:08:54.90,0:08:58.44,Default,,0,0,0,,Wait—could he be—your... friend?
-Dialogue: 10,0:08:58.44,0:08:59.82,Default,,0,0,0,,Yeah, that's right.
-Dialogue: 10,0:08:59.82,0:09:01.15,Default,,0,0,0,,What?!
+Dialogue: 10,0:08:58.44,0:08:59.76,Default,,0,0,0,,Yeah, that's right.
+Dialogue: 10,0:08:59.76,0:09:01.15,Default,,0,0,0,,What?!
 Dialogue: 10,0:09:02.44,0:09:08.19,Default,,0,0,0,,So you... you really did have a friend.
 Dialogue: 10,0:09:08.19,0:09:10.82,Default,,0,0,0,,You did talk him up sometimes...
 Dialogue: 10,0:09:10.82,0:09:14.11,Default,,0,0,0,,...but I thought he was imaginary.
@@ -183,10 +181,10 @@ Dialogue: 10,0:10:08.15,0:10:12.15,Default,,0,0,0,,Who exactly are you worried a
 Dialogue: 10,0:10:12.15,0:10:16.32,Default,,0,0,0,,And don't assume, amid all this nonsense, \Nthat I only have one male friend.
 Dialogue: 10,0:10:16.32,0:10:18.98,Default,,0,0,0,,Now, now—you don't have to show off.
 Dialogue: 10,0:10:18.98,0:10:19.94,Default,,0,0,0,,I'm not!
-Dialogue: 10,0:10:19.94,0:10:22.86,Default,,0,0,0,,So that's how it is.
-Dialogue: 10,0:10:19.94,0:10:22.86,Default,,0,0,0,,{\an8}No, really—it's fine!
-Dialogue: 10,0:10:22.86,0:10:26.03,Default,,0,0,0,,Whoops! Well, I've got another class.
-Dialogue: 10,0:10:26.03,0:10:27.78,Default,,0,0,0,,Get to it.
+Dialogue: 10,0:10:19.94,0:10:22.72,Default,,0,0,0,,So that's how it is.
+Dialogue: 10,0:10:19.94,0:10:22.72,Default,,0,0,0,,{\an8}No, really—it's fine!
+Dialogue: 10,0:10:22.72,0:10:26.03,Default,,0,0,0,,Whoops! Well, I've got another class.
+Dialogue: 10,0:10:26.03,0:10:27.73,Default,,0,0,0,,Get to it.
 Dialogue: 10,0:10:29.32,0:10:30.48,Default,,0,0,0,,She's a nice girl.
 Dialogue: 10,0:10:30.48,0:10:32.15,Default,,0,0,0,,Sometimes.
 Dialogue: 10,0:10:33.23,0:10:34.73,Default,,0,0,0,,Oh, Sak...
@@ -196,8 +194,8 @@ Dialogue: 10,0:10:39.53,0:10:40.86,Default,,0,0,0,,Huh?
 Dialogue: 10,0:10:40.86,0:10:43.28,Default,,0,0,0,,You've found love at long last!
 Dialogue: 10,0:10:43.28,0:10:45.23,Default,,0,0,0,,You don't get it at all!
 Dialogue: 10,0:10:45.23,0:10:48.94,Default,,0,0,0,,Don't be bashful! \NI'm your wingman—I've got your back!
-Dialogue: 10,0:10:48.94,0:10:52.40,Default,,0,0,0,,Ugh! Another giant pain in the ass!
-Dialogue: 10,0:10:52.40,0:10:56.90,Default,,0,0,0,,What sort of situation are you after? \NRomantic? Erotic?
+Dialogue: 10,0:10:48.94,0:10:52.46,Default,,0,0,0,,Ugh! Another giant pain in the ass!
+Dialogue: 10,0:10:52.46,0:10:56.90,Default,,0,0,0,,What sort of situation are you after? \NRomantic? Erotic?
 Dialogue: 10,0:10:52.46,0:10:55.00,Default,,0,0,0,,{\an8}"Summer Romance Watermelon" \N"Icy Cold" "Icy Cold" "Icy Cold"
 Dialogue: 10,0:10:56.90,0:10:59.73,Default,,0,0,0,,Oh, this is going to be one fun summer!{puahahaha uza on the lemon soda -aria}
 Dialogue: 10,0:11:06.65,0:11:07.23,Default,,0,0,0,,Yes!
@@ -214,8 +212,8 @@ Dialogue: 10,0:11:24.78,0:11:27.11,Default,,0,0,0,,Uh-huh.
 Dialogue: 10,0:11:27.11,0:11:29.94,Default,,0,0,0,,And how far have you gone?
 Dialogue: 10,0:11:29.94,0:11:31.82,Default,,0,0,0,,Any fooling around?
 Dialogue: 10,0:11:36.03,0:11:37.28,Default,,0,0,0,,Look here, you...
-Dialogue: 10,0:11:37.28,0:11:40.36,Default,,0,0,0,,This guy looks good, \Nbut he's really just the worst, huh.
-Dialogue: 10,0:11:40.36,0:11:41.03,Default,,0,0,0,,So, is that a no?
+Dialogue: 10,0:11:37.28,0:11:40.26,Default,,0,0,0,,This guy looks good, \Nbut he's really just the worst, huh.
+Dialogue: 10,0:11:40.26,0:11:41.03,Default,,0,0,0,,So, is that a no?
 Dialogue: 10,0:11:41.03,0:11:42.19,Default,,0,0,0,,It's a no!
 Dialogue: 10,0:11:42.19,0:11:45.40,Default,,0,0,0,,It's not something you talk about—and \Nwe wouldn't tell you even if we did!
 Dialogue: 10,0:11:45.40,0:11:46.61,Default,,0,0,0,,Not even a little?
@@ -280,7 +278,7 @@ Dialogue: 10,0:14:20.40,0:14:22.36,Default,,0,0,0,,I see...
 Dialogue: 10,0:14:22.36,0:14:27.94,Default,,0,0,0,,So you're rooting for them, too, huh? \NAnd you really care.
 Dialogue: 10,0:14:27.94,0:14:33.73,Default,,0,0,0,,You've changed my mind. \NAfter all, we both want them to be together.
 Dialogue: 10,0:14:37.61,0:14:40.57,Default,,0,0,0,,How about we team up, then?
-Dialogue: 10,0:14:40.57,0:14:43.73,Default,,0,0,0,,I'd do anything for those two!
+Dialogue: 10,0:14:40.57,0:14:43.82,Default,,0,0,0,,I'd do anything for those two!
 Dialogue: 10,0:14:45.78,0:14:46.98,Default,,0,0,0,,Wrong!
 Dialogue: 10,0:14:46.98,0:14:48.65,Default,,0,0,0,,What?!{"Was it?!"}
 Dialogue: 10,0:14:48.65,0:14:53.23,Default,,0,0,0,,I don't need anyone's help! Quit your meddling!{"They wouldn't need anyone's help anyway so quit your meddling!"}
@@ -304,8 +302,8 @@ Dialogue: 10,0:15:44.73,0:15:46.03,Default,,0,0,0,,Eh?
 Dialogue: 10,0:15:46.03,0:15:49.57,Default,,0,0,0,,Look me in the eye and say that again.
 Dialogue: 10,0:15:49.57,0:15:51.57,Default,,0,0,0,,Wait... what?
 Dialogue: 10,0:15:51.57,0:15:55.61,Default,,0,0,0,,It's just... I was wondering \Nif choco-mint was really any good,
-Dialogue: 10,0:15:55.61,0:15:57.57,Default,,0,0,0,,since that's what toothpaste tastes like.
-Dialogue: 10,0:15:57.57,0:15:59.23,Default,,0,0,0,,There it is! You idiot!{I think the "baka" here is the baka of baka ni suru, which takes place in the following sentence, I would translate it as "Mocking!"
+Dialogue: 10,0:15:55.61,0:15:57.43,Default,,0,0,0,,since that's what toothpaste tastes like.
+Dialogue: 10,0:15:57.43,0:15:59.23,Default,,0,0,0,,There it is! You idiot!{I think the "baka" here is the baka of baka ni suru, which takes place in the following sentence, I would translate it as "Mocking!"
 Dialogue: 10,0:15:59.23,0:16:01.86,Default,,0,0,0,,That is always what people \Nwho don't eat choco-mint say
 Dialogue: 10,0:16:01.86,0:16:04.15,Default,,0,0,0,,when they're mocking choco-mint!
 Dialogue: 10,0:16:04.15,0:16:05.69,Default,,0,0,0,,I'm not mocking anything.
@@ -315,19 +313,19 @@ Dialogue: 10,0:16:13.19,0:16:16.82,Default,,0,0,0,,you cowards are always \Nso q
 Dialogue: 10,0:16:15.94,0:16:18.29,Default,,0,0,0,,{\fs120\blur15\pos(987,147)\c&HCA6EF8&\3c&HEC04ED&}C{\c&HCC50B1&}o{\c&HCA6EF8&}w{\c&HCC50B1&}a{\c&HCA6EF8&}r{\c&HCC50B1&}d
 Dialogue: 10,0:16:16.82,0:16:18.65,Default,,0,0,0,,"Isn't that just toothpaste?"
 Dialogue: 10,0:16:18.65,0:16:22.57,Default,,0,0,0,,Then these jerks always go to \N"No way can that be good"
-Dialogue: 10,0:16:22.57,0:16:24.57,Default,,0,0,0,,and "Why don't you just eat toothpaste, then?"
-Dialogue: 10,0:16:24.57,0:16:25.40,Default,,0,0,0,,Morons!
+Dialogue: 10,0:16:22.57,0:16:24.54,Default,,0,0,0,,and "Why don't you just eat toothpaste, then?"
+Dialogue: 10,0:16:24.54,0:16:25.40,Default,,0,0,0,,Morons!
 Dialogue: 10,0:16:25.40,0:16:27.57,Default,,0,0,0,,Toothpaste isn't something you eat!
 Dialogue: 10,0:16:27.57,0:16:29.69,Default,,0,0,0,,Can you even imagine it, Sakurai?
 Dialogue: 10,0:16:29.69,0:16:32.19,Default,,0,0,0,,How humiliating it is to be mocked \Nby idiots who don't know the difference
 Dialogue: 10,0:16:32.19,0:16:34.03,Default,,0,0,0,,between toothpaste and food?!
-Dialogue: 10,0:16:34.03,0:16:35.32,Default,,0,0,0,,Uh... yeah.
-Dialogue: 10,0:16:35.32,0:16:37.44,Default,,0,0,0,,But what I really can't stand
+Dialogue: 10,0:16:34.03,0:16:35.26,Default,,0,0,0,,Uh... yeah.
+Dialogue: 10,0:16:35.26,0:16:37.44,Default,,0,0,0,,But what I really can't stand
 Dialogue: 10,0:16:37.44,0:16:40.94,Default,,0,0,0,,is the sheer arrogance of people \Nwho think it's okay to persecute
 Dialogue: 10,0:16:40.94,0:16:42.48,Default,,0,0,0,,what they don't understand!
 Dialogue: 10,0:16:42.48,0:16:46.40,Default,,0,0,0,,That's right! We choco-mintians \Nhave been exposed for so long!
-Dialogue: 10,0:16:46.40,0:16:47.78,Default,,0,0,0,,"Choco-mintians"?
-Dialogue: 10,0:16:47.78,0:16:51.07,Default,,0,0,0,,Exposed to the unknowing abuse \Nthat stems from a lack of understanding!
+Dialogue: 10,0:16:46.40,0:16:47.69,Default,,0,0,0,,"Choco-mintians"?
+Dialogue: 10,0:16:47.69,0:16:51.07,Default,,0,0,0,,Exposed to the unknowing abuse \Nthat stems from a lack of understanding!
 Dialogue: 10,0:16:48.69,0:16:51.07,Default,,0,0,0,,{\an8}Isn't that just toothpaste?
 Dialogue: 10,0:16:51.07,0:16:56.40,Default,,0,0,0,,When choco-mint, as ice cream, \Nmade its way to Japan from distant continents,
 Dialogue: 10,0:16:56.40,0:17:01.36,Default,,0,0,0,,sales were poor due to its \Nintense coloration and unique flavor.
@@ -374,11 +372,11 @@ Dialogue: 10,0:19:41.07,0:19:43.73,Default,,0,0,0,,That cooling sensation is the
 Dialogue: 10,0:19:43.73,0:19:48.57,Default,,0,0,0,,With the sweet chocolate chaser? \NThat's the real charm of choco-mint!
 Dialogue: 10,0:19:48.57,0:19:51.73,Default,,0,0,0,,But since I can't do mint,
 Dialogue: 10,0:19:51.73,0:19:56.03,Default,,0,0,0,,I've never tried choco-mint.
-Dialogue: 10,0:19:56.03,0:19:57.73,Default,,0,0,0,,What?!
+Dialogue: 10,0:19:56.03,0:19:57.63,Default,,0,0,0,,What?!
 Dialogue: 10,0:20:00.32,0:20:04.40,Default,,0,0,0,,Why, you... Mock choco-mint untasted, will you?!
 Dialogue: 10,0:20:04.40,0:20:07.15,Default,,0,0,0,,All right! I'm sorry, I'm sorry!
 Dialogue: 10,0:20:10.28,0:20:14.61,Default,,0,0,0,,I see. So it all stems from childhood trauma.
-Dialogue: 10,0:20:14.61,0:20:19.19,Default,,0,0,0,,But that means you should be fine now, right?
+Dialogue: 10,0:20:14.61,0:20:19.28,Default,,0,0,0,,But that means you should be fine now, right?
 Dialogue: 10,0:20:21.19,0:20:24.11,Default,,0,0,0,,They do say your sense of \Ntaste changes as you grow up.
 Dialogue: 10,0:20:24.11,0:20:26.19,Default,,0,0,0,,Maybe, but still...
 Dialogue: 10,0:20:26.19,0:20:28.57,Default,,0,0,0,,Wanna try one, just to see?
@@ -388,15 +386,15 @@ Dialogue: 10,0:20:36.23,0:20:38.44,Default,,0,0,0,,What, are you scared?
 Dialogue: 10,0:20:38.44,0:20:39.57,Default,,0,0,0,,Huh?
 Dialogue: 10,0:20:39.57,0:20:41.98,Default,,0,0,0,,C'mon, you can do it.
 Dialogue: 10,0:20:41.98,0:20:45.40,Default,,0,0,0,,Conquer your pickiness. Mint's not scary.
-Dialogue: 10,0:20:45.40,0:20:47.94,Default,,0,0,0,,Your eyes sure are!
+Dialogue: 10,0:20:45.40,0:20:47.80,Default,,0,0,0,,Your eyes sure are!
 Dialogue: 10,0:20:50.69,0:20:53.19,Default,,0,0,0,,Look, just eat it already. C'mon!
 Dialogue: 10,0:20:53.19,0:20:56.19,Default,,0,0,0,,All right, fine. Here goes...
-Dialogue: 10,0:20:56.19,0:20:58.73,Default,,0,0,0,,Great! Say "ah"!
+Dialogue: 10,0:20:56.19,0:20:58.57,Default,,0,0,0,,Great! Say "ah"!
 Dialogue: 10,0:21:01.15,0:21:03.82,Default,,0,0,0,,Now that I think about it, isn't this...
 Dialogue: 10,0:21:06.07,0:21:11.32,Default,,0,0,0,,An indirect—?! \NWait—now it's rubbing off on me!
 Dialogue: 10,0:21:11.32,0:21:16.11,Default,,0,0,0,,But if I don't eat this now, \Nit'll turn into this big thing again.
 Dialogue: 10,0:21:16.11,0:21:19.32,Default,,0,0,0,,Couldn't she be a little more mindful?!
-Dialogue: 10,0:21:20.98,0:21:22.44,Default,,0,0,0,,Ugh!
+Dialogue: 10,0:21:20.98,0:21:22.34,Default,,0,0,0,,Ugh!
 Dialogue: 10,0:21:28.44,0:21:30.23,Default,,0,0,0,,Well?
 Dialogue: 10,0:21:30.23,0:21:34.94,Default,,0,0,0,,It... it's actually, uh... tasty, I... I'd say.
 Dialogue: 10,0:21:34.94,0:21:37.48,Default,,0,0,0,,That's a pretty vague answer.
