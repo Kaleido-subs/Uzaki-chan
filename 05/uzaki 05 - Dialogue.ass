@@ -25,6 +25,7 @@ Style: Sign,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:14.53,0:00:14.53,Default,chapter,0,0,0,,{Intro}
 Dialogue: 10,0:00:19.53,0:00:21.61,Default,,0,0,0,,Summer's here already, huh?
 Dialogue: 10,0:00:24.78,0:00:26.65,Default,,0,0,0,,Sakurai!
 Dialogue: 10,0:00:30.07,0:00:33.82,Default,,0,0,0,,It's that sweaty time of year again!
@@ -45,6 +46,7 @@ Dialogue: 10,0:01:09.79,0:01:11.73,Default,,0,0,0,,What, visit so I can get trap
 Dialogue: 10,0:01:11.73,0:01:14.19,Default,,0,0,0,,Trapped? Rude much! I'd never do that!{"Wow, saying that I'm a trapper is so rude"}{## I'm fine with removing "trapper" here. I can add it in if you feel strongly about it @TLC}
 Dialogue: 10,0:01:14.19,0:01:17.69,Default,,0,0,0,,Oh, come on! Explain what the \Nbloody {\i1}lava trap{\i0} is for, then!{"It's a trap so what else would I call you?!"}
 Dialogue: 10,0:03:01.23,0:03:06.28,Default,,0,0,0,,What are you doing out there, kitty?
+Comment: 0,0:02:48.02,0:02:48.02,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:03:06.28,0:03:11.44,Default,,0,0,0,,I'll rescue you. \NStay right there and be a good kitty.
 Dialogue: 10,0:03:12.57,0:03:14.65,Default,,0,0,0,,Almost there...
 Dialogue: 10,0:03:16.15,0:03:18.07,Default,,0,0,0,,It's all right.
@@ -286,6 +288,7 @@ Dialogue: 10,0:14:53.23,0:14:59.73,Default,,0,0,0,,And what part of me wanting t
 Dialogue: 10,0:14:59.73,0:15:02.90,Default,,0,0,0,,You're pretty crass yourself!
 Dialogue: 10,0:15:02.90,0:15:06.86,Default,,0,0,0,,I won't let you meddle \Nindiscriminately in their business!
 Dialogue: 10,0:15:06.86,0:15:09.32,Default,,0,0,0,,Jeez, what a pain!
+Comment: 0,0:15:14.97,0:15:14.97,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:15:09.32,0:15:11.53,Default,,0,0,0,,You both are.
 Dialogue: 10,0:15:11.53,0:15:14.69,Default,,0,0,0,,Want to share, Sakurai? C'mon.
 Dialogue: 10,0:15:17.32,0:15:19.44,Default,,0,0,0,,You don't want any?
@@ -407,3 +410,4 @@ Dialogue: 10,0:22:00.57,0:22:03.32,Default,,0,0,0,,Don't realize it now!
 Dialogue: 10,0:22:04.69,0:22:09.82,Default,,0,0,0,,But it'll take a thousand years \Nfor them to get together on their own!
 Dialogue: 10,0:22:09.82,0:22:12.48,Default,,0,0,0,,Then I'll live a thousand years!
 Dialogue: 10,0:23:46.03,0:23:49.03,Default,,0,0,0,,I will get you two together, Sak!
+Comment: 0,0:23:44.98,0:23:44.98,Default,chapter,0,0,0,,{Preview}
