@@ -25,6 +25,8 @@ Dialogue: 0,0:02:48.44,0:02:53.01,Sign,,0,0,0,,{\bord4.5\fad(100,0)\pos(915,462)
 Dialogue: 0,0:02:48.44,0:02:53.01,Sign,,0,0,0,,{\bord4.5\fad(100,0)\pos(1350,585)\c&HE80097&\3c&HFFFFFF&\fnImpact\fs90\4a&H00&\b0\an2\3a&H00&}in My Friend's {\c&H1D00E0&}Business{\i1}!
 Dialogue: 0,0:06:53.93,0:06:59.86,Sign,,0,0,0,,{\1a&H20&\blur3\fad(500,0)\bord3\p1\c&HF3F6F3&\pos(1402.5,840)\shad1.5\an2\3a&H00&}m 0 0 l 699 0 l 699 90 l 0 90
 Dialogue: 0,0:06:53.93,0:06:59.86,Sign,,0,0,0,,{\fad(500,0)\bord0.3\pos(1404,816)\fnOpen Sans\fs52.5\b0\c&H000000&\shad1.5\an2\3a&H00&}Itsuhito Sakaki, 21 - College Junior
+Dialogue: 10,0:10:52.46,0:10:55.00,Default,,0,0,0,,{\an8}"Summer Romance Watermelon" \N"Icy Cold" "Icy Cold" "Icy Cold"
+Dialogue: 10,0:16:15.94,0:16:18.29,Default,,0,0,0,,{\fs120\blur15\pos(987,147)\c&HCA6EF8&\3c&HEC04ED&}C{\c&HCC50B1&}o{\c&HCA6EF8&}w{\c&HCC50B1&}a{\c&HCA6EF8&}r{\c&HCC50B1&}d
 Dialogue: 0,0:23:45.27,0:23:49.99,Sign,,0,0,0,,{\bord4.5\fad(100,0)\pos(804,462)\4a&H00&\c&HA543EF&\b0\fs75\an2\fnOpen Sans Semibold\3a&H00&\3c&HA543EF&}{\c&HC7BE35&\3c&HFFFFFF&\fnImpact\fs120}Episode
 Dialogue: 0,0:23:45.36,0:23:49.99,Sign,,0,0,0,,{\bord6\fad(100,0)\pos(1026,462)\4a&H00&\c&HA543EF&\b0\fs75\an2\fnOpen Sans Semibold\3a&H00&\3c&HA543EF&}{\c&H29EAEA&\3c&H464EF1&\fnImpact\fs120}6
 Dialogue: 0,0:23:45.57,0:23:49.99,Sign,,0,0,0,,{\bord4.5\fad(100,0)\pos(1455,592.5)\4a&H00&\c&HA543EF&\b0\fs75\an2\fnOpen Sans Semibold\3a&H00&\3c&HA543EF&}{\c&H29EAEA&\3c&H464EF1&\fnImpact\fs112.5}Sum{\c&HC7BE35&\3c&HFFFFFF&}mer {\i1\c&H29EAEA&\3c&H464EF1&}!    {\i0\c&HC7BE35&\3c&HFFFFFF&}The Beach {\i1\c&H29EAEA&\3c&H464EF1&}!

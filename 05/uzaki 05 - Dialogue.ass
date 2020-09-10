@@ -199,7 +199,6 @@ Dialogue: 10,0:10:43.28,0:10:45.23,Default,,0,0,0,,You don't get it at all!
 Dialogue: 10,0:10:45.23,0:10:48.94,Default,,0,0,0,,Don't be bashful! \NI'm your wingman—I've got your back!
 Dialogue: 10,0:10:48.94,0:10:52.46,Default,,0,0,0,,Ugh! Another giant pain in the ass!
 Dialogue: 10,0:10:52.46,0:10:56.90,Default,,0,0,0,,What sort of situation are you after? \NRomantic? Erotic?
-Dialogue: 10,0:10:52.46,0:10:55.00,Default,,0,0,0,,{\an8}"Summer Romance Watermelon" \N"Icy Cold" "Icy Cold" "Icy Cold"
 Dialogue: 10,0:10:56.90,0:10:59.73,Default,,0,0,0,,Oh, this is going to be one fun summer!{puahahaha uza on the lemon soda -aria}
 Dialogue: 10,0:11:06.65,0:11:07.23,Default,,0,0,0,,Yes!
 Dialogue: 10,0:11:07.23,0:11:09.07,Default,,0,0,0,,Ah, dammit.
@@ -314,7 +313,6 @@ Dialogue: 10,0:16:04.15,0:16:05.69,Default,,0,0,0,,I'm not mocking anything.
 Dialogue: 10,0:16:05.69,0:16:09.94,Default,,0,0,0,,You are! It started when \Nyou compared it to toothpaste!
 Dialogue: 10,0:16:09.94,0:16:13.19,Default,,0,0,0,,Even though it's your garbage palate's \Nfault you can't eat choco-mint,
 Dialogue: 10,0:16:13.19,0:16:16.82,Default,,0,0,0,,you cowards are always \Nso quick to blame the mint!
-Dialogue: 10,0:16:15.94,0:16:18.29,Default,,0,0,0,,{\fs120\blur15\pos(987,147)\c&HCA6EF8&\3c&HEC04ED&}C{\c&HCC50B1&}o{\c&HCA6EF8&}w{\c&HCC50B1&}a{\c&HCA6EF8&}r{\c&HCC50B1&}d
 Dialogue: 10,0:16:16.82,0:16:18.65,Default,,0,0,0,,"Isn't that just toothpaste?"
 Dialogue: 10,0:16:18.65,0:16:22.57,Default,,0,0,0,,Then these jerks always go to \N"No way can that be good"
 Dialogue: 10,0:16:22.57,0:16:24.54,Default,,0,0,0,,and "Why don't you just eat toothpaste, then?"
