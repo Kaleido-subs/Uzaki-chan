@@ -102,10 +102,10 @@ Dialogue: 10,0:06:03.23,0:06:05.36,Default,,0,0,0,,the fear of stairs and slopes
 Dialogue: 10,0:06:05.36,0:06:09.11,Default,,0,0,0,,Uh, what? Where'd that come from?
 Dialogue: 10,0:06:09.11,0:06:10.82,Default,,0,0,0,,It's a psychological aftershock.
 Dialogue: 10,0:06:10.82,0:06:12.07,Default,,0,0,0,,Huh?
-Dialogue: 10,0:06:12.07,0:06:14.48,Default,,0,0,0,,It's also known as "the stair yips". {## can't find any sources about this}{I'd say engrish word}{## doubt it. "yips" is an actual word that describes being extremely nervous. I've just never heard it said like this}
+Dialogue: 10,0:06:12.07,0:06:14.48,Default,,0,0,0,,It's also known as "the stair yips". {## can't find any sources about this}{I'd say engrish word}{## doubt it. "yips" is an actual word that describes being extremely nervous. I've just never heard it put like this}
 Dialogue: 10,0:06:14.48,0:06:17.65,Default,,0,0,0,,You navigate stairs as usual, until one day
-Dialogue: 10,0:06:17.65,0:06:21.61,Default,,0,0,0,,you suffer an experience \Nso traumatic while descending them{you just can't go down them smoothly, \Nor you tumble down them,}
-Dialogue: 10,0:06:21.61,0:06:25.53,Default,,0,0,0,,that you end up actually fearing \Nand avoiding stairs entirely. {## That isn't climacophobia, but bathmophobia. TLC?}{## rewrote}
+Dialogue: 10,0:06:17.65,0:06:21.61,Default,,0,0,0,,you suffer an experience \Nso traumatic while going down them
+Dialogue: 10,0:06:21.61,0:06:25.53,Default,,0,0,0,,that you'll tumble, or even become \Nunable to descend stairs at all. {## That isn't climacophobia, but bathmophobia. TLC?}{## rewrote}
 Dialogue: 10,0:06:25.53,0:06:26.44,Default,,0,0,0,,Stop that!
 Dialogue: 10,0:06:26.44,0:06:29.61,Default,,0,0,0,,That's terrifying!
 Dialogue: 10,0:06:32.90,0:06:33.90,Default,,0,0,0,,Aw!
