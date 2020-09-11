@@ -12,7 +12,7 @@ ScaledBorderAndShadow: yes
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: [Erai-raws] Uzaki-chan wa Asobitai! - 05 [1080p].mkv
+Audio File: [Erai-raws] Uzaki-chan wa Asobitai! - 05 [1080p]_Track02.aac
 Video File: [Erai-raws] Uzaki-chan wa Asobitai! - 05 [1080p].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
@@ -93,19 +93,19 @@ Dialogue: 10,0:05:37.57,0:05:40.28,Default,,0,0,0,,But psychologically speakingâ
 Dialogue: 10,0:05:40.28,0:05:43.32,Default,,0,0,0,,Uh-oh... I'mâ€”
 Dialogue: 10,0:05:43.32,0:05:46.15,Default,,0,0,0,,Watch out! What are you doing, idiot?{I love how he says abunee, but you can also hear that as "mune"=breast}{## https://nicememe}
 Dialogue: 10,0:05:46.15,0:05:49.78,Default,,0,0,0,,Nice catch, Sakurai. That was scary!
-Dialogue: 10,0:05:49.78,0:05:54.07,Default,,0,0,0,,That's what happens when you're focused on \Nriling someone up instead of watching your step.
+Dialogue: 10,0:05:49.78,0:05:54.07,Default,,0,0,0,,That's what happens when you're focused on \Nriling someone up over watching your step.
 Dialogue: 10,0:05:54.07,0:05:56.65,Default,,0,0,0,,Be more careful, you halfwit!
 Dialogue: 10,0:05:56.65,0:05:58.82,Default,,0,0,0,,Which reminds me...
 Dialogue: 10,0:05:58.82,0:06:00.03,Default,,0,0,0,,Of what?
-Dialogue: 10,0:06:00.03,0:06:03.23,Default,,0,0,0,,People who trip down stairs \Ncan develop climacophobia,
-Dialogue: 10,0:06:03.23,0:06:05.36,Default,,0,0,0,,the fear of descending stairs.
-Dialogue: 10,0:06:05.36,0:06:09.11,Default,,0,0,0,,Uh, what? Where'd this \Ncome from all of a sudden?
+Dialogue: 10,0:06:00.03,0:06:03.23,Default,,0,0,0,,People who trip down stairs \Nmay develop bathmophobia,
+Dialogue: 10,0:06:03.23,0:06:05.36,Default,,0,0,0,,the fear of stairs and slopes.
+Dialogue: 10,0:06:05.36,0:06:09.11,Default,,0,0,0,,Uh, what? Where'd that come from?
 Dialogue: 10,0:06:09.11,0:06:10.82,Default,,0,0,0,,It's a psychological aftershock.
 Dialogue: 10,0:06:10.82,0:06:12.07,Default,,0,0,0,,Huh?
 Dialogue: 10,0:06:12.07,0:06:14.48,Default,,0,0,0,,It's also known as "the stair yips". {## can't find any sources about this}{I'd say engrish word}{## doubt it. "yips" is an actual word that describes being extremely nervous. I've just never heard it said like this}
-Dialogue: 10,0:06:14.48,0:06:17.65,Default,,0,0,0,,You're navigating stairs as usual, until one day
-Dialogue: 10,0:06:17.65,0:06:21.61,Default,,0,0,0,,you just can't go down them smoothly, \Nor you tumble down them,
-Dialogue: 10,0:06:21.61,0:06:25.53,Default,,0,0,0,,until at last, you're scared \Nof the very stairs themselves. {## That isn't climacophobia, but bathmophobia. TLC?}{## actually, looks like climacophobia is being scared of climbing stairs as a result of being scared of falling, which isn't really defined here. He mentions specifically how you keep tumbling down stairs UNTIL you're afraid of them, which I'm fairly certain doesn't happen with either cases}
+Dialogue: 10,0:06:14.48,0:06:17.65,Default,,0,0,0,,You navigate stairs as usual, until one day
+Dialogue: 10,0:06:17.65,0:06:21.61,Default,,0,0,0,,you suffer an experience \Nso traumatic while descending them{you just can't go down them smoothly, \Nor you tumble down them,}
+Dialogue: 10,0:06:21.61,0:06:25.53,Default,,0,0,0,,that you end up actually fearing \Nand avoiding stairs entirely. {## That isn't climacophobia, but bathmophobia. TLC?}{## rewrote}
 Dialogue: 10,0:06:25.53,0:06:26.44,Default,,0,0,0,,Stop that!
 Dialogue: 10,0:06:26.44,0:06:29.61,Default,,0,0,0,,That's terrifying!
 Dialogue: 10,0:06:32.90,0:06:33.90,Default,,0,0,0,,Aw!
