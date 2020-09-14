@@ -331,11 +331,11 @@ Dialogue: 0,0:03:19.97,0:03:25.93,Signs,,0,0,0,,{\pos(923.81,215.69)\fnDay Roman
 Dialogue: 0,0:03:19.97,0:03:25.93,Signs,,0,0,0,,{\pos(923.81,291.145)\fnDay Roman\fs90\c&HCDCEDE&\blur1.2}A{\c&HCCCDDE&}s{\c&HCBCCDD&}i{\c&HCACBDD&}a
 Dialogue: 0,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\pos(456,288.8)\bord5\c&HFFFFFF&\1a&HFF&\blur0.6\fad(420,0)\t(420,420,\1a&H00&)}Episode 3
 Dialogue: 1,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\pos(456,288.8)\c&H0E9CFF&\blur0.6\fad(420,0)}Episode {\c&H1C9C3A&}3
-Dialogue: 0,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\pos(662,661.6)\bord5\c&HFDFDFC&\3c&HFDFDFC&\1a&HFF&\blur0.6\fad(420,0)\t(420,420,\1a&H00&)}The A{\alpha&HFF&}sai{\alpha} Family
+Dialogue: 0,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\pos(662,661.6)\bord5\c&HFDFDFC&\3c&HFDFDFC&\1a&HFF&\blur0.6\fad(420,0)\t(420,420,\1a&H00&)}The A{\alpha&HFF&}sai{\alpha\1a&HFF&\t(420,420,\1a&H00&)} Family
 Dialogue: 1,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\pos(662,661.6)\c&H1C9936&\blur0.6\fad(420,0)}The A{\alpha&HFF&}sai{\alpha} Family
 Dialogue: 0,0:03:20.30,0:03:25.94,Titles,,0,0,0,,{\pos(640,661.6)\bord5\c&HFDFDFC&\3c&HFDFDFC&\blur0.6\clip(552,617.6,591,716)\t(0,470,\clip(552,617.6,695,709))}sai
 Dialogue: 1,0:03:20.30,0:03:25.94,Titles,,0,0,0,,{\pos(640,661.6)\c&H0E9BFF&\blur0.6\clip(552,617.6,591,716)\t(0,470,\clip(552,617.6,695,709))}sai
-Dialogue: 0,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\pos(1129.6,789.6)\bord5\c&HFDFDFC&\3c&HFDFDFC&\1a&HFF&\blur0.6\fad(420,0)\t(420,420,\1a&H00&)}Wants to {\alpha&HFF&}Look Out{\alpha} for Us!
+Dialogue: 0,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\pos(1129.6,789.6)\bord5\c&HFDFDFC&\3c&HFDFDFC&\1a&HFF&\blur0.6\fad(420,0)\t(420,420,\1a&H00&)}Wants to {\alpha&HFF&}Look Out{\alpha\1a&HFF&\t(420,420,\1a&H00&)} for Us!
 Dialogue: 1,0:03:20.35,0:03:25.94,Titles,,0,0,0,,{\pos(1129.6,789.6)\c&H1C9936&\blur0.6\fad(420,0)}Wants to {\alpha&HFF&}Look Out{\alpha} for Us!
 Dialogue: 1,0:03:20.30,0:03:25.94,Titles,,0,0,0,,{\pos(1161.9,789.6)\bord5\c&HFFFFFF&\blur0.6\clip(980,722,980,844)\t(0,470,\clip(980,722,1335,845))}Look Out
 Dialogue: 2,0:03:20.30,0:03:25.94,Titles,,0,0,0,,{\pos(1161.9,789.6)\c&H0E9CFF&\4a&HFF&\blur0.6\clip(980,722,980,844)\t(0,470,\clip(980,722,1335,845))}Look Out
