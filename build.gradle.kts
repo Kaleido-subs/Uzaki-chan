@@ -75,6 +75,10 @@ subs {
 	    }
 	}
 
+    swap {
+        from(cleanmerge.item())
+    }
+
     chapters {
         from(merge.item())
         chapterMarker("chapter")
@@ -106,6 +110,14 @@ subs {
 				compression(CompressionType.ZLIB)
 			}
 		}
+
+        from(swap.item()) {
+            tracks {
+                name(get("group_alt"))
+                lang("enm")
+                compression(CompressionType.ZLIB)
+            }
+        }
 
         chapters(chapters.item()) { lang("eng") }
 
