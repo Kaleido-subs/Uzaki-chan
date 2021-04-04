@@ -29,14 +29,14 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Dialogue: 10,0:00:34.93,0:00:38.77,Default,,0,0,0,,Now, {\i1}that's{\i0} a sight that gives you spring vibes.
 Dialogue: 10,0:00:44.65,0:00:46.23,Default,,0,0,0,,Sakurai{**-senpai}!
 Dialogue: 10,0:00:47.36,0:00:48.15,Default,,0,0,0,,Hmm?
-Dialogue: 10,0:01:00.67,0:01:03.04,Default,,0,0,0,,Uzaki, right?
+Dialogue: 10,0:01:00.67,0:01:03.04,Default,,0,0,0,,That you, Uzaki?
 Dialogue: 10,0:01:09.26,0:01:10.38,Default,,0,0,0,,Yup, Uzaki Hana!
 Dialogue: 10,0:01:10.38,0:01:12.26,Default,,0,0,0,,{\pos(556,1024)\q2}Looks like I'll be \Nyour junior again this year!
 Dialogue: 10,0:01:13.43,0:01:15.56,Default,,0,0,0,,{\pos(556,1024)}Here's to a great year{**, Senpai}!
-Dialogue: 10,0:01:23.94,0:01:27.57,Default,,0,0,0,,Huh? You won't be swimming in college?
-Dialogue: 10,0:01:27.57,0:01:31.57,Default,,0,0,0,,{\q2}Nope. They don't even have \Na swim club here to begin with.
-Dialogue: 10,0:01:31.57,0:01:33.82,Default,,0,0,0,,{\q2}What a shame, what after you \Nkept it up through high school.
-Dialogue: 10,0:01:34.07,0:01:37.83,Default,,0,0,0,,{\q2}Ah, what's it matter? \NThere's plenty stuff to do in college.
+Dialogue: 10,0:01:23.94,0:01:27.57,Default,,0,0,0,,Huh? You won't keep up swimming in college?
+Dialogue: 10,0:01:27.57,0:01:31.57,Default,,0,0,0,,{\q2}Nope. They don't even \Nhave a swim club to begin with.
+Dialogue: 10,0:01:31.57,0:01:33.82,Default,,0,0,0,,{\q2}What a shame. What, after you \Nkept it up through high school.
+Dialogue: 10,0:01:34.07,0:01:37.83,Default,,0,0,0,,{\q2}'Tis whatever, really. \NPlenty other stuff to do in college.
 Dialogue: 10,0:01:38.45,0:01:40.29,Default,,0,0,0,,{*}Sakurai{*Senpai}...
 Dialogue: 10,0:01:40.29,0:01:42.37,Default,,0,0,0,,Y-Yep, there sure is.
 Dialogue: 10,0:01:43.37,0:01:45.84,Default,,0,0,0,,{\i1}Or so I thought.
@@ -51,47 +51,47 @@ Dialogue: 10,0:02:31.17,0:02:32.38,Default,,0,0,0,,Whoops!
 Dialogue: 10,0:02:32.38,0:02:33.84,Default,,0,0,0,,Overshot you!
 Dialogue: 10,0:02:38.47,0:02:41.14,Default,,0,0,0,,That you, Uzaki?
 Dialogue: 10,0:02:41.14,0:02:43.27,Default,,0,0,0,,All alone again today, aren't we?
-Dialogue: 10,0:02:43.27,0:02:45.85,Default,,0,0,0,,{\pos(1404,1024)\q2}Well then, guess {\i1}I've{\i0} \Ngotta hang out with you!
+Dialogue: 10,0:02:43.27,0:02:45.85,Default,,0,0,0,,{\pos(1404,1024)\q2}Well then, guess {\i1}I've{\i0} \Ngotta hang out with you then!
 Dialogue: 10,0:02:45.85,0:02:49.36,Default,,0,0,0,,{\pos(1404,1024)\q2}Your college loner \Nlifestyle ends today!
 Comment: 0,0:04:19.95,0:04:19.95,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:04:25.24,0:04:26.62,Default,,0,0,0,,What you wanna do for lunch?
 Dialogue: 10,0:04:26.62,0:04:29.37,Default,,0,0,0,,Mhm... Let's check out the dining hall, I guess.
 Dialogue: 10,0:04:29.37,0:04:31.33,Default,,0,0,0,,Oh, mind if we tag along?
 Dialogue: 10,0:04:32.50,0:04:34.42,Default,,0,0,0,,Cancelled, huh?
-Dialogue: 10,0:04:34.42,0:04:36.71,Default,,0,0,0,,Looks like I have a free afternoon today.
+Dialogue: 10,0:04:34.42,0:04:36.71,Default,,0,0,0,,Guess I got a free afternoon today.
 Dialogue: 10,0:04:37.51,0:04:40.01,Default,,0,0,0,,{*}Sakurai{*Senpai}!
-Dialogue: 10,0:04:40.59,0:04:43.51,Default,,0,0,0,,{\i1\q2}I don't have work today, either. \NWhat to do, what to do...
+Dialogue: 10,0:04:40.59,0:04:43.51,Default,,0,0,0,,{\i1\q2}Don't have a shift today, either. \NWhat to do, what to do...
 Dialogue: 10,0:04:45.01,0:04:46.02,Default,,0,0,0,,Eek!
 Dialogue: 10,0:04:46.39,0:04:47.93,Default,,0,0,0,,What's with that glare?
 Dialogue: 10,0:04:47.93,0:04:49.52,Default,,0,0,0,,S-Scary...
 Dialogue: 10,0:04:49.52,0:04:52.44,Default,,0,0,0,,{*}Sakurai{*Senpai}!
-Dialogue: 10,0:04:52.86,0:04:55.53,Default,,0,0,0,,Guess I'll just go out and about for once.
+Dialogue: 10,0:04:52.86,0:04:55.53,Default,,0,0,0,,Suppose I'll just chill out somewhere for once.
 Dialogue: 10,0:04:56.23,0:05:01.53,Default,,0,0,0,,{\i1\q2}Not like I often get to enjoy peace \Nand quiet with {\i0}her{\i1} around, after all.
 Dialogue: 10,0:04:58.86,0:05:02.74,Default,,0,0,0,,{\an8}{*}Sakurai, Sakurai, Sakurai, Sakurai{*Senpai, Senpai, Senpai, Senpai}!
-Dialogue: 10,0:05:03.66,0:05:06.54,Default,,0,0,0,,How many times do I have to tell you to stop yelling?
-Dialogue: 10,0:05:06.54,0:05:06.95,Default,,0,0,0,,{\move(960,1024,-950,1024,-1,0)}How many times do I have to tell you to stop yel
+Dialogue: 10,0:05:03.66,0:05:06.54,Default,,0,0,0,,How many times have I told you to stop yelling?
+Dialogue: 10,0:05:06.54,0:05:06.95,Default,,0,0,0,,{\move(960,1024,-950,1024,-1,0)}How many times have I told you to stop yel
 Dialogue: 10,0:05:06.54,0:05:06.95,Default,,0,0,0,,{\an5\move(1586,987,2000,987,-1,0)\t(26,500,\frz-1000)}ling?
-Dialogue: 10,0:05:09.54,0:05:12.42,Default,,0,0,0,,I kept calling you, but you just wouldn't respond!
+Dialogue: 10,0:05:09.54,0:05:12.42,Default,,0,0,0,,I kept calling out, but I didn't hear a peep!
 Dialogue: 10,0:05:12.42,0:05:14.54,Default,,0,0,0,,So, where ya headed today, {*}Sakurai{*Senpai}?
 Dialogue: 10,0:05:14.54,0:05:17.17,Default,,0,0,0,,What the {\i1}hell{\i0} do you think you're doing, dumbass?{shut it and tell me, can be added maybe}
 Dialogue: 10,0:05:17.17,0:05:19.92,Default,,0,0,0,,Oh, going out for lunch today?
-Dialogue: 10,0:05:19.92,0:05:21.59,Default,,0,0,0,,Aw, too bad.
-Dialogue: 10,0:05:21.59,0:05:24.01,Default,,0,0,0,,My friends and I already ate.
+Dialogue: 10,0:05:19.92,0:05:21.59,Default,,0,0,0,,Aw, ain't that just too bad!
+Dialogue: 10,0:05:21.59,0:05:24.01,Default,,0,0,0,,{\q2}Unfortunately for you,\N I already ate with my girlfriends.
 Dialogue: 10,0:05:24.01,0:05:28.18,Default,,0,0,0,,But if you insist, I'd be fine with watching {\i1}you{\i0} eat.
-Dialogue: 10,0:05:28.18,0:05:30.35,Default,,0,0,0,,I've got no classes this afternoon.
-Dialogue: 10,0:05:30.35,0:05:33.02,Default,,0,0,0,,I'm just going out for a stroll.
-Dialogue: 10,0:05:33.02,0:05:33.98,Default,,0,0,0,,Later.
-Dialogue: 10,0:05:40.86,0:05:44.20,Default,,0,0,0,,What are you following me for, Uzaki?
+Dialogue: 10,0:05:28.18,0:05:30.35,Default,,0,0,0,,My afternoon classes got cancelled.
+Dialogue: 10,0:05:30.35,0:05:33.02,Default,,0,0,0,,I'm just heading out for a stroll.
+Dialogue: 10,0:05:33.02,0:05:33.98,Default,,0,0,0,,Ciao.
+Dialogue: 10,0:05:40.86,0:05:44.20,Default,,0,0,0,,So, care to tell me why you're following me?
 Dialogue: 10,0:05:44.20,0:05:45.66,Default,,0,0,0,,Wow, you look pissed.
-Dialogue: 10,0:05:45.95,0:05:50.96,Default,,0,0,0,,{\q2}Well, as it turns out, \NI'm suddenly free this afternoon, too.
-Dialogue: 10,0:05:51.29,0:05:54.50,Default,,0,0,0,,{\q2}Given half the chance, \NI know you'll do the old loner thing.
-Dialogue: 10,0:05:54.50,0:05:57.34,Default,,0,0,0,,And two's gotta be {\i1}way{\i0} more fun than one!
+Dialogue: 10,0:05:45.95,0:05:50.96,Default,,0,0,0,,{\q2}Well, as fate would have it, \NI happened to be free right now too!
+Dialogue: 10,0:05:51.29,0:05:54.50,Default,,0,0,0,,{\q2}And given the chance, \NI know you'd just go full loner if I weren't there.
+Dialogue: 10,0:05:54.50,0:05:57.34,Default,,0,0,0,,And two's gotta be {\i1}way{\i0} more fun than one, no?
 Dialogue: 10,0:05:57.34,0:05:59.34,Default,,0,0,0,,Mind your own business.
 Dialogue: 10,0:05:59.34,0:06:03.88,Default,,0,0,0,,{\q2}Besides, haven't I told you a million times \Nthat I'd much rather some peace and quiet?{nitpick, but not prefer, but "feeling relaxed/in peace}
 Dialogue: 10,0:06:03.88,0:06:06.93,Default,,0,0,0,,Here we go again. Being a loner is no fun!
 Dialogue: 10,0:06:06.93,0:06:08.18,Default,,0,0,0,,Stop calling me that.
-Dialogue: 10,0:06:08.18,0:06:12.10,Default,,0,0,0,,Good point, you're no loner! I'm with you!
-Dialogue: 10,0:06:12.52,0:06:14.60,Default,,0,0,0,,Quit tagging along, you damn pest!
+Dialogue: 10,0:06:08.18,0:06:12.10,Default,,0,0,0,,{\q2}Good point. You're no loner! \NNot with me here!
+Dialogue: 10,0:06:12.52,0:06:14.60,Default,,0,0,0,,Leave me be, pest!
 Dialogue: 10,0:06:16.81,0:06:17.73,Default,,0,0,0,,Feeling shy?
 Dialogue: 10,0:06:17.73,0:06:19.15,Default,,0,0,0,,Like hell!
 Dialogue: 10,0:06:20.40,0:06:22.49,Default,,0,0,0,,So, where are we going?
