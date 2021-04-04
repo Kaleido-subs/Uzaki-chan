@@ -197,11 +197,11 @@ Dialogue: 10,0:11:22.79,0:11:24.79,Default,,0,0,0,,Huh? Uh, wait... {*}Sakurai{*
 Dialogue: 10,0:11:24.79,0:11:31.00,Default,,0,0,0,,{\q2}It was just a joke! Sorry! I'm so sorry! \NYow! Stop! Stop!
 Dialogue: 10,0:11:27.00,0:11:30.17,Default,,0,0,0,,{\an8\i1}Will that couple ever shut up?
 Comment: 0,0:11:30.96,0:11:30.96,Default,chapter,0,0,0,,{Part B}
-Dialogue: 10,0:11:34.63,0:11:36.76,Default,,0,0,0,,That was great!
+Dialogue: 10,0:11:34.63,0:11:36.76,Default,,0,0,0,,That was amazing!
 Dialogue: 10,0:11:36.76,0:11:39.01,Default,,0,0,0,,Yeah. A good film's always worth a rewatch.
 Dialogue: 10,0:11:39.01,0:11:43.35,Default,,0,0,0,,{\q2}All those points you banked by \Ngoing to the movies alone—gone!
 Dialogue: 10,0:11:43.35,0:11:45.31,Default,,0,0,0,,{\i1}That's{\i0} what you found oh, so great?
-Dialogue: 10,0:11:45.31,0:11:48.52,Default,,0,0,0,,Dammit. My kindness is wasted on you.{kinda losses the point where he wouldn't do good deeds ever anymore}
+Dialogue: 10,0:11:45.31,0:11:48.52,Default,,0,0,0,,Swear to god. My kindness is wasted on you.
 Dialogue: 10,0:11:48.52,0:11:51.69,Default,,0,0,0,,Hey, can we stop by the electronics store?
 Dialogue: 10,0:11:51.69,0:11:53.57,Default,,0,0,0,,I need new earbuds.
 Dialogue: 10,0:11:53.57,0:11:54.53,Default,,0,0,0,,Yeah, sure.
@@ -210,200 +210,195 @@ Dialogue: 10,0:11:58.78,0:11:59.57,Default,,0,0,0,,Huh?
 Dialogue: 10,0:12:02.91,0:12:09.50,Default,,0,0,0,,{\i1\q2}What is it about these kinda stores \Nthat make me feel I {\i0}have{\i1} to buy something?{I know this feeling -aria}{## same. Happens with every store I go into}
 Dialogue: 10,0:12:09.50,0:12:11.21,Default,,0,0,0,,{\i1}Hey, nice.
 Dialogue: 10,0:12:11.21,0:12:13.05,Default,,0,0,0,,{*}Sakurai{*Senpai}!
-Dialogue: 10,0:12:13.34,0:12:14.38,Default,,0,0,0,,Yeah?
+Dialogue: 10,0:12:13.34,0:12:14.38,Default,,0,0,0,,'Sup?
 Dialogue: 10,0:12:14.38,0:12:17.05,Default,,0,0,0,,Over here! This way!
 Dialogue: 10,0:12:18.01,0:12:19.84,Default,,0,0,0,,What happened to those earbuds?
 Dialogue: 10,0:12:19.84,0:12:22.55,Default,,0,0,0,,C'mon, the next seat's open!
 Dialogue: 10,0:12:22.85,0:12:24.52,Default,,0,0,0,,Mind listening?
-Dialogue: 10,0:12:25.06,0:12:27.31,Default,,0,0,0,,Well, whatever. Might be nice after a movie.
-Dialogue: 10,0:12:27.31,0:12:28.60,Default,,0,0,0,,Right?
+Dialogue: 10,0:12:25.06,0:12:27.31,Default,,0,0,0,,Well, whatever. Relaxing after a movie's nice.
+Dialogue: 10,0:12:27.31,0:12:28.60,Default,,0,0,0,,Ain't it?
 Dialogue: 10,0:12:28.60,0:12:30.31,Default,,0,0,0,,That hits the spot!
 Dialogue: 10,0:12:32.86,0:12:34.57,Default,,0,0,0,,This is nice. Real nice.
 Dialogue: 10,0:12:34.57,0:12:36.03,Default,,0,0,0,,Right?
-Dialogue: 10,0:12:36.03,0:12:39.07,Default,,0,0,0,,{\q2}Though I usually have more trouble with \Nmy shoulders than my back.
-Dialogue: 10,0:12:39.41,0:12:40.32,Default,,0,0,0,,Shoulders?
-Dialogue: 10,0:12:42.07,0:12:44.83,Default,,0,0,0,,Wha—where'd {\i1}that{\i0} come from?
+Dialogue: 10,0:12:36.03,0:12:39.07,Default,,0,0,0,,{\q2}Though I could use a shoulder massage \N{\i1}way{\i0} more than a back massage.
+Dialogue: 10,0:12:39.41,0:12:40.32,Default,,0,0,0,,Your shoulders?
+Dialogue: 10,0:12:42.07,0:12:44.83,Default,,0,0,0,,Wha—Where'd {\i1}that{\i0} come from?
 Dialogue: 10,0:12:44.83,0:12:47.00,Default,,0,0,0,,Oh, sorry...
-Dialogue: 10,0:12:47.00,0:12:50.71,Default,,0,0,0,,I can't help but make noise during a massage...
+Dialogue: 10,0:12:47.00,0:12:50.71,Default,,0,0,0,,{\q2}The noises just kinda flow out \Nwhen I'm being massaged...
 Dialogue: 10,0:12:50.71,0:12:54.09,Default,,0,0,0,,My, uh, my shoulders have always been tight—
-Dialogue: 10,0:12:54.09,0:12:58.59,Default,,0,0,0,,Well, um... I-If you keep doing that...
+Dialogue: 10,0:12:54.09,0:12:58.59,Default,,0,0,0,,Well, uhm... I-If you keep doing that...
 Dialogue: 10,0:13:00.05,0:13:03.55,Default,,0,0,0,,I'd buy this on the spot if I could!
 Dialogue: 10,0:13:03.55,0:13:06.60,Default,,0,0,0,,It... It just... It feels...
 Dialogue: 10,0:13:06.60,0:13:09.60,Default,,0,0,0,,sooo good...
 Dialogue: 10,0:13:14.61,0:13:16.98,Default,,0,0,0,,Let's get going, okay?!
-Dialogue: 10,0:13:17.53,0:13:19.90,Default,,0,0,0,,We haven't even been here for five minutes!
+Dialogue: 10,0:13:17.53,0:13:19.90,Default,,0,0,0,,Geez, we haven't even been here for five.
 Dialogue: 10,0:13:19.90,0:13:21.07,Default,,0,0,0,,Shut up!
 Dialogue: 10,0:13:21.07,0:13:23.74,Default,,0,0,0,,S-Save {\i1}that{\i0} for alone time!
 Dialogue: 10,0:13:24.03,0:13:25.37,Default,,0,0,0,,Save what now?
-Dialogue: 10,0:13:27.04,0:13:28.95,Default,,0,0,0,,I swear, this moron.
-Dialogue: 10,0:13:28.95,0:13:30.96,Default,,0,0,0,,Can't believe she'd moan like that in public.
+Dialogue: 10,0:13:27.04,0:13:28.95,Default,,0,0,0,,Swear to god, this moron.
+Dialogue: 10,0:13:28.95,0:13:30.96,Default,,0,0,0,,Who the hell moans like that in public?
 Dialogue: 10,0:13:30.96,0:13:33.50,Default,,0,0,0,,Hey, {*}Sakurai{*Senpai}!
-Dialogue: 10,0:13:32.58,0:13:34.25,Alt,,0,0,0,,What now?
-Dialogue: 10,0:13:34.21,0:13:34.25,Default,,0,0,0,,Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.25,0:13:34.29,Default,,0,0,0,,{\pos(957.76,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.29,0:13:34.33,Default,,0,0,0,,{\pos(956.76,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.33,0:13:34.38,Default,,0,0,0,,{\pos(957.77,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.38,0:13:34.42,Default,,0,0,0,,{\pos(960.01,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.42,0:13:34.46,Default,,0,0,0,,{\pos(962.25,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.46,0:13:34.50,Default,,0,0,0,,{\pos(963.22,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.50,0:13:34.54,Default,,0,0,0,,{\pos(962.23,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.54,0:13:34.59,Default,,0,0,0,,Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.59,0:13:34.63,Default,,0,0,0,,{\pos(957.74,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.63,0:13:34.67,Default,,0,0,0,,{\pos(956.73,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.67,0:13:34.71,Default,,0,0,0,,{\pos(957.74,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.71,0:13:34.75,Default,,0,0,0,,{\pos(959.98,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.75,0:13:34.79,Default,,0,0,0,,{\pos(962.23,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.79,0:13:34.84,Default,,0,0,0,,{\pos(963.22,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.84,0:13:34.88,Default,,0,0,0,,{\pos(962.23,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.88,0:13:34.92,Default,,0,0,0,,{\pos(960.02,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.92,0:13:34.96,Default,,0,0,0,,{\pos(957.76,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:34.96,0:13:35.00,Default,,0,0,0,,{\pos(956.76,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.00,0:13:35.04,Default,,0,0,0,,{\pos(957.76,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.04,0:13:35.09,Default,,0,0,0,,{\pos(960.01,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.09,0:13:35.13,Default,,0,0,0,,{\pos(962.25,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.13,0:13:35.17,Default,,0,0,0,,{\pos(963.23,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.17,0:13:35.21,Default,,0,0,0,,{\pos(962.24,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.21,0:13:35.25,Default,,0,0,0,,{\pos(960.03,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.25,0:13:35.29,Default,,0,0,0,,{\pos(957.79,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.29,0:13:35.34,Default,,0,0,0,,{\pos(956.78,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.34,0:13:35.38,Default,,0,0,0,,{\pos(957.76,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.38,0:13:35.42,Default,,0,0,0,,{\pos(960.02,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.42,0:13:35.46,Default,,0,0,0,,{\pos(962.25,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.46,0:13:35.50,Default,,0,0,0,,{\pos(963.27,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.50,0:13:35.54,Default,,0,0,0,,{\pos(962.26,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.54,0:13:35.59,Default,,0,0,0,,{\pos(960.04,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.59,0:13:35.63,Default,,0,0,0,,{\pos(957.77,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.63,0:13:35.67,Default,,0,0,0,,{\pos(956.76,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.67,0:13:35.71,Default,,0,0,0,,{\pos(957.75,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.71,0:13:35.75,Default,,0,0,0,,{\pos(960.01,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.75,0:13:35.79,Default,,0,0,0,,{\pos(962.23,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.79,0:13:35.84,Default,,0,0,0,,{\pos(963.2,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.84,0:13:35.88,Default,,0,0,0,,{\pos(962.21,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.88,0:13:35.92,Default,,0,0,0,,Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.92,0:13:35.96,Default,,0,0,0,,{\pos(957.76,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:35.96,0:13:36.00,Default,,0,0,0,,{\pos(956.75,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.00,0:13:36.05,Default,,0,0,0,,{\pos(957.76,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.05,0:13:36.09,Default,,0,0,0,,{\pos(960.03,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.09,0:13:36.13,Default,,0,0,0,,{\pos(962.26,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.13,0:13:36.17,Default,,0,0,0,,{\pos(963.24,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.17,0:13:36.21,Default,,0,0,0,,{\pos(962.24,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.21,0:13:36.25,Default,,0,0,0,,{\pos(960.01,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.25,0:13:36.30,Default,,0,0,0,,{\pos(957.76,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.30,0:13:36.34,Default,,0,0,0,,{\pos(956.76,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.34,0:13:36.38,Default,,0,0,0,,{\pos(957.77,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.38,0:13:36.42,Default,,0,0,0,,{\pos(960.03,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.42,0:13:36.46,Default,,0,0,0,,{\pos(962.27,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.46,0:13:36.50,Default,,0,0,0,,{\pos(963.24,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.50,0:13:36.55,Default,,0,0,0,,{\pos(962.25,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.55,0:13:36.59,Default,,0,0,0,,{\pos(960.06,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.59,0:13:36.63,Default,,0,0,0,,{\pos(957.81,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.63,0:13:36.67,Default,,0,0,0,,{\pos(956.81,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.67,0:13:36.71,Default,,0,0,0,,{\pos(957.78,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.71,0:13:36.75,Default,,0,0,0,,{\pos(960.04,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.75,0:13:36.80,Default,,0,0,0,,{\pos(962.29,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.80,0:13:36.84,Default,,0,0,0,,{\pos(963.25,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.84,0:13:36.88,Default,,0,0,0,,{\pos(962.27,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.88,0:13:36.92,Default,,0,0,0,,{\pos(960.05,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.92,0:13:36.96,Default,,0,0,0,,{\pos(957.8,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:36.96,0:13:37.00,Default,,0,0,0,,{\pos(956.8,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.00,0:13:37.05,Default,,0,0,0,,{\pos(957.8,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.05,0:13:37.09,Default,,0,0,0,,{\pos(960.05,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.09,0:13:37.13,Default,,0,0,0,,{\pos(962.3,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.13,0:13:37.17,Default,,0,0,0,,{\pos(963.28,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.17,0:13:37.21,Default,,0,0,0,,{\pos(962.28,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.21,0:13:37.25,Default,,0,0,0,,{\pos(960.07,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.25,0:13:37.30,Default,,0,0,0,,{\pos(957.83,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.30,0:13:37.34,Default,,0,0,0,,{\pos(956.83,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.34,0:13:37.38,Default,,0,0,0,,{\pos(957.84,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.38,0:13:37.42,Default,,0,0,0,,{\pos(960.08,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.42,0:13:37.46,Default,,0,0,0,,{\pos(962.32,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.46,0:13:37.50,Default,,0,0,0,,{\pos(963.32,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.50,0:13:37.55,Default,,0,0,0,,{\pos(962.31,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.55,0:13:37.59,Default,,0,0,0,,{\pos(960.09,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.59,0:13:37.63,Default,,0,0,0,,{\pos(957.85,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.63,0:13:37.67,Default,,0,0,0,,{\pos(956.84,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.67,0:13:37.71,Default,,0,0,0,,{\pos(957.85,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.71,0:13:37.76,Default,,0,0,0,,{\pos(960.1,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.76,0:13:37.80,Default,,0,0,0,,{\pos(962.35,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.80,0:13:37.84,Default,,0,0,0,,{\pos(963.33,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.84,0:13:37.88,Default,,0,0,0,,{\pos(962.33,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.88,0:13:37.92,Default,,0,0,0,,{\pos(960.12,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.92,0:13:37.96,Default,,0,0,0,,{\pos(957.88,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:37.96,0:13:38.01,Default,,0,0,0,,{\pos(956.87,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:38.01,0:13:38.05,Default,,0,0,0,,{\pos(957.89,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:38.05,0:13:38.09,Default,,0,0,0,,{\pos(960.13,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:38.09,0:13:38.13,Default,,0,0,0,,{\pos(962.37,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:38.13,0:13:38.26,Default,,0,0,0,,{\pos(963.37,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:38.26,0:13:38.26,Default,,0,0,0,,{\pos(962.37,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:38.26,0:13:39.76,Default,,0,0,0,,Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:39.76,0:13:39.76,Default,,0,0,0,,{\pos(965.38,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:39.76,0:13:39.84,Default,,0,0,0,,{\pos(976.49,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:39.84,0:13:39.88,Default,,0,0,0,,{\pos(988.48,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:39.88,0:13:39.92,Default,,0,0,0,,{\pos(995,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:39.92,0:13:39.97,Default,,0,0,0,,{\pos(989.49,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:39.97,0:13:40.01,Default,,0,0,0,,{\pos(976.56,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.01,0:13:40.05,Default,,0,0,0,,{\pos(964.58,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.05,0:13:40.09,Default,,0,0,0,,{\pos(960.14,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.09,0:13:40.13,Default,,0,0,0,,{\pos(965.65,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.13,0:13:40.17,Default,,0,0,0,,{\pos(976.73,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.17,0:13:40.22,Default,,0,0,0,,{\pos(988.73,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.22,0:13:40.26,Default,,0,0,0,,{\pos(995.11,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.26,0:13:40.30,Default,,0,0,0,,{\pos(989.68,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.30,0:13:40.34,Default,,0,0,0,,{\pos(976.79,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.34,0:13:40.38,Default,,0,0,0,,{\pos(964.81,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.38,0:13:40.42,Default,,0,0,0,,{\pos(960.4,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.42,0:13:40.47,Default,,0,0,0,,{\pos(965.86,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.47,0:13:40.51,Default,,0,0,0,,{\pos(976.9,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.51,0:13:40.55,Default,,0,0,0,,{\pos(988.97,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.55,0:13:40.59,Default,,0,0,0,,{\pos(995.51,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.59,0:13:40.63,Default,,0,0,0,,{\pos(990.05,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.63,0:13:40.67,Default,,0,0,0,,{\pos(977.08,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.67,0:13:40.72,Default,,0,0,0,,{\pos(965.02,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.72,0:13:40.76,Default,,0,0,0,,{\pos(960.56,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.76,0:13:40.80,Default,,0,0,0,,{\pos(966.06,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.80,0:13:40.84,Default,,0,0,0,,{\pos(977.1,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.84,0:13:40.88,Default,,0,0,0,,{\pos(989.11,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.88,0:13:40.92,Default,,0,0,0,,{\pos(995.53,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.92,0:13:40.97,Default,,0,0,0,,{\pos(990.05,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:40.97,0:13:41.01,Default,,0,0,0,,{\pos(977.21,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:41.01,0:13:41.05,Default,,0,0,0,,{\pos(965.2,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:41.05,0:13:41.09,Default,,0,0,0,,{\pos(960.69,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:41.09,0:13:41.13,Default,,0,0,0,,{\pos(966.22,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:41.13,0:13:41.18,Default,,0,0,0,,{\pos(977.27,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:41.18,0:13:41.22,Default,,0,0,0,,{\pos(989.28,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:41.22,0:13:41.26,Default,,0,0,0,,{\pos(995.73,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:41.26,0:13:41.30,Default,,0,0,0,,{\pos(990.29,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:41.30,0:13:41.34,Default,,0,0,0,,{\pos(977.49,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:41.34,0:13:41.38,Default,,0,0,0,,{\pos(965.43,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:41.38,0:13:41.43,Default,,0,0,0,,{\pos(960.9,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:41.43,0:13:41.47,Default,,0,0,0,,{\pos(966.46,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:41.47,0:13:41.51,Default,,0,0,0,,{\pos(977.59,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:41.51,0:13:41.55,Default,,0,0,0,,{\pos(989.59,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:41.55,0:13:41.59,Default,,0,0,0,,{\pos(996.02,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:41.59,0:13:41.63,Default,,0,0,0,,{\pos(990.69,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:41.63,0:13:41.76,Default,,0,0,0,,{\pos(977.71,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:41.76,0:13:41.76,Default,,0,0,0,,{\pos(965.71,1024)}Ten minutes of standing on this, \Nand it's like getting a full workout!
-Dialogue: 10,0:13:42.55,0:13:43.51,Default,,0,0,0,,Well?
-Dialogue: 10,0:13:43.51,0:13:43.51,Default,,0,0,0,,{\pos(930.32,1024)}Well?
-Dialogue: 10,0:13:43.51,0:13:43.51,Default,,0,0,0,,{\pos(935.86,1024)}Well?
-Dialogue: 10,0:13:43.51,0:13:43.59,Default,,0,0,0,,{\pos(946.84,1024)}Well?
-Dialogue: 10,0:13:43.59,0:13:43.64,Default,,0,0,0,,{\pos(958.81,1024)}Well?
-Dialogue: 10,0:13:43.64,0:13:43.68,Default,,0,0,0,,{\pos(965.29,1024)}Well?
-Dialogue: 10,0:13:43.68,0:13:43.72,Default,,0,0,0,,{\pos(959.85,1024)}Well?
-Dialogue: 10,0:13:43.72,0:13:43.76,Default,,0,0,0,,{\pos(946.89,1024)}Well?
-Dialogue: 10,0:13:43.76,0:13:43.80,Default,,0,0,0,,{\pos(934.91,1024)}Well?
-Dialogue: 10,0:13:43.80,0:13:43.84,Default,,0,0,0,,{\pos(930.49,1024)}Well?
-Dialogue: 10,0:13:43.84,0:13:43.89,Default,,0,0,0,,{\pos(935.93,1024)}Well?
-Dialogue: 10,0:13:43.89,0:13:43.93,Default,,0,0,0,,{\pos(946.97,1024)}Well?
-Dialogue: 10,0:13:43.93,0:13:43.97,Default,,0,0,0,,{\pos(958.96,1024)}Well?
-Dialogue: 10,0:13:43.97,0:13:44.01,Default,,0,0,0,,{\pos(965.47,1024)}Well?
-Dialogue: 10,0:13:44.01,0:13:44.05,Default,,0,0,0,,Well?
-Dialogue: 10,0:13:44.05,0:13:44.09,Default,,0,0,0,,{\pos(947.13,1024)}Well?
-Dialogue: 10,0:13:44.09,0:13:44.14,Default,,0,0,0,,{\pos(935.13,1024)}Well?
-Dialogue: 10,0:13:44.14,0:13:44.18,Default,,0,0,0,,{\pos(930.78,1024)}Well?
-Dialogue: 10,0:13:44.18,0:13:44.22,Default,,0,0,0,,{\pos(936.14,1024)}Well?
-Dialogue: 10,0:13:44.22,0:13:44.26,Default,,0,0,0,,{\pos(947.29,1024)}Well?
-Dialogue: 10,0:13:44.26,0:13:44.30,Default,,0,0,0,,{\pos(959.29,1024)}Well?
+Dialogue: 10,0:13:32.58,0:13:34.25,Alt,,0,0,0,,What do you need now?
+Dialogue: 10,0:13:34.21,0:13:34.25,Default,,0,0,0,,{\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.25,0:13:34.29,Default,,0,0,0,,{\pos(957.76,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.29,0:13:34.33,Default,,0,0,0,,{\pos(956.76,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.33,0:13:34.38,Default,,0,0,0,,{\pos(957.77,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.38,0:13:34.42,Default,,0,0,0,,{\pos(960.01,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.42,0:13:34.46,Default,,0,0,0,,{\pos(962.25,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.46,0:13:34.50,Default,,0,0,0,,{\pos(963.22,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.50,0:13:34.54,Default,,0,0,0,,{\pos(962.23,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.54,0:13:34.59,Default,,0,0,0,,{\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.59,0:13:34.63,Default,,0,0,0,,{\pos(957.74,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.63,0:13:34.67,Default,,0,0,0,,{\pos(956.73,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.67,0:13:34.71,Default,,0,0,0,,{\pos(957.74,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.71,0:13:34.75,Default,,0,0,0,,{\pos(959.98,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.75,0:13:34.79,Default,,0,0,0,,{\pos(962.23,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.79,0:13:34.84,Default,,0,0,0,,{\pos(963.22,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.84,0:13:34.88,Default,,0,0,0,,{\pos(962.23,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.88,0:13:34.92,Default,,0,0,0,,{\pos(960.02,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.92,0:13:34.96,Default,,0,0,0,,{\pos(957.76,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:34.96,0:13:35.00,Default,,0,0,0,,{\pos(956.76,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.00,0:13:35.04,Default,,0,0,0,,{\pos(957.76,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.04,0:13:35.09,Default,,0,0,0,,{\pos(960.01,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.09,0:13:35.13,Default,,0,0,0,,{\pos(962.25,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.13,0:13:35.17,Default,,0,0,0,,{\pos(963.23,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.17,0:13:35.21,Default,,0,0,0,,{\pos(962.24,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.21,0:13:35.25,Default,,0,0,0,,{\pos(960.03,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.25,0:13:35.29,Default,,0,0,0,,{\pos(957.79,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.29,0:13:35.34,Default,,0,0,0,,{\pos(956.78,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.34,0:13:35.38,Default,,0,0,0,,{\pos(957.76,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.38,0:13:35.42,Default,,0,0,0,,{\pos(960.02,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.42,0:13:35.46,Default,,0,0,0,,{\pos(962.25,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.46,0:13:35.50,Default,,0,0,0,,{\pos(963.27,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.50,0:13:35.54,Default,,0,0,0,,{\pos(962.26,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.54,0:13:35.59,Default,,0,0,0,,{\pos(960.04,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.59,0:13:35.63,Default,,0,0,0,,{\pos(957.77,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.63,0:13:35.67,Default,,0,0,0,,{\pos(956.76,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.67,0:13:35.71,Default,,0,0,0,,{\pos(957.75,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.71,0:13:35.75,Default,,0,0,0,,{\pos(960.01,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.75,0:13:35.79,Default,,0,0,0,,{\pos(962.23,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.79,0:13:35.84,Default,,0,0,0,,{\pos(963.2,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.84,0:13:35.88,Default,,0,0,0,,{\pos(962.21,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.88,0:13:35.92,Default,,0,0,0,,{\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.92,0:13:35.96,Default,,0,0,0,,{\pos(957.76,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:35.96,0:13:36.00,Default,,0,0,0,,{\pos(956.75,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.00,0:13:36.05,Default,,0,0,0,,{\pos(957.76,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.05,0:13:36.09,Default,,0,0,0,,{\pos(960.03,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.09,0:13:36.13,Default,,0,0,0,,{\pos(962.26,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.13,0:13:36.17,Default,,0,0,0,,{\pos(963.24,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.17,0:13:36.21,Default,,0,0,0,,{\pos(962.24,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.21,0:13:36.25,Default,,0,0,0,,{\pos(960.01,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.25,0:13:36.30,Default,,0,0,0,,{\pos(957.76,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.30,0:13:36.34,Default,,0,0,0,,{\pos(956.76,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.34,0:13:36.38,Default,,0,0,0,,{\pos(957.77,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.38,0:13:36.42,Default,,0,0,0,,{\pos(960.03,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.42,0:13:36.46,Default,,0,0,0,,{\pos(962.27,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.46,0:13:36.50,Default,,0,0,0,,{\pos(963.24,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.50,0:13:36.55,Default,,0,0,0,,{\pos(962.25,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.55,0:13:36.59,Default,,0,0,0,,{\pos(960.06,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.59,0:13:36.63,Default,,0,0,0,,{\pos(957.81,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.63,0:13:36.67,Default,,0,0,0,,{\pos(956.81,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.67,0:13:36.71,Default,,0,0,0,,{\pos(957.78,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.71,0:13:36.75,Default,,0,0,0,,{\pos(960.04,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.75,0:13:36.80,Default,,0,0,0,,{\pos(962.29,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.80,0:13:36.84,Default,,0,0,0,,{\pos(963.25,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.84,0:13:36.88,Default,,0,0,0,,{\pos(962.27,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.88,0:13:36.92,Default,,0,0,0,,{\pos(960.05,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.92,0:13:36.96,Default,,0,0,0,,{\pos(957.8,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:36.96,0:13:37.00,Default,,0,0,0,,{\pos(956.8,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.00,0:13:37.05,Default,,0,0,0,,{\pos(957.8,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.05,0:13:37.09,Default,,0,0,0,,{\pos(960.05,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.09,0:13:37.13,Default,,0,0,0,,{\pos(962.3,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.13,0:13:37.17,Default,,0,0,0,,{\pos(963.28,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.17,0:13:37.21,Default,,0,0,0,,{\pos(962.28,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.21,0:13:37.25,Default,,0,0,0,,{\pos(960.07,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.25,0:13:37.30,Default,,0,0,0,,{\pos(957.83,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.30,0:13:37.34,Default,,0,0,0,,{\pos(956.83,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.34,0:13:37.38,Default,,0,0,0,,{\pos(957.84,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.38,0:13:37.42,Default,,0,0,0,,{\pos(960.08,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.42,0:13:37.46,Default,,0,0,0,,{\pos(962.32,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.46,0:13:37.50,Default,,0,0,0,,{\pos(963.32,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.50,0:13:37.55,Default,,0,0,0,,{\pos(962.31,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.55,0:13:37.59,Default,,0,0,0,,{\pos(960.09,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.59,0:13:37.63,Default,,0,0,0,,{\pos(957.85,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.63,0:13:37.67,Default,,0,0,0,,{\pos(956.84,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.67,0:13:37.71,Default,,0,0,0,,{\pos(957.85,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.71,0:13:37.76,Default,,0,0,0,,{\pos(960.1,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.76,0:13:37.80,Default,,0,0,0,,{\pos(962.35,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.80,0:13:37.84,Default,,0,0,0,,{\pos(963.33,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.84,0:13:37.88,Default,,0,0,0,,{\pos(962.33,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.88,0:13:37.92,Default,,0,0,0,,{\pos(960.12,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.92,0:13:37.96,Default,,0,0,0,,{\pos(957.88,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:37.96,0:13:38.01,Default,,0,0,0,,{\pos(956.87,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:38.01,0:13:38.05,Default,,0,0,0,,{\pos(957.89,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:38.05,0:13:38.09,Default,,0,0,0,,{\pos(960.13,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:38.09,0:13:38.13,Default,,0,0,0,,{\pos(962.37,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:38.13,0:13:38.26,Default,,0,0,0,,{\pos(963.37,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:38.26,0:13:39.76,Default,,0,0,0,,{\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:39.76,0:13:39.84,Default,,0,0,0,,{\pos(976.49,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:39.84,0:13:39.88,Default,,0,0,0,,{\pos(988.48,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:39.88,0:13:39.92,Default,,0,0,0,,{\pos(995,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:39.92,0:13:39.97,Default,,0,0,0,,{\pos(989.49,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:39.97,0:13:40.01,Default,,0,0,0,,{\pos(976.56,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.01,0:13:40.05,Default,,0,0,0,,{\pos(964.58,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.05,0:13:40.09,Default,,0,0,0,,{\pos(960.14,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.09,0:13:40.13,Default,,0,0,0,,{\pos(965.65,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.13,0:13:40.17,Default,,0,0,0,,{\pos(976.73,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.17,0:13:40.22,Default,,0,0,0,,{\pos(988.73,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.22,0:13:40.26,Default,,0,0,0,,{\pos(995.11,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.26,0:13:40.30,Default,,0,0,0,,{\pos(989.68,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.30,0:13:40.34,Default,,0,0,0,,{\pos(976.79,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.34,0:13:40.38,Default,,0,0,0,,{\pos(964.81,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.38,0:13:40.42,Default,,0,0,0,,{\pos(960.4,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.42,0:13:40.47,Default,,0,0,0,,{\pos(965.86,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.47,0:13:40.51,Default,,0,0,0,,{\pos(976.9,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.51,0:13:40.55,Default,,0,0,0,,{\pos(988.97,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.55,0:13:40.59,Default,,0,0,0,,{\pos(995.51,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.59,0:13:40.63,Default,,0,0,0,,{\pos(990.05,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.63,0:13:40.67,Default,,0,0,0,,{\pos(977.08,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.67,0:13:40.72,Default,,0,0,0,,{\pos(965.02,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.72,0:13:40.76,Default,,0,0,0,,{\pos(960.56,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.76,0:13:40.80,Default,,0,0,0,,{\pos(966.06,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.80,0:13:40.84,Default,,0,0,0,,{\pos(977.1,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.84,0:13:40.88,Default,,0,0,0,,{\pos(989.11,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.88,0:13:40.92,Default,,0,0,0,,{\pos(995.53,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.92,0:13:40.97,Default,,0,0,0,,{\pos(990.05,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:40.97,0:13:41.01,Default,,0,0,0,,{\pos(977.21,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:41.01,0:13:41.05,Default,,0,0,0,,{\pos(965.2,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:41.05,0:13:41.09,Default,,0,0,0,,{\pos(960.69,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:41.09,0:13:41.13,Default,,0,0,0,,{\pos(966.22,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:41.13,0:13:41.18,Default,,0,0,0,,{\pos(977.27,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:41.18,0:13:41.22,Default,,0,0,0,,{\pos(989.28,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:41.22,0:13:41.26,Default,,0,0,0,,{\pos(995.73,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:41.26,0:13:41.30,Default,,0,0,0,,{\pos(990.29,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:41.30,0:13:41.34,Default,,0,0,0,,{\pos(977.49,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:41.34,0:13:41.38,Default,,0,0,0,,{\pos(965.43,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:41.38,0:13:41.43,Default,,0,0,0,,{\pos(960.9,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:41.43,0:13:41.47,Default,,0,0,0,,{\pos(966.46,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:41.47,0:13:41.51,Default,,0,0,0,,{\pos(977.59,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:41.51,0:13:41.55,Default,,0,0,0,,{\pos(989.59,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:41.55,0:13:41.59,Default,,0,0,0,,{\pos(996.02,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:41.59,0:13:41.63,Default,,0,0,0,,{\pos(990.69,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:41.63,0:13:41.76,Default,,0,0,0,,{\pos(977.71,1024)\q2}Ten minutes of standing on this, \Nand it's like getting a full workout!
+Dialogue: 10,0:13:42.55,0:13:43.51,Default,,0,0,0,,Cool, right?
+Dialogue: 10,0:13:43.51,0:13:43.59,Default,,0,0,0,,{\pos(946.84,1024)}Cool, right?
+Dialogue: 10,0:13:43.59,0:13:43.64,Default,,0,0,0,,{\pos(958.81,1024)}Cool, right?
+Dialogue: 10,0:13:43.64,0:13:43.68,Default,,0,0,0,,{\pos(965.29,1024)}Cool, right?
+Dialogue: 10,0:13:43.68,0:13:43.72,Default,,0,0,0,,{\pos(959.85,1024)}Cool, right?
+Dialogue: 10,0:13:43.72,0:13:43.76,Default,,0,0,0,,{\pos(946.89,1024)}Cool, right?
+Dialogue: 10,0:13:43.76,0:13:43.80,Default,,0,0,0,,{\pos(934.91,1024)}Cool, right?
+Dialogue: 10,0:13:43.80,0:13:43.84,Default,,0,0,0,,{\pos(930.49,1024)}Cool, right?
+Dialogue: 10,0:13:43.84,0:13:43.89,Default,,0,0,0,,{\pos(935.93,1024)}Cool, right?
+Dialogue: 10,0:13:43.89,0:13:43.93,Default,,0,0,0,,{\pos(946.97,1024)}Cool, right?
+Dialogue: 10,0:13:43.93,0:13:43.97,Default,,0,0,0,,{\pos(958.96,1024)}Cool, right?
+Dialogue: 10,0:13:43.97,0:13:44.01,Default,,0,0,0,,{\pos(965.47,1024)}Cool, right?
+Dialogue: 10,0:13:44.01,0:13:44.05,Default,,0,0,0,,Cool, right?
+Dialogue: 10,0:13:44.05,0:13:44.09,Default,,0,0,0,,{\pos(947.13,1024)}Cool, right?
+Dialogue: 10,0:13:44.09,0:13:44.14,Default,,0,0,0,,{\pos(935.13,1024)}Cool, right?
+Dialogue: 10,0:13:44.14,0:13:44.18,Default,,0,0,0,,{\pos(930.78,1024)}Cool, right?
+Dialogue: 10,0:13:44.18,0:13:44.22,Default,,0,0,0,,{\pos(936.14,1024)}Cool, right?
+Dialogue: 10,0:13:44.22,0:13:44.26,Default,,0,0,0,,{\pos(947.29,1024)}Cool, right?
+Dialogue: 10,0:13:44.26,0:13:44.30,Default,,0,0,0,,{\pos(959.29,1024)}Cool, right?
 Dialogue: 10,0:13:44.30,0:13:44.34,Default,,0,0,0,,{\pos(965.82,1024)}You should give it a try, too!
 Dialogue: 10,0:13:44.34,0:13:44.39,Default,,0,0,0,,{\pos(960.27,1024)}You should give it a try, too!
 Dialogue: 10,0:13:44.39,0:13:44.43,Default,,0,0,0,,{\pos(947.46,1024)}You should give it a try, too!
@@ -423,14 +418,14 @@ Dialogue: 10,0:13:45.01,0:13:46.76,Default,,0,0,0,,You should give it a try, too
 Dialogue: 10,0:13:48.77,0:13:50.10,Default,,0,0,0,,{\i1}Oh, my God!
 Dialogue: 10,0:13:50.10,0:13:53.02,Default,,0,0,0,,{\i1}You're such an idiot!
 Dialogue: 10,0:13:55.23,0:13:57.27,Default,,0,0,0,,Whoa! Check it out!
-Dialogue: 10,0:13:58.28,0:14:00.28,Default,,0,0,0,,What is it this time?
-Dialogue: 10,0:14:00.28,0:14:03.07,Default,,0,0,0,,Look! It's VR! VR!
+Dialogue: 10,0:13:58.28,0:14:00.28,Default,,0,0,0,,What is it {\i1}this{\i0} time?
+Dialogue: 10,0:14:00.28,0:14:03.07,Default,,0,0,0,,Look! It's VR!
 Dialogue: 10,0:14:03.07,0:14:05.45,Default,,0,0,0,,Huh! So this is virtual reality...
 Dialogue: 10,0:14:05.45,0:14:07.45,Default,,0,0,0,,Would you like to try it out?
-Dialogue: 10,0:14:07.45,0:14:09.66,Default,,0,0,0,,Yes! I wanna give it a try!
+Dialogue: 10,0:14:07.45,0:14:09.66,Default,,0,0,0,,Yes! I wanna!
 Dialogue: 10,0:14:17.25,0:14:19.09,Default,,0,0,0,,My screen turns when I turn!
 Dialogue: 10,0:14:19.09,0:14:20.80,Default,,0,0,0,,VR is amazing!
-Dialogue: 10,0:14:20.80,0:14:22.51,Default,,0,0,0,,This is really cool, {*}Sakurai{*Senpai}!
+Dialogue: 10,0:14:20.80,0:14:22.51,Default,,0,0,0,,This is seriously cool, {*}Sakurai{*Senpai}!
 Dialogue: 10,0:14:23.30,0:14:25.93,Default,,0,0,0,,Okay, okay. You don't need to yell.
 Dialogue: 10,0:14:27.51,0:14:29.26,Default,,0,0,0,,My weapon! No! Not this one!
 Dialogue: 10,0:14:29.26,0:14:30.81,Default,,0,0,0,,Ammo! I'm outta ammo!
@@ -440,21 +435,21 @@ Dialogue: 10,0:14:34.06,0:14:35.94,Default,,0,0,0,,Here they come! Look at 'em a
 Dialogue: 10,0:14:38.23,0:14:40.40,Default,,0,0,0,,Your reactions are the best.
 Dialogue: 10,0:14:40.40,0:14:42.19,Default,,0,0,0,,They should put you in a commer—
 Dialogue: 10,0:14:46.99,0:14:48.08,Default,,0,0,0,,I died!
-Dialogue: 10,0:14:48.08,0:14:50.62,Default,,0,0,0,,Wow, VR is so cool!
-Dialogue: 10,0:14:50.62,0:14:52.45,Default,,0,0,0,,Er, are you all right?
-Dialogue: 10,0:14:52.45,0:14:54.12,Default,,0,0,0,,I'm fine.
+Dialogue: 10,0:14:48.08,0:14:50.62,Default,,0,0,0,,Wow, VR is {\i1}so{\i0} cool!
+Dialogue: 10,0:14:50.62,0:14:52.45,Default,,0,0,0,,Err, are you all right?
+Dialogue: 10,0:14:52.45,0:14:54.12,Default,,0,0,0,,I'm okay.
 Dialogue: 10,0:14:56.50,0:14:58.59,Default,,0,0,0,,What's wrong, {*}Sakurai{*Senpai}?
-Dialogue: 10,0:14:58.59,0:15:01.17,Default,,0,0,0,,Um, would your boyfriend like to have a turn?
+Dialogue: 10,0:14:58.59,0:15:01.17,Default,,0,0,0,,Uhm, would your boyfriend like to have a turn?
 Dialogue: 10,0:15:01.17,0:15:03.09,Default,,0,0,0,,I'm not her boyfriend.
 Dialogue: 10,0:15:03.09,0:15:04.97,Default,,0,0,0,,But... okay.
-Dialogue: 10,0:15:07.85,0:15:09.76,Default,,0,0,0,,Something not so dangerous.
-Dialogue: 10,0:15:13.68,0:15:16.23,Default,,0,0,0,,These ocean graphics are something else!
-Dialogue: 10,0:15:16.23,0:15:19.36,Default,,0,0,0,,Hey, you look like a normal person with those goggles.
+Dialogue: 10,0:15:07.85,0:15:09.76,Default,,0,0,0,,Something not so dangerous this time, please.
+Dialogue: 10,0:15:13.68,0:15:16.23,Default,,0,0,0,,These ocean graphics are next-level!
+Dialogue: 10,0:15:16.23,0:15:19.36,Default,,0,0,0,,{\q2}Hey, you almost look like a normal \Nhuman being with those goggles!
 Dialogue: 10,0:15:19.36,0:15:20.98,Default,,0,0,0,,They hide your mean look!
 Dialogue: 10,0:15:20.98,0:15:22.78,Default,,0,0,0,,Shut it, dimwit.
 Dialogue: 10,0:15:23.40,0:15:24.19,Default,,0,0,0,,Whoa!
-Dialogue: 10,0:15:24.19,0:15:25.61,Default,,0,0,0,,That's huge! A giant shark!
-Dialogue: 10,0:15:25.61,0:15:27.24,Default,,0,0,0,,Wait, isn't it swimming this way?
+Dialogue: 10,0:15:24.19,0:15:25.61,Default,,0,0,0,,That's one big, mean shark!
+Dialogue: 10,0:15:25.61,0:15:27.24,Default,,0,0,0,,Isn't it swimming this way?
 Dialogue: 10,0:15:27.24,0:15:28.49,Default,,0,0,0,,Huh? Is it?!
 Dialogue: 10,0:15:29.24,0:15:33.04,Default,,0,0,0,,I-It's biting me! It's totally biting me! Yow!
 Dialogue: 10,0:15:33.75,0:15:35.66,Default,,0,0,0,,You're way too scared!
@@ -469,26 +464,26 @@ Dialogue: 10,0:15:52.64,0:15:54.68,Default,,0,0,0,,{\pos(676,876)}A jellyfish? O
 Dialogue: 10,0:15:54.68,0:15:56.02,Default,,0,0,0,,{\pos(652,876)}It's so big. And soft!
 Dialogue: 10,0:15:56.02,0:15:57.02,Default,,0,0,0,,{\pos(652,876)}And kind of frightening!
 Dialogue: 10,0:16:01.02,0:16:04.19,Default,,0,0,0,,{\q2}I never thought much of VR, \Nbut damn! It's out of this world!
-Dialogue: 10,0:16:04.19,0:16:07.40,Default,,0,0,0,,It's so powerful—and even reproduces touch!
+Dialogue: 10,0:16:04.19,0:16:07.40,Default,,0,0,0,,It's so powerful—It even reproduces touch!
 Dialogue: 10,0:16:07.40,0:16:08.78,Default,,0,0,0,,Are you all right, Miss?
 Dialogue: 10,0:16:08.78,0:16:11.66,Default,,0,0,0,,Yeah, it's okay. I'm fine.
-Dialogue: 10,0:16:22.88,0:16:26.22,Default,,0,0,0,,You said VR made you want to do something physical,
-Dialogue: 10,0:16:26.22,0:16:29.26,Default,,0,0,0,,and here you are, excitedly racking up a pile of strikes!
-Dialogue: 10,0:16:29.26,0:16:30.51,Default,,0,0,0,,Focus!
-Dialogue: 10,0:16:30.51,0:16:32.05,Default,,0,0,0,,Will you shut up for once?
+Dialogue: 10,0:16:22.88,0:16:26.22,Default,,0,0,0,,{\q2}I know you said VR made you want to \Ndo some physical workouts or whatnot,
+Dialogue: 10,0:16:26.22,0:16:29.26,Default,,0,0,0,,but I was expecting you to actually {\i1}hit{\i0} some stuff!
+Dialogue: 10,0:16:29.26,0:16:30.51,Default,,0,0,0,,You gotta focus!
+Dialogue: 10,0:16:30.51,0:16:32.05,Default,,0,0,0,,Maybe if you shut up for once, I would.
 Dialogue: 10,0:16:32.05,0:16:33.93,Default,,0,0,0,,C'mon, here comes the next one!
 Dialogue: 10,0:16:33.93,0:16:36.18,Default,,0,0,0,,You can do it! Knock it out of the park! Home run!
 Dialogue: 10,0:16:36.18,0:16:38.19,Default,,0,0,0,,That's enough out of—
 Dialogue: 10,0:16:40.23,0:16:42.56,Default,,0,0,0,,That {\i1}so{\i0} didn't fly straight!
 Dialogue: 10,0:16:44.65,0:16:45.65,Default,,0,0,0,,Dammit.
-Dialogue: 10,0:16:45.65,0:16:49.07,Default,,0,0,0,,You said you did this before. You totally didn't!
-Dialogue: 10,0:16:49.07,0:16:51.78,Default,,0,0,0,,You really tick me off, dammit.
+Dialogue: 10,0:16:45.65,0:16:49.07,Default,,0,0,0,,You said you did this before, but I ain't seeing it!
+Dialogue: 10,0:16:49.07,0:16:51.78,Default,,0,0,0,,You really tick me off.
 Dialogue: 10,0:16:51.78,0:16:54.66,Default,,0,0,0,,I played for one year in junior high.
 Dialogue: 10,0:16:54.66,0:16:56.83,Default,,0,0,0,,Ooh! I wanna try, too!
 Dialogue: 10,0:16:56.83,0:16:59.29,Default,,0,0,0,,Here's my card. There's still some on there.
-Dialogue: 10,0:16:59.29,0:17:00.29,Default,,0,0,0,,Thanks!
+Dialogue: 10,0:16:59.29,0:17:00.29,Default,,0,0,0,,Thanksies!
 Dialogue: 10,0:17:01.96,0:17:04.59,Default,,0,0,0,,Don't stand too close or the ball will hit you.
-Dialogue: 10,0:17:04.96,0:17:06.00,Default,,0,0,0,,Got it!
+Dialogue: 10,0:17:04.96,0:17:06.00,Default,,0,0,0,,Okey-dokey!
 Dialogue: 10,0:17:06.00,0:17:08.59,Default,,0,0,0,,If I hit a home run, dinner's on you!
 Dialogue: 10,0:17:08.59,0:17:10.34,Default,,0,0,0,,Eyes forward! You wanna get hurt?
 Dialogue: 10,0:17:10.63,0:17:12.47,Default,,0,0,0,,Okay...
@@ -503,7 +498,7 @@ Dialogue: 10,0:17:37.70,0:17:41.33,Default,,0,0,0,,Are you nuts, whipping out a 
 Dialogue: 10,0:17:41.33,0:17:42.92,Default,,0,0,0,,On your back, right now!
 Dialogue: 10,0:17:43.21,0:17:44.84,Default,,0,0,0,,I could feel it crack...
 Dialogue: 10,0:17:44.84,0:17:46.17,Default,,0,0,0,,Yeah, I'll say!
-Dialogue: 10,0:17:46.17,0:17:48.84,Default,,0,0,0,,I copied you
+Dialogue: 10,0:17:46.17,0:17:48.84,Default,,0,0,0,,I copied you,
 Dialogue: 10,0:17:48.84,0:17:50.67,Default,,0,0,0,,and look where it got me...
 Dialogue: 10,0:17:50.92,0:17:54.22,Default,,0,0,0,,{\q2}A novice can't just start putting \Ntheir hips into a swing!
 Dialogue: 10,0:17:54.22,0:17:56.18,Default,,0,0,0,,Of course you're gonna hurt yourself, moron!
@@ -517,14 +512,14 @@ Dialogue: 10,0:18:12.36,0:18:14.49,Default,,0,0,0,,Learn to give up!
 Dialogue: 10,0:18:17.41,0:18:18.87,Default,,0,0,0,,Let's eat!
 Dialogue: 10,0:18:19.75,0:18:24.96,Default,,0,0,0,,{\q2}Since you can walk fine on your own, \Nit's probably nothing serious.
 Dialogue: 10,0:18:25.58,0:18:28.63,Default,,0,0,0,,If it still hurts tomorrow, see a doctor.
-Dialogue: 10,0:18:28.63,0:18:31.47,Default,,0,0,0,,And you really should head home now and go sleep.
+Dialogue: 10,0:18:28.63,0:18:31.47,Default,,0,0,0,,And you really should head home now and sleep.
 Dialogue: 10,0:18:31.47,0:18:33.47,Default,,0,0,0,,I'll be fine.
 Dialogue: 10,0:18:33.88,0:18:35.47,Default,,0,0,0,,Yummy-yum-yum.
 Dialogue: 10,0:18:35.47,0:18:38.06,Default,,0,0,0,,You're seriously out of shape, aren't you?
 Dialogue: 10,0:18:38.06,0:18:41.22,Default,,0,0,0,,A fit person wouldn't have gotten injured like that.
-Dialogue: 10,0:18:42.77,0:18:45.81,Default,,0,0,0,,What did you expect? I'm just starting out!
+Dialogue: 10,0:18:42.77,0:18:45.81,Default,,0,0,0,,What'd you expect? I'm just starting out!
 Dialogue: 10,0:18:45.81,0:18:49.02,Default,,0,0,0,,Beginners need to warm up, at least.
-Dialogue: 10,0:18:49.02,0:18:50.98,Default,,0,0,0,,Back injuries are a big deal.
+Dialogue: 10,0:18:49.02,0:18:50.98,Default,,0,0,0,,Back injuries are a serious deal.
 Dialogue: 10,0:18:52.24,0:18:53.49,Default,,0,0,0,,Fine.
 Dialogue: 10,0:18:53.99,0:18:58.87,Default,,0,0,0,,{\q2}You realise that this never would've happened \Nif you hadn't forced your way along, ri—
 Dialogue: 10,0:18:58.87,0:18:59.62,Default,,0,0,0,,Huh?
@@ -561,9 +556,9 @@ Dialogue: 10,0:20:16.24,0:20:18.95,Default,,0,0,0,,Here's your chicken.
 Dialogue: 10,0:20:22.70,0:20:23.54,Default,,0,0,0,,Again?!
 Dialogue: 10,0:20:23.54,0:20:24.83,Default,,0,0,0,,Stingy!
 Dialogue: 10,0:20:34.17,0:20:36.47,Default,,0,0,0,,{*}Sakurai{*Senpai}!
-Dialogue: 10,0:20:36.47,0:20:38.30,Default,,0,0,0,,Good morning!
+Dialogue: 10,0:20:36.47,0:20:38.30,Default,,0,0,0,,Good mornsies!
 Dialogue: 10,0:20:38.30,0:20:39.26,Default,,0,0,0,,Hey.
-Dialogue: 10,0:20:39.97,0:20:42.35,Default,,0,0,0,,I had fun yesterday!
+Dialogue: 10,0:20:39.97,0:20:42.35,Default,,0,0,0,,I had a good time yesterday!
 Dialogue: 10,0:20:42.35,0:20:43.39,Default,,0,0,0,,What?
 Dialogue: 10,0:20:43.39,0:20:45.52,Default,,0,0,0,,All you did was hurt your back.
 Dialogue: 10,0:20:45.52,0:20:46.22,Default,,0,0,0,,Huh?
@@ -580,8 +575,8 @@ Dialogue: 10,0:21:14.54,0:21:15.67,Default,,0,0,0,,Aw.
 Dialogue: 10,0:21:15.67,0:21:17.76,Default,,0,0,0,,Next time, then!
 Dialogue: 10,0:21:18.22,0:21:20.76,Default,,0,0,0,,{\i1}"Next time", huh?
 Dialogue: 10,0:21:21.13,0:21:26.77,Default,,0,0,0,,{\i1\q2}This idiot really doesn't let a little pain \Nget in the way of having fun.
-Dialogue: 10,0:21:27.77,0:21:30.77,Default,,0,0,0,,{\i1}I don't know when she got like this...
-Dialogue: 10,0:21:34.48,0:21:37.03,Default,,0,0,0,,Like this? Or like this?
+Dialogue: 10,0:21:27.77,0:21:30.77,Default,,0,0,0,,{\i1}I don't know what caused her to change so much, but...
+Dialogue: 10,0:21:34.48,0:21:37.03,Default,,0,0,0,,Like this? Or like this, maybe?
 Dialogue: 10,0:21:37.57,0:21:39.90,Default,,0,0,0,,{\i1}Well, at least I won't be bored.
 Dialogue: 10,0:21:39.90,0:21:42.20,Default,,0,0,0,,{\i1}I can put up with her a little, I guess.
 Dialogue: 10,0:21:42.20,0:21:44.74,Default,,0,0,0,,Yeah, next time.
@@ -592,7 +587,7 @@ Dialogue: 10,0:21:49.29,0:21:51.41,Default,,0,0,0,,My back still hurts!
 Dialogue: 10,0:21:51.41,0:21:53.29,Default,,0,0,0,,It's all your fault, y'know!
 Dialogue: 10,0:21:53.29,0:21:55.42,Default,,0,0,0,,Phrasing!
 Dialogue: 10,0:21:55.79,0:21:58.42,Default,,0,0,0,,It even hurts to walk! Carry me!
-Dialogue: 10,0:21:58.42,0:22:00.92,Default,,0,0,0,,C'mon, it's your fault!
+Dialogue: 10,0:21:58.42,0:22:00.92,Default,,0,0,0,,C'mon, learn to take some responsibility!
 Dialogue: 10,0:22:00.92,0:22:03.72,Default,,0,0,0,,Shut up!
 Comment: 0,0:23:34.93,0:23:34.93,Default,chapter,0,0,0,,{Preview}
 Dialogue: 10,0:23:35.81,0:23:38.10,Default,,0,0,0,,Next time we'll meet the café owner!
